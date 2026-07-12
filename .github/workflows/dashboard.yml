@@ -1,0 +1,44 @@
+name: Update TNM Buy Box Dashboard
+
+on:
+  schedule:
+    # Runs at 03:30 UTC (~9:00 AM IST) and 12:30 UTC (~6:00 PM IST)
+    # Adjust these two lines to change the times - no other code changes needed
+    - cron: '30 3 * * *'
+    - cron: '30 12 * * *'
+  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install python-amazon-sp-api pandas requests
+
+      - name: Run dashboard generator
+        env:
+          SP_API_REFRESH_TOKEN: ${{ secrets.SP_API_REFRESH_TOKEN }}
+          SP_API_LWA_APP_ID: ${{ secrets.SP_API_LWA_APP_ID }}
+          SP_API_LWA_CLIENT_SECRET: ${{ secrets.SP_API_LWA_CLIENT_SECRET }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python generate_dashboard.py
+
+      - name: Commit and push updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html docs/details.csv data/history.csv
+          git diff --quiet --cached || git commit -m "Auto-update dashboard $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
