@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>TNM Buy Box Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: Arial, Helvetica, sans-serif; background: #f4f6f8; margin: 0; padding: 24px; color: #222; }
+  h1 { margin-bottom: 4px; }
+  .updated { color: #666; margin-bottom: 24px; font-size: 14px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 32px; }
+  .card { background: white; border-radius: 8px; padding: 18px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; }
+  .card-value { font-size: 28px; font-weight: bold; color: #2F5496; }
+  .card-label { font-size: 13px; color: #444; margin-top: 4px; }
+  .card-sub { font-size: 11px; color: #888; margin-top: 2px; }
+  table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 32px;}
+  th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid #eee; font-size: 13px; }
+  th { background: #2F5496; color: white; }
+  .section-title { margin-top: 32px; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+  <h1>TNM Buy Box Dashboard</h1>
+  <div class="updated">Last updated: 2026-07-12 18:37 UTC</div>
+
+  <div class="cards">
+    
+        <div class="card">
+            <div class="card-value">1192</div>
+            <div class="card-label">Total Listings Tracked</div>
+            <div class="card-sub"></div>
+        </div>
+        <div class="card">
+            <div class="card-value">0.0%</div>
+            <div class="card-label">Buy Box Win Rate</div>
+            <div class="card-sub">0 won / 758 lost</div>
+        </div>
+        <div class="card">
+            <div class="card-value">0</div>
+            <div class="card-label">Close to Winning (&lt;Rs 50)</div>
+            <div class="card-sub">gap to Buy Box under Rs 50</div>
+        </div>
+        <div class="card">
+            <div class="card-value">0</div>
+            <div class="card-label">Close to Winning (Rs 50-100)</div>
+            <div class="card-sub">gap to Buy Box Rs 50-100</div>
+        </div>
+        <div class="card">
+            <div class="card-value">0</div>
+            <div class="card-label">Far from Winning (&gt;Rs 100)</div>
+            <div class="card-sub">gap to Buy Box over Rs 100</div>
+        </div>
+        <div class="card">
+            <div class="card-value">0</div>
+            <div class="card-label">Room to Raise Price</div>
+            <div class="card-sub">winning by more than Rs 100</div>
+        </div>
+        <div class="card">
+            <div class="card-value">550</div>
+            <div class="card-label">Single-Offer Listings</div>
+            <div class="card-sub">no real competition</div>
+        </div>
+        <div class="card">
+            <div class="card-value">434</div>
+            <div class="card-label">Fetch Errors</div>
+            <div class="card-sub">ASINs that failed to fetch</div>
+        </div>
+  </div>
+
+  <h2 class="section-title">Listings by Shipping/Delivery Type</h2>
+  <table>
+    <tr><th>Listing Type</th><th>Count</th></tr>
+    <tr><td>Only Delivery</td><td>793</td></tr><tr><td>Fitment/Installation</td><td>399</td></tr>
+  </table>
+
+  <h2 class="section-title">Top 20 Listings Furthest From Winning the Buy Box</h2>
+  <table>
+    <tr><th>Title</th><th>ASIN</th><th>Your Price</th><th>Buy Box Price</th><th>Gap (Rs)</th></tr>
+    <tr>
+            <td>100/90-18 ZOOM CRUZ F TT 56H, Black</td>
+            <td>B09442VGVR</td>
+            <td>2469.0</td>
+            <td>2469.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo ALNAC 4G 205/50 R17 93H Tubeless Car Tyre</td>
+            <td>B07N8Z54YY</td>
+            <td>9220.0</td>
+            <td>9220.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo AMAZER 4G LIFE 175/65 R14 82T Tubetype Car Tyre</td>
+            <td>B07N8YLHTW</td>
+            <td>4946.0</td>
+            <td>4946.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo APTERRA H/T2 215/75 R15 100T Tubeless Car Tyre</td>
+            <td>B07N8XPWBM</td>
+            <td>6272.0</td>
+            <td>6272.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4G 185/70 R14 88H Tubeless Car Tyre</td>
+            <td>B01IIQQK2O</td>
+            <td>4803.0</td>
+            <td>4620.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4G 195/55 R15 85H Tubeless Car Tyre</td>
+            <td>B08WWRSZ5P</td>
+            <td>5660.0</td>
+            <td>5660.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4G 195/55 R16 87V Tubeless Car Tyre Set of 3</td>
+            <td>B0D5J2GP2S</td>
+            <td>6986.0</td>
+            <td>18240.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4G 205/65 R15 94H Tubeless Car Tyre</td>
+            <td>B08QZL7YXD</td>
+            <td>6517.0</td>
+            <td>6500.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4G 205/65% R16 95H Tubeless Car Tyre Set Of 2 T</td>
+            <td>B0963Q8YLM</td>
+            <td>6649.0</td>
+            <td>13000.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4Gs 185/65 R15 88H Tubeless Car Tyre Set of 2</td>
+            <td>B0D5HZF3M7</td>
+            <td>5517.0</td>
+            <td>nan</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac 4Gs 195/65 R15 91H Tubeless Car Tyre</td>
+            <td>B01IIQQMTU</td>
+            <td>6231.0</td>
+            <td>6231.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac155/70 R13 75H Tubeless Car Tyre</td>
+            <td>B01IIQRC9E</td>
+            <td>4191.0</td>
+            <td>4191.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Alnac155/70 R13 75H Tubeless Car Tyre Set of 2</td>
+            <td>B0D5HZKMXN</td>
+            <td>4191.0</td>
+            <td>9999.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer 4G 185/70 R14 88T Tubeless Car Tyre</td>
+            <td>B016D6U22U</td>
+            <td>4854.0</td>
+            <td>4854.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer 4G LIFE 155/70 R13 75T Tubeless Car Tyre</td>
+            <td>B0792G6PF9</td>
+            <td>3661.0</td>
+            <td>3661.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer 4G Life 165/80 R14 85T Tubeless Car Tyre (Set </td>
+            <td>B06WRQTHGC</td>
+            <td>3997.0</td>
+            <td>3840.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer 4G Life 165/80 R14 85T Tubeless Car Tyre (Set </td>
+            <td>B06VV2T8RZ</td>
+            <td>3997.0</td>
+            <td>15299.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer 4G Life 175/65 R14 82T Tubeless Car Tyre (Set </td>
+            <td>B06X6FXY7J</td>
+            <td>4946.0</td>
+            <td>9700.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer 4G Life 205/65 R15 94T Tubeless Car Tyre</td>
+            <td>B016D6U5F4</td>
+            <td>6609.0</td>
+            <td>6609.0</td>
+            <td>None</td>
+        </tr><tr>
+            <td>Apollo Amazer-4G Life 205/65 R16 95T Tubeless Car Tyre</td>
+            <td>B08YQKB2SB</td>
+            <td>6751.0</td>
+            <td>6700.0</td>
+            <td>None</td>
+        </tr>
+  </table>
+
+  <p style="color:#999; font-size:12px;">
+    Auto-generated twice daily. "Gap to Buy Box" = Your Price minus current Buy Box Price
+    (smaller is closer to winning). "Room to Raise Price" = listings you're winning where
+    the next competitor is priced more than Rs 100 above you.
+  </p>
+</body>
+</html>
