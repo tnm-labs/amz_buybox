@@ -1,3 +1,4 @@
 generated_at,total_tracked,errors,buy_box_won,buy_box_lost,buy_box_win_pct,close_to_winning_under_50,close_to_winning_50_to_100,far_from_winning_over_100,won_with_headroom_over_100,single_offer_listings
 2026-07-12T18:37:46.576881+00:00,1192,434,0,758,0.0,0,0,0,0,550
 570,3,370,161,65.3,29,12,94,62,284,2026-07-12T20:55:38.873521+00:00,39.5
+570,3,370,162,65.3,29,12,94,59,285,2026-07-13T13:13:51.202903+00:00,39.5
