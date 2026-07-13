@@ -2,10 +2,9 @@ name: Update TNM Buy Box Dashboard
 
 on:
   schedule:
-    # Runs at 03:30 UTC (~9:00 AM IST) and 12:30 UTC (~6:00 PM IST)
-    # Adjust these two lines to change the times - no other code changes needed
+    # Runs once daily at 03:30 UTC = 9:00 AM IST
+    # Adjust this line to change the time - no other code changes needed
     - cron: '30 3 * * *'
-    - cron: '30 12 * * *'
   workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
 
 permissions:
