@@ -1,571 +1,367 @@
-status,buy_box_price,lowest_price,num_offers,is_buy_box_winner,gap_to_buybox,headroom,ASIN,Title,Brand,Category,Your_Price,Listing_Type,Is_Top_50
-ok,1449.0,1318.0,13.0,False,,,B01FTSFW50,"Ceat Milaze X5 90/100-10 53J Tubeless Scooter Tyre,Front or Rear",CEAT,4W,,Only Delivery,False
-ok,6700.0,7423.0,14.0,False,286.0,,B0C5DD44XZ,Apollo Tyres Alnac 4G 195/55% R16 87H Tubeless Car Tyre,Apollo,4W,6986.0,Only Delivery,False
-ok,6400.0,6213.0,17.0,False,249.0,,B0C5DHGS2L,Apollo Tyres Alnac 4GS 215/60 R16 95H Tubeless Car Tyre,Apollo,4W,6649.0,Only Delivery,False
-ok,2830.0,3084.0,23.0,False,,,B07P2KNKP7,Apollo tyres Amazer 4G Life 145/80% R12 74T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,3540.0,3700.0,19.0,False,,,B0C4FD4L33,Apollo tyres Amazer 4G Life 165/70 R14 81T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,4097.0,4152.0,6.0,True,,43.0,B07S8H2VGC,Goodyear 185/70 R14 Kelly VFM 1 88T Tubeless Car Tyre,Goodyear,4W,4097.0,Only Delivery,False
-ok,1121.0,1045.0,20.0,False,1178.0,,B07M5R4R4K,Apollo tyres actiGRIP S5 90/100-10 53PTubeless Front/Rear Tyre |Rim - 18 inches| | Section width - 90 millimeters,Apollo,2W,2299.0,Only Delivery,False
-ok,5449.0,5999.0,13.0,False,160.0,,B01IIQR334,Apollo Amazer 4G Life 185/65 R15 88T Tubeless Car Tyre,Apollo,4W,5609.0,Only Delivery,False
-ok,3093.0,3300.0,7.0,True,,-4.0,B07Y32FBSC,Goodyear 165/80 R14 Kelly VFM3 85T Tubeless Car Tyre,Goodyear,4W,3093.0,Only Delivery,False
-ok,5793.0,5793.0,12.0,False,1116.0,,B07NSZNVFB,Apollo tyres Alpha H1 150/60% R17 66W Tubeless Tyre,Apollo,2W,6909.0,Only Delivery,False
-ok,3440.0,3830.0,8.0,True,,0.0,B09LSC9JKM,Goodyear Good Year 175/65% R14 Kelly 82T Vfm 7 Tl Tubeless Car Tyre,Goodyear,4W,3440.0,Only Delivery,False
-ok,4148.0,3961.0,12.0,False,281.0,,B0BZYHTC3M,"Apollo tyres 140/70% R17 66H Tramplr Xr Tubless Bike Tyre,Rear.,1 Tube",Apollo,2W,4429.0,Only Delivery,False
-ok,3720.0,3810.0,21.0,False,,,B06WD343QG,Apollo Amazer 4G Life 165/80 R14 85T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,2790.0,3300.0,6.0,False,207.0,,B07YFDBMFF,Goodyear 155/80 R13 Kelly VFM3 79T Tubeless Car Tyre,Goodyear,4W,2997.0,Only Delivery,True
-ok,1769.0,1712.0,6.0,True,,0.0,B01FTSG808,"Ceat F85 2.75 - 18 42P Tube-Type Bike Tyre, Front (100226 )",CEAT,2W,1769.0,Only Delivery,False
-ok,6174.0,6398.0,22.0,False,22.0,,B07MR2FLBZ,Ceat SecuraDrive 215/60 R16 95H Tubeless Car Tyre,CEAT,4W,6196.0,Only Delivery,False
-ok,6165.0,6703.0,21.0,False,770.0,,B09CMS26BD,Apollo tyres Apterra Cross 215/60% R17 96H Tubeless Car Tyre,Apollo,4W,6935.0,Only Delivery,False
-ok,2849.0,2849.0,4.0,True,,350.0,B0F28WSQWL,CEAT 130/70-17 ZOOM RAD 62P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2849.0,Only Delivery,False
-ok,5604.0,5687.0,27.0,False,365.0,,B01DKI2QZ0,JK Tyre 215/60% R16 UX Royale Tubeless Car Tyre,JK Tyre,4W,5969.0,Only Delivery,True
-ok,1350.0,1313.0,13.0,False,98.0,,B09T68S6DX,Ceat ZOOM X3 90/100-10 53J Tubeless Scooter Tyre,CEAT,2W,1448.0,Only Delivery,False
-ok,6545.0,6796.0,15.0,False,,,B08KXYNPHW,Apollo tyres Alnac 4G 205/65% R16 95H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,3697.0,3770.0,8.0,True,,-7.0,B08R1V98ZP,CEAT Milaze X3-165/70% R14 81T Tubeless Car Tyre,CEAT,4W,3697.0,Only Delivery,True
-ok,2547.0,2798.0,4.0,True,,0.0,B07RWB1WQV,Goodyear 145/80% R12 Kelly VFM2 Tubeless Car Tyre,Goodyear,4W,2547.0,Only Delivery,True
-ok,3650.0,4226.0,13.0,False,219.0,,B07XDRFV9X,Goodyear Assurance Duraplus 2 165/80 R14 Tubeless Car Tyre,Goodyear,4W,3869.0,Only Delivery,True
-ok,2146.0,2146.0,4.0,True,,23.0,B0F28YPJ99,CEAT 100/80-12 Zoom X3 56L TUBELESS TYRE | All Wheel | Car Tyre for Front and Rear,CEAT,2W,2146.0,Only Delivery,False
-ok,1917.0,2055.0,7.0,False,92.0,,B01FTSHJA6,"Ceat Secura Zoom+ 80/100-18 54P Tubeless Bike Tyre, Rear",CEAT,2W,2009.0,Only Delivery,False
-ok,3600.0,3707.0,11.0,False,25.0,,B01DKI00GC,JK Tyre Ultima Neo 155/80% R13 Tubeless Car Tyre,JK Tyre,4W,3625.0,Only Delivery,True
-ok,4600.0,5369.0,13.0,False,346.0,,B016D6U4J6,Apollo Amazer 4G Life 175/65 R14 82T Tubeless Car Tyre,Apollo,4W,4946.0,Only Delivery,False
-ok,7828.0,7828.0,8.0,False,474.0,,B08W3BXC9Y,Continental ContiUltraContact UC6 195/55% R16 87V Tubeless Car Tyre,Continental,4W,8302.0,Only Delivery,False
-ok,1999.0,1770.0,9.0,False,18001.0,,B01FTSHEYW,"Ceat Milaze 2.75-18 48P Tubeless Bike Tyre, Rear (102976)",CEAT,4W,20000.0,Only Delivery,False
-ok,3320.0,3770.0,11.0,False,359.0,,B074SC4TPZ,Goodyear DP-M1 165/70 R14 81S Tubeless Car Tyre,Goodyear,4W,3679.0,Only Delivery,False
-ok,3796.0,5999.0,5.0,True,,103.0,B0F28Y9LXZ,CEAT 165/70 R14 MILAZE X5 81T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3697.0,Only Delivery,True
-ok,4950.0,4950.0,4.0,False,40.0,,B09NQGLF4P,CEAT 150/60-17 ZOOM RAD X1 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,4990.0,Only Delivery,False
-ok,3661.0,3887.0,11.0,True,,-362.0,B0792G6PF9,Apollo Amazer 4G LIFE 155/70 R13 75T Tubeless Car Tyre,Apollo,4W,3661.0,Only Delivery,False
-ok,2800.0,2700.0,10.0,False,419.0,,B01DKHZV0S,JK Tyre 145/80% R13 Ultima Neo Tubeless Car Tyre,JK Tyre,4W,3219.0,Only Delivery,False
-ok,6399.0,6418.0,5.0,False,16.0,,B0F28XLVC3,CEAT 150/60 ZR17 SPORT RAD STEEL (Steel Radial) 66W TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,6415.0,Only Delivery,False
-ok,5221.0,5250.0,6.0,True,,29.0,B01L98W8QA,JK Tyre 195/65 R15 UX Royale Tubeless Car Tyre,JK Tyre,4W,5221.0,Only Delivery,True
-ok,4840.0,4855.0,20.0,False,57.0,,B0D8B87XMJ,JK Tyre 185/65% R15 Taximax Tubeless Car Tyre,JK Tyre,4W,4897.0,Only Delivery,False
-ok,3439.0,3439.0,22.0,False,135.0,,B07YZJN2V9,JK Tyre 165/80% R14 Taximax Tubeless Car Tyre,JK Tyre,4W,3574.0,Only Delivery,False
-ok,2830.0,2652.0,21.0,False,109.0,,B09FSSHDGJ,JK Tyre 145/80% R12 Ultima Hi^Life Tubeless Car Tyre,JK Tyre,4W,2939.0,Only Delivery,True
-ok,3800.0,5999.0,7.0,False,288.0,,B0F28YL51N,CEAT 165/80 R14 MILAZE X5 85S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4088.0,Only Delivery,True
-ok,5800.0,6907.0,17.0,False,573.98,,B08B1VCYSQ,JK Tyre 215/75 R15 Ranger H/T Tubeless Car Tyre,JK Tyre,4W,6373.98,Only Delivery,False
-ok,1549.0,2999.0,3.0,True,,200.0,B0F28XNNGJ,CEAT 90/90-12 ZOOM X3 54J TUBELESS TYRE | Front Tyre | Car Tyre for Front and Rear,CEAT,2W,1549.0,Only Delivery,False
-ok,7751.0,8344.0,4.0,True,,593.0,B01BDMXBG8,JK Tyre 235/70 R16 Ranger A/T Tubeless Car Tyre,JK Tyre,4W,7751.0,Only Delivery,False
-ok,6639.0,6999.0,9.0,False,10.0,,B08KY21PKD,Apollo Alnac 4G 195/60 R16 89H Tubeless Car Tyre,Apollo,4W,6649.0,Only Delivery,False
-ok,3466.0,3998.0,6.0,False,63.0,,B07CVMR1TJ,"Ceat Zoom Rad X1F 110/70R17 54H Tubeless Bike Tyre, Front (Home Delivery) (104976), 110 millimeters",CEAT,2W,3529.0,Only Delivery,False
-ok,5455.0,9999.0,9.0,False,,,B01IIQQMSG,Apollo Alnac 4Gs 185/65 R15 88H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,2233.0,2999.0,6.0,True,,16.0,B0F28XL1QJ,CEAT 110/80-12 Zoom X3 61L TUBELESS TYRE | Rear Tyre |,CEAT,2W,2233.0,Only Delivery,False
-ok,2739.0,3149.0,8.0,True,,0.0,B01FTSI69E,"Ceat Zoom XL 130/70-17 62P Tubeless Bike Tyre, Rear (103061)",CEAT,2W,2739.0,Only Delivery,False
-ok,1477.0,1477.0,2.0,True,,300.0,B0F28VZYN2,CEAT 90/100-10 MILAZE X5 53J TUBELESS TYRE | Rear | Bike Rear Tyre,CEAT,4W,1399.0,Only Delivery,False
-ok,1660.0,1868.0,9.0,False,259.0,,B01FTSHN3E,"Ceat Zoom Plus 80/100-18 54P Tubeless Bike Tyre, Rear (102573)",CEAT,2W,1919.0,Only Delivery,False
-ok,6045.0,6045.0,7.0,False,,,B08B22BL9N,JK Tyre 215/60% R17 Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False
-ok,6900.0,7312.0,17.0,False,,,B0995QNPFM,Apollo Alnac 4G 195/55 R16 87V Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,8506.0,8506.0,2.0,True,,2494.0,B08LTJVHN7,Continental ContiUltraContact UC6 215/60 R16 Tubeless Car Tyre,Continental,4W,8506.0,Only Delivery,False
-ok,2950.0,3299.0,9.0,False,234.0,,B077Y6VVY6,Ceat Milaze X3 145/80 R12 74T Tubeless Car Tyre (105039 ),CEAT,4W,3184.0,Only Delivery,False
-ok,5690.0,5740.0,15.0,False,209.0,,B082D1VBCG,JK Tyre 195/55% R16 UX Royale Tubeless Car Tyre,JK Tyre,4W,5899.0,Only Delivery,True
-ok,3659.0,3799.0,22.0,False,240.0,,B00RGOC05Q,MRF ZVTV 165/70 R14 81S Tubeless Car Tyre,MRF,4W,3899.0,Only Delivery,False
-ok,6419.0,9999.0,6.0,False,48.0,,B0F28XL1QV,CEAT 205/65 R16 SECURADRIVE SUV 95H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6467.0,Only Delivery,True
-ok,5099.0,4938.0,15.0,False,348.0,,B077Y97R4Y,Ceat Secura Drive 185/65 R15 88H Tubeless Car Tyre (Home Delivery),CEAT,4W,5447.0,Only Delivery,False
-ok,3874.0,3874.0,1.0,True,,,B09NQHHRNK,CEAT 155/80 R13 MILAZE X3 79T TUBELESS TYRE,CEAT,4W,3874.0,Only Delivery,True
-ok,3724.0,3724.0,1.0,True,,,B0GGZCNJHT,JK Tyre 165/80r14 UX Royale Tyre With Doorstep Installation,JK Tyre,4W,3724.0,Fitment/Installation,False
-ok,5250.0,5250.0,6.0,False,49.0,,B0GQ2YZ95M,CEAT 185/65 R15 MILAZE X5å 88T TUBELESS TYRE,CEAT,4W,5299.0,Only Delivery,False
-ok,5409.0,5372.0,2.0,True,,0.0,B0F6NGBSJ6,GOODYEAR 185/65 R15 ASSURANCE TRIPLEMAX 2 88H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5409.0,Only Delivery,False
-ok,1759.0,1550.0,6.0,True,,-60.0,B0F4R6GP8Z,CEAT 2.75-18 SECURA ZOOM F 42P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1759.0,Only Delivery,False
-ok,6088.0,6088.0,1.0,True,,,B0F28Y3T54,CEAT 195/65 R15 SECURADRIVE 91H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6088.0,Only Delivery,False
-ok,6500.0,6512.0,10.0,False,,,B07MNVQ8B1,Ceat 104282 Secura Drive 195/55 R16 87V Tubeless Car Tyre,CEAT,4W,,Only Delivery,False
-ok,2649.0,2649.0,4.0,False,10.0,,B08DJDTHTS,"Ceat 120/80-17 Zoom X3 TL 61P, Black",CEAT,2W,2659.0,Only Delivery,False
-ok,3657.0,3657.0,12.0,False,222.0,,B077Y6VVY7,Ceat Milaze X3 165/80 R14 85S Tubeless Car Tyre (105035 ),CEAT,4W,3879.0,Only Delivery,True
-ok,3099.0,3099.0,1.0,True,,,B0F28YBJWG,CEAT 140/70-17 ZOOM XL 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3099.0,Only Delivery,False
-ok,7000.0,7707.0,7.0,False,489.0,,B0CJRRXDDK,Goodyear Tyre 215/60R17 ASSURANCE TRIPLEMAX 2 96H TL,Goodyear,4W,7489.0,Only Delivery,False
-ok,3564.0,3674.0,12.0,False,10.0,,B07QZ9N1J4,JK Tyre 165/80r14 UX Royale Tyre,JK Tyre,4W,3574.0,Only Delivery,True
-ok,2689.0,2689.0,1.0,True,,,B082SWHGZ4,CEAT GRIPP XL 120/80-18 GRIPP XL TL 62P Tubeless Bike Tyre,CEAT,2W,2689.0,Only Delivery,False
-ok,7200.0,7587.0,5.0,False,289.0,,B0F6NDY99L,GOODYEAR 215/60 R17 ASSURANCE TRIPLEMAX 2 96H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,7489.0,Only Delivery,True
-ok,1710.0,2999.0,5.0,False,29.0,,B0F28Z5VQ3,CEAT 80/100-17 ZOOM PLUS F 46P TUBELESS TYRE | Front | Rear,CEAT,2W,1739.0,Only Delivery,False
-ok,6900.0,6500.0,2.0,True,,412.0,B0GQ2WBRLZ,CEAT 195/60 R16 SECURADRIVE SUV 89H TUBELESS TYRE,CEAT,4W,6488.0,Only Delivery,True
-ok,4590.0,5430.0,10.0,False,779.0,,B07JJ5J1K4,Goodyear 175/65 R15 ASSURANCE TRIPLEMAX 2 - ?Tubeless,Goodyear,4W,5369.0,Only Delivery,False
-ok,6597.0,9999.0,3.0,True,,0.0,B0F28YJ6R1,CEAT 195/55 R16 SECURADRIVE 87V TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6597.0,Only Delivery,False
-ok,8690.0,8690.0,4.0,False,438.0,,B08WLNRYZL,Continental ContiUltraContact UC6 205/55 R16 91V Tubeless Car Tyre,Continental,4W,9128.0,Only Delivery,False
-ok,6136.0,10698.0,2.0,True,,4562.0,B0GGYY3157,JK 215/60 R17 UX ROYALE 96H TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6136.0,Fitment/Installation,False
-ok,1799.0,1799.0,1.0,True,,,B0F28WNNHF,CEAT 90/90-12 MILAZE X5 54J TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1799.0,Only Delivery,False
-ok,2499.0,2149.0,3.0,True,,350.0,B0F28X3FJL,CEAT 100/80-17 ZOOM PLUS F 52P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2149.0,Only Delivery,False
-ok,4846.0,5323.0,5.0,True,,0.0,B07RQYDJ3C,Goodyear 205/65% R15 Kelly VFM 6 Tubeless Car Tyre,Goodyear,4W,4846.0,Only Delivery,False
-ok,5947.0,5947.0,2.0,True,,0.0,B0GGYVKS69,CEAT 185/65 R15 SECURADRIVE 88H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5947.0,Fitment/Installation,False
-ok,6696.0,6510.0,3.0,True,,-186.0,B0GGZ6QVQM,CEAT 215/60 R16 SECURADRIVE 95H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6696.0,Fitment/Installation,False
-ok,4429.0,4913.43,11.0,True,,0.0,B01DKI2J6G,JK Tyre 175/65 R15 UX Royale Tubeless Car Tyre,JK Tyre,4W,4429.0,Only Delivery,True
-ok,3850.0,4799.0,5.0,False,247.0,,B07YFKK25Q,GOODYEAR TYRE 185/70 R14 Kelly VFM1 88T Tubeless Car Tyre,Goodyear,4W,4097.0,Only Delivery,True
-ok,2489.0,2489.0,3.0,True,,260.0,B0845P4LGH,CEAT GRIPP XL 110/90-18 GRIPP XL TL 61P Tubeless Bike Tyre,CEAT,2W,2489.0,Only Delivery,False
-ok,1779.0,1778.0,4.0,True,,-1.0,B0F28XSCZQ,CEAT 80/100-18 SECURA ZOOM F 47P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1779.0,Only Delivery,False
-ok,2249.0,3208.0,2.0,True,,959.0,B082SWFTLY,CEAT GRIPP XL 90/90-19 GRIPP XL F TL 52P Tubeless Bike Tyre,CEAT,2W,2249.0,Only Delivery,False
-ok,6100.0,7231.0,7.0,False,819.0,,B0F6NDMWW5,GOODYEAR 195/55 R16 ASSURANCE TRIPLEMAX 2 87H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6919.0,Only Delivery,True
-ok,5046.0,4679.0,3.0,True,,0.0,B0GGYKRS9V,CEAT 175/60 R15 SecuraDrive 81H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5046.0,Fitment/Installation,False
-ok,4785.0,5999.0,16.0,False,,,B01IIQQMXG,Apollo Alnac 4Gs 175/65 R15 84H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,3789.0,3789.0,3.0,False,31.0,,B09NQG3NJX,CEAT 165/80 R14 MILAZE X3 85S TUBELESS TYRE,CEAT,4W,3820.0,Only Delivery,True
-ok,3639.0,3876.0,11.0,True,,1.0,B07MKMJYSB,Ceat 105755 Milaze X3 155/80 R13 79T Tubeless Car Tyre,CEAT,4W,3639.0,Only Delivery,True
-ok,7771.0,7500.0,3.0,True,,0.0,B0F28Y4VT8,JK 255/65 R18 RANGER H/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,7771.0,Only Delivery,False
-ok,3184.0,3184.0,1.0,True,,,B0CFVVK1QM,CEAT 145/80 R12 MILAZE X3 74T TUBELESS TYRE,CEAT,4W,3184.0,Only Delivery,False
-ok,3897.0,3897.0,1.0,True,,,B0GGYX1GGB,Ceat 165/70 R14 Milaze X3 81T Tubeless Car Tyre with Add on Home Installation CE1657014METL-HF With Doorstep Installation,CEAT,4W,3897.0,Fitment/Installation,False
-ok,5850.0,6512.0,11.0,False,549.0,,B08KDQ7CS1,Goodyear Wrangler Triplemex 215/75% R15 100H Tubeless Car Tyre,Goodyear,4W,6399.0,Only Delivery,False
-ok,6200.0,7655.0,9.0,False,1093.0,,B0BZVT98VH,Ceat 215/55 R17 SecuraDrive SUV TL 94V,CEAT,4W,7293.0,Only Delivery,True
-ok,4839.0,4839.0,6.0,False,150.0,,B0F28XCWSZ,JK 185/65 R15 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,4989.0,Only Delivery,True
-ok,6119.0,6119.0,1.0,True,,,B0GGYPFQ5P,JK Tyre 215/60 R16 UX Royale Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,6119.0,Fitment/Installation,False
-ok,1469.0,1469.0,2.0,True,,530.0,B0F4R6BWLG,CEAT 2.75-17 SECURA ZOOM F 41P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1469.0,Only Delivery,False
-ok,4646.0,4773.11,10.0,True,,-1.0,B0CFVTWM6K,Ceat Tyre 175/60R15 Secura Drive 81H Tubeless,CEAT,4W,4646.0,Only Delivery,False
-ok,2800.0,3399.0,15.0,False,309.0,,B01IF774JY,Goodyear Ducaro Hi-Miler 145/80 R12 74T Tubeless Car Tyre (Home Delivery),Goodyear,4W,3109.0,Only Delivery,False
-ok,3940.0,3940.0,1.0,True,,,B0GGYKV624,KELLY 175/65 R14 VFM 7 82T TUBELESS TYRE | With Doorstep Installation,Kelly,4W,3940.0,Fitment/Installation,False
-ok,,,0.0,,,,B0F28XTL4X,CEAT 130/90-15 ZOOM X3 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2519.0,Only Delivery,False
-ok,7859.0,8412.0,2.0,True,,553.0,B0CCY4DXTC,Goodyear Tyre 235/75% R15 Wrangler Rt/S 105S Tl Tube,Goodyear,4W,7859.0,Only Delivery,False
-ok,6450.0,6450.0,3.0,False,99.0,,B07YDW8GYF,Goodyear ASSURANCE TRIPLEMAX2 185/55 R16 87H Tubeless Car Tyre,Goodyear,4W,6549.0,Only Delivery,False
-ok,5600.0,5600.0,1.0,False,,,B0GQ39746C,YOKOHAMA 175/65 R14 EARTH-1 MAX 82H TUBELESS TYRE,Yokohama,4W,,Only Delivery,False
-ok,3499.0,3499.0,6.0,False,29.0,,B0F291N45P,JK 165/70 R14 UX TOURING 81S TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3528.0,Only Delivery,False
-ok,3935.0,3935.0,1.0,True,,,B0GGYNYTKB,JK 165/80 R14 UX TOURING TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,3935.0,Fitment/Installation,False
-ok,7450.0,7450.0,5.0,False,321.0,,B0F28XG1HR,JK 255/65 R18 RANGER A/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,7771.0,Only Delivery,False
-ok,6957.0,6629.0,2.0,True,,0.0,B0GGYX88DL,CEAT 215/60 R17 SECURADRIVE SUV 96H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6957.0,Fitment/Installation,False
-ok,1499.0,1499.0,5.0,True,,390.0,B0F4R8L7KF,CEAT 3.00-10 ZOOM D 42J TUBELESS TYRE| Rear | Car Tyre for Front and Rear,CEAT,2W,1209.0,Only Delivery,False
-ok,2999.0,3208.0,3.0,True,,280.0,B08LKN6DYS,"CEAT Gripp XL 110/90-18 61P Tube-Type Bike Tyre, Rear",CEAT,2W,2719.0,Only Delivery,False
-ok,5322.0,5000.0,3.0,True,,-322.0,B0GGZ7MLT4,CEAT 175/65 R14 MILAZE X5 82T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5322.0,Fitment/Installation,False
-ok,6899.0,6899.0,5.0,False,,,B09QL3TCZ9,JK Tyre S 215/55% R18 Ux Royale Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False
-ok,5371.0,5371.0,1.0,True,,,B0GGZ8C7JV,JK Tyre 195/65 R15 UX Royale Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,5371.0,Fitment/Installation,False
-ok,2109.0,2499.0,4.0,True,,341.0,B08DT8Z6R1,Ceat Zoom Plus 100/90-17 55P Tubeless Bike Tyre,CEAT,2W,2109.0,Only Delivery,False
-ok,5139.0,5139.0,1.0,True,,,B0GGZ4KWPN,JK 185/65 R15 UX TOURING TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,5139.0,Fitment/Installation,False
-ok,2329.0,2329.0,2.0,True,,570.0,B0F28WZNZ8,CEAT 100/90-17 GRIPP X5 55P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2329.0,Only Delivery,False
-ok,,,0.0,,,,B01FTSI65S,"Ceat Gripp XL 90/90-19 Tube-Type Bike Tyre, Front",CEAT,2W,,Only Delivery,False
-ok,5800.0,5890.0,9.0,False,431.0,,B0C591CPZ9,Apollo Tyres Alnac 4G 195/65 R15 91H Tubeless Car Tyre,Apollo,4W,6231.0,Only Delivery,False
-ok,12500.0,12500.0,2.0,False,489.0,,B0F6NDDMMW,GOODYEAR 225/50 R18 ASSURANCE TRIPLEMAX 2 95V TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,12989.0,Only Delivery,False
-ok,11359.0,11359.0,1.0,True,,,B0GGYKSCTM,JK 31x10.50 R15 RANGER M/T 109Q TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,11359.0,Fitment/Installation,False
-ok,7439.0,7439.0,1.0,True,,,B0F6NFBMWD,GOODYEAR 205/60 R16 ASSURANCE TRIPLEMAX 2 92H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,7439.0,Only Delivery,False
-ok,8800.0,8800.0,4.0,False,83.0,,B09FY6XT8X,Apollo Apterra Cross 215/65 R16 98H Tubeless Car Tyre (With FREE Air Nozzle),Apollo,4W,8883.0,Only Delivery,False
-ok,2929.0,2929.0,1.0,True,,,B0F28WL1B4,CEAT 120/80-18 GRIPP XL 62S TUBE-TYPE TYRE | Front/Rear | Car Tyre for Front and Rear,CEAT,2W,2929.0,Only Delivery,False
-ok,6999.0,9999.0,5.0,False,810.0,,B0F6NG3QWW,GOODYEAR 195/60 R16 ASSURANCE TRIPLEMAX 2 89H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,7809.0,Only Delivery,False
-ok,4120.0,4120.0,1.0,True,,,B0GN2Y1WX4,CEAT (With Fitment) 165/80 R14 MILAZE X3 85S TUBELESS TYRE,CEAT,4W,4120.0,Fitment/Installation,False
-ok,7000.0,7733.0,8.0,False,,,B08LTDFG79,Continental ContiUltraContact UC6 205/65 R16 Tubeless Car Tyre,Continental,4W,,Only Delivery,False
-ok,9399.0,15999.0,6.0,False,440.0,,B0F28Y8F46,CEAT 255/60 R19 CrossDrive AT 109H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,9839.0,Only Delivery,False
-ok,3602.61,3602.61,1.0,True,,,B0H1MKLQV9,With Doorstep Fitment - CEAT 140/80 ZR17 GRIPP RAD STEEL (Steel Radial) 69H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3602.61,Fitment/Installation,False
-ok,5578.0,6058.0,12.0,False,741.0,,B0CJRPCZHX,Goodyear Tyre 205/65R16 Assurance Triplemax 2 95H Tubeless,Goodyear,4W,6319.0,Only Delivery,False
-ok,6319.0,9999.0,4.0,True,,0.0,B01IF76RJ2,Goodyear Assurance TripleMax 205/65 R16 95H Tubeless Car Tyre (Home Delivery),Goodyear,4W,6319.0,Only Delivery,False
-ok,5244.0,5244.0,1.0,True,,,B0GN2FZRFG,CEAT (With Fitment) 175/65 R14 MILAZE X3 82T TUBELESS TYRE,CEAT,4W,5244.0,Fitment/Installation,False
-ok,10400.0,10400.0,3.0,False,,,B01L98WFO0,JK Tyre Ranger H/T 235/65% R17 Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False
-ok,6866.0,9999.0,2.0,True,,3133.0,B0F28XCMGQ,CEAT 205/55 R17 SECURADRIVE 91H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6866.0,Only Delivery,False
-ok,2309.0,2309.0,2.0,True,,390.0,B0F28XVS3K,CEAT 100/90-18 ZOOM X3 56P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2309.0,Only Delivery,False
-ok,5799.0,5799.0,1.0,True,,,B0GQ327VPB,With Doorstep Fitment - CEAT 185/65 R15 MILAZE X5å 88T TUBELESS TYRE,CEAT,4W,5799.0,Fitment/Installation,False
-ok,5986.0,6055.0,10.0,True,,0.0,B0F28YMMXY,JK 215/60 R17 UX ROYALE 96H TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,5986.0,Only Delivery,False
-ok,6196.0,6196.0,1.0,True,,,B0F28XTMBF,CEAT 215/60 R16 SECURADRIVE 95H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6196.0,Only Delivery,True
-ok,4169.0,4169.0,1.0,True,,,B0GGYR61BR,CEAT 165/80 R14 SECURADRIVE 85S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,4169.0,Fitment/Installation,False
-ok,3258.23,3313.0,5.0,True,,-1.23,B0B1WRGD6F,"Ceat 102501 Zoom-Rad 140/60 R17 63P Tubeless Bike Tyre, Rear",CEAT,2W,3258.23,Only Delivery,False
-ok,3678.0,3678.0,1.0,True,,,B0GGYPCTGH,JK 165/70 R14 UX TOURING 81S TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,3678.0,Fitment/Installation,False
-ok,3189.0,3189.0,4.0,True,,310.0,B0F28XYHSH,CEAT 140/70-17 GRIPP X5 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3189.0,Only Delivery,False
-ok,4288.0,4288.0,1.0,True,,,B0GGYY5SKR,CEAT 165/80 R14 MILAZE X5 85S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,4288.0,Fitment/Installation,False
-ok,2580.0,2799.0,8.0,False,219.0,,B07B4FZ4SQ,JK Tyre 135/70% R12 Ultima LXT Tubeless Car Tyre,JK Tyre,4W,2799.0,Only Delivery,False
-ok,7901.0,7901.0,1.0,True,,,B0GGYSRVZ4,JK Tyre 235/70 R16 Ranger A/T Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,7901.0,Fitment/Installation,False
-ok,3589.0,3568.0,4.0,True,,0.0,B08B1X2QPW,JK Tyre 155/65% R14 Ultima Neo Tubeless Car Tyre,JK Tyre,4W,3589.0,Only Delivery,False
-ok,6767.0,6767.0,2.0,True,,0.0,B0GGYMHSVC,CEAT 205/65 R16 SECURADRIVE SUV 95H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6767.0,Fitment/Installation,False
-ok,4790.0,5582.0,12.0,False,769.0,,B07HJ82NY9,Goodyear Assurance Triplemax 2 185/60 R15 84H Tubeless Car Tyre,Goodyear,4W,5559.0,Only Delivery,True
-ok,3996.0,3996.0,1.0,True,,,B0GGYPH9RZ,CEAT 165/70 R14 MILAZE X5 81T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,3996.0,Fitment/Installation,False
-ok,4609.0,5999.0,8.0,True,,0.0,B079WW153D,"Ceat Milaze X3 TL 185/70% R14 88T Tubeless Car Tyre, Front",CEAT,4W,4609.0,Only Delivery,False
-ok,3775.0,3775.0,1.0,True,,,B0GGYVCZ39,JK Tyre 155/80 R13 ULTIMA NEO 79T TUBELESS CAR TYRE With Doorstep Installation,JK Tyre,4W,3775.0,Fitment/Installation,False
-ok,,,0.0,,,,B0GGYTPQBG,CEAT 235/65 R17 SECURADRIVE SUV 104H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,,Fitment/Installation,False
-ok,6219.0,6419.0,2.0,True,,200.0,B0F28XLB3K,CEAT 215/75 R15 SECURADRIVE SUV 100H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6219.0,Only Delivery,False
-ok,3489.0,5999.0,41.0,False,20.0,,B077Y965X4,Ceat Milaze X3 155/65 R13 73T Tubeless Car Tyre,CEAT,4W,3509.0,Only Delivery,False
-ok,3089.0,3089.0,2.0,False,190.0,,B0GGYR2PHD,JK Tyre 145/80 R12 Ultima Hi^Life Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,3279.0,Fitment/Installation,False
-ok,6158.0,6546.0,11.0,False,31.0,,B08R1ZV6GW,Ceat 195/60 R16 89H Secura Drive Tubeless Car Tyre,CEAT,4W,6189.0,Only Delivery,False
-ok,6998.0,6640.0,2.0,True,,0.0,B0GGYTL7XG,CEAT 195/55 R16 MILAZE X5 87H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6998.0,Fitment/Installation,False
-ok,3450.0,3450.0,1.0,True,,,B0GGYNQJY4,KELLY 155/70 R13 VFM 8 75T Tubeless Car Tyre | With Doorstep Installation,Kelly,4W,3450.0,Fitment/Installation,False
-ok,4759.0,4759.0,1.0,True,,,B0F28Z1827,CEAT 185/70 R14 MILAZE X5 88T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4759.0,Only Delivery,False
-ok,5120.0,5151.34,8.0,True,,-94.0,B079WV62FH,"Ceat Milaze X3 TL 175/65 R14 82T Tubeless Car Tyre, Front",CEAT,4W,4894.0,Only Delivery,True
-ok,5399.0,5399.0,2.0,False,60.0,,B0F6NG58KL,GOODYEAR 185/60 R15 ASSURANCE MAXGUARD 84H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5459.0,Only Delivery,True
-ok,,,0.0,,,,B0GQ2ZFZK7,With Doorstep Fitment - CEAT 195/60 R16 SECURADRIVE SUV 89H TUBELESS TYRE,CEAT,4W,6788.0,Fitment/Installation,False
-ok,9246.0,9246.0,4.0,True,,1493.66,B0B76MCHGG,YOKOHAMA 215/65% R16 GEOLANDAR G015 98H TUBELESS CAR TYRE,Yokohama,4W,8705.34,Only Delivery,False
-ok,6439.0,6390.0,4.0,True,,-31.0,B0F28XC6WN,CEAT 215/75 R15 CrossDrive AT 100S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6439.0,Only Delivery,False
-ok,1779.0,1769.0,6.0,True,,-10.0,B0F4RC2L5N,CEAT 2.75-18 MILAZE X5 48P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1779.0,Only Delivery,False
-ok,2309.0,2309.0,2.0,True,,690.0,B0F28Y3T53,CEAT 100/90-18 GRIPP X5 56P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2309.0,Only Delivery,False
-ok,4363.0,4120.0,3.0,True,,-243.0,B0GGYKTRS7,CEAT 155/80 R13 MILAZE X5 79T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,4363.0,Fitment/Installation,False
-ok,5786.0,5786.0,1.0,True,,,B0GGYRYSXR,CEAT 175/65 R15 SECURADRIVE 84H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5786.0,Fitment/Installation,False
-ok,3360.0,5999.0,9.0,False,229.0,,B01DKI00EO,JK Tyre 155/65 R13 Ultima Neo Tubeless Car Tyre,JK Tyre,4W,3589.0,Only Delivery,True
-ok,,,0.0,,,,B0GGYP1448,CEAT 215/55 R18 SECURADRIVE 95H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,,Fitment/Installation,False
-ok,5447.0,5447.0,2.0,True,,203.0,B0F28XRR2V,CEAT 185/65 R15 SECURADRIVE 88H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5447.0,Only Delivery,True
-ok,11949.0,11949.0,2.0,True,,1471.0,B0F28XDTHJ,CEAT 235/65 R17 CrossDrive AT 104T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,11529.0,Only Delivery,False
-ok,5936.0,5936.0,1.0,True,,,B0GGYTGCJL,CEAT 185/60 R15 SECURADRIVE 84H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5936.0,Fitment/Installation,False
-ok,6049.0,6049.0,1.0,True,,,B0GGYL5BW1,JK Tyre Jk 195/55 R16 Ux Royale 87V Tubeless With Doorstep Installation,JK Tyre,4W,6049.0,Fitment/Installation,False
-ok,8499.0,8499.0,1.0,True,,,B0GGYKTKVB,Ceat 215/65 R16 SecuraDrive SUV 98H Tubeless Car Tyre with Add on Home Installation CE2156516SDTL-HF With Doorstep Installation,CEAT,4W,8499.0,Fitment/Installation,False
-ok,2219.0,2219.0,2.0,True,,580.0,B0F28Z6WTQ,CEAT 110/80-17 ZOOM X3 57P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2219.0,Only Delivery,False
-ok,8289.0,8289.0,3.0,True,,271.0,B0CMXVP5Z1,Goodyear Tyre 215/60% R16 Assurance Triplemax 2 95H Tl Tube,Goodyear,4W,8289.0,Only Delivery,False
-ok,5850.0,5850.0,6.0,False,350.0,,B0F28Z9P1K,JK 195/55 R16 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6200.0,Only Delivery,False
-ok,,,0.0,,,,B0F28WY8JT,CEAT 140/70-17 ZOOM CRUZ 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3218.0,Only Delivery,False
-ok,2359.0,2349.0,3.0,True,,0.0,B0F28YN19W,CEAT 100/90-18 ZOOM CRUZ F 56H TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2359.0,Only Delivery,False
-ok,3599.0,3599.0,1.0,True,,,B0CFVT63G7,CEAT 155/70 R13 MILAZE X3 75T TUBELESS TYRE,CEAT,4W,3599.0,Only Delivery,False
-ok,7462.0,7462.0,2.0,False,827.0,,B0F6NDG7S1,GOODYEAR 235/70 R16 WRANGLER TRIPLEMAX 106H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8289.0,Only Delivery,False
-ok,4486.0,4486.0,1.0,True,,,B0GN2RLNLW,CEAT (With Fitment) 165/65 R14 MILAZE X3 79T TUBELESS TYRE,CEAT,4W,4486.0,Fitment/Installation,False
-ok,8010.0,8010.0,4.0,False,261.0,,B0F28XVWLG,JK 215/55 R18 UX ROYALE 95H TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,8271.0,Only Delivery,True
-ok,3409.0,3409.0,2.0,True,,556.0,B0F28XJKVY,JK 175/60 R13 ULTIMA SPORTS TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3409.0,Only Delivery,False
-ok,3500.0,3500.0,6.0,False,39.0,,B0F28Y63WK,JK 155/70 R13 ULTIMA HI^LIFE 75T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3539.0,Only Delivery,False
-ok,4770.0,6999.0,7.0,False,421.0,,B01IIQQN12,Apollo Alnac 4Gs 185/65 R14 86H Tubeless Car Tyre,Apollo,4W,5191.0,Only Delivery,False
-ok,5175.0,5175.0,3.0,False,54.0,,B0F6ND71YL,GOODYEAR 175/60 R15 ASSURANCE TRIPLEMAX 81T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5229.0,Only Delivery,True
-ok,3440.0,3440.0,1.0,True,,,B0F5PSN4P2,KELLY 175/65 R14 VFM 7 82T TUBELESS TYRE | Car Tyre for Front and Rear,Kelly,4W,3440.0,Only Delivery,False
-ok,4595.0,5999.0,13.0,False,544.0,,B07HJBFMYD,Goodyear Assurance Triplemax 2 175/65% R14 82H Tubeless Car Tyre,Goodyear,4W,5139.0,Only Delivery,False
-ok,11679.0,11679.0,1.0,True,,,B0GGYRT91R,CEAT 235/65 R17 CrossDrive AT 104T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,11679.0,Fitment/Installation,False
-ok,4759.0,4759.0,1.0,True,,,B0GN2GR9Z8,CEAT (With Fitment) 185/70 R14 MILAZE X3 88T TUBELESS TYRE,CEAT,4W,4759.0,Fitment/Installation,False
-ok,1849.0,1899.99,3.0,False,110.0,,B0F28WQ27G,CEAT 80/100-18 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1959.0,Only Delivery,False
-ok,4909.0,4909.0,1.0,True,,,B0GGYTH8W5,CEAT 185/70 R14 MILAZE X5 88T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,4909.0,Fitment/Installation,False
-ok,7952.0,7952.0,1.0,True,,,B0GGYNVR92,JK 235/75 R15 RANGER X-A/T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,7952.0,Fitment/Installation,False
-ok,7493.0,7493.0,1.0,True,,,B0GGYP4GDN,Ceat 215/55 R17 Securadrive Suv 94V Tubeless Car Tyre with Add on Home Installation CE2155517SUTL-HF With Doorstep Installation,CEAT,4W,7493.0,Fitment/Installation,False
-ok,6997.0,6920.0,3.0,True,,-77.0,B0GGYXPW2V,CEAT 195/55 R16 SECURADRIVE 87V TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6997.0,Fitment/Installation,False
-ok,6719.0,6719.0,1.0,True,,,B0GGYT6ZCP,JK 195/55 R16 UX ROYALE SMART TYRE TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6719.0,Fitment/Installation,False
-ok,3249.0,3249.0,1.0,True,,,B0GGYVT64R,CEAT 145/80 R12 MILAZE X5 74T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,3249.0,Fitment/Installation,False
-ok,4174.0,4174.0,1.0,True,,,B0GN2R616H,CEAT (With Fitment) 155/80 R13 MILAZE X3 79T TUBELESS TYRE,CEAT,4W,4174.0,Fitment/Installation,False
-ok,3493.0,3493.0,1.0,True,,,B0GGYWZC34,KELLY 165/80 R14 VFM 3 85T TUBELESS TYRE | With Doorstep Installation,Kelly,4W,3493.0,Fitment/Installation,False
-ok,7998.0,8239.0,2.0,False,241.0,,B00Y0U0GIC,MRF WANDERER Sport 215/65 R16 98H Tubeless Car Tyre,MRF,4W,8239.0,Only Delivery,False
-ok,4854.0,5999.0,4.0,True,,0.0,B016D6U22U,Apollo Amazer 4G 185/70 R14 88T Tubeless Car Tyre,Apollo,4W,4854.0,Only Delivery,False
-ok,4830.0,4830.0,4.0,False,142.0,,B0F28W1D2R,CEAT 175/65 R14 MILAZE X5 82T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4972.0,Only Delivery,False
-ok,7299.0,7299.0,3.0,True,,261.0,B0GGYT31HY,CEAT 205/60 R16 SECURADRIVE SUV 92H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,7299.0,Fitment/Installation,False
-ok,6500.0,6500.0,3.0,False,17.0,,B08QZL7YXD,Apollo Alnac 4G 205/65 R15 94H Tubeless Car Tyre,Apollo,4W,6517.0,Only Delivery,False
-ok,6230.0,6230.0,5.0,False,368.0,,B0F28Z8TPT,CEAT 195/55 R16 MILAZE X5 87H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6598.0,Only Delivery,True
-ok,6195.0,6195.0,1.0,True,,,B0GGYSL22S,JK 205/65 R15 UX TOURING TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6195.0,Fitment/Installation,False
-ok,7439.0,7439.0,3.0,True,,1.0,B0GGYXJM9L,CEAT 205/55 R16 SECURADRIVE 91H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,7439.0,Fitment/Installation,False
-ok,6100.0,6099.0,14.0,False,,,B07JB8NF8W,Yokohama Earth 1-185/65R15-88H Tubeless Passenger Car Tyre,Yokohama,4W,,Only Delivery,False
-ok,6078.0,6078.0,1.0,True,,,B0GGYZZ7LP,JK 205/65 R16 UX TOURING TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6078.0,Fitment/Installation,False
-ok,4650.0,4999.0,7.0,False,529.0,,B07HJB14ST,Goodyear Assurance Triplemax 2 185/65 R14 86H Tubeless Car Tyre,Goodyear,4W,5179.0,Only Delivery,False
-ok,6589.0,6589.0,1.0,True,,,B0GGYKKQPY,CEAT 215/75 R15 CrossDrive AT 100S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6589.0,Fitment/Installation,False
-ok,6388.0,6388.0,1.0,True,,,B0GGYKMNL5,CEAT 195/65 R15 SECURADRIVE 91H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6388.0,Fitment/Installation,False
-ok,10539.0,10539.0,1.0,True,,,B0GGZ3MJHT,JK 235/65 R17 RANGER H/T SMART TYRE TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,10539.0,Fitment/Installation,False
-ok,3139.0,5999.0,3.0,True,,111.0,B077Y7117Y,Ceat Milaze X3 145/80% R12 74T Tube-Type Car Tyre,CEAT,4W,3139.0,Only Delivery,False
-ok,12299.0,12299.0,1.0,True,,,B0GGYPGPVN,CEAT 265/65 R17 CrossDrive AT 112S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,12299.0,Fitment/Installation,False
-ok,4894.0,4894.0,2.0,True,,6.0,B09NQH4YMG,CEAT 175/65 R14 MILAZE X3 82T TUBELESS TYRE,CEAT,4W,4894.0,Only Delivery,True
-ok,5179.0,5179.0,1.0,True,,,B0GGYTNFHG,CEAT 185/65 R14 MILAZE X3 86T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5179.0,Fitment/Installation,False
-ok,3050.0,3050.0,5.0,False,49.0,,B0F28XYL4D,CEAT 145/80 R12 MILAZE X5 74T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3099.0,Only Delivery,False
-ok,3369.0,3369.0,1.0,True,,,B0GGYNTQLM,JK Tyre 145/80 R13 Ultima Neo Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,3369.0,Fitment/Installation,False
-ok,6374.0,6374.0,2.0,True,,163.78,B0GQ31XXFT,JK 215/75 R15 RANGER H/T 100S TUBELESS TYRE,JK Tyre,4W,6374.0,Only Delivery,False
-ok,7500.0,7500.0,2.0,True,,3310.0,B0757L98RC,"Ceat 103921 Milaze LT 215/75 R15 115S/113S Tube Type SUV Tyre for Tempo Traveller, Black",CEAT,4W,6689.0,Only Delivery,True
-ok,4279.0,4279.0,5.0,False,188.0,,B0CJRPX8CY,Continental Tyre 165/80R14 UltraContact UC6 85H TL,Continental,4W,4467.0,Only Delivery,False
-ok,3775.0,3775.0,1.0,True,,,B0GGYL2NC9,JK 155/80 R13 ULTIMA HI^LIFE 75T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,3775.0,Fitment/Installation,False
-ok,7067.0,7067.0,1.0,True,,,B0GGZ4Q625,JK 195/80 R15 RANGER BRT TUBE-TYPE TYRE | With Doorstep Installation,JK Tyre,4W,7067.0,Fitment/Installation,False
-ok,14000.0,14000.0,3.0,False,,,B0D5TBJM8Q,JK Tyre 215/60 R16 UX Royale Tubeless Car Tyre Set of 2,JK Tyre,4W,,Only Delivery,False
-ok,3629.0,3629.0,1.0,True,,,B0F28VRBTP,CEAT 140/60 ZR17 CROSS RAD STEEL (Steel Radial) 63H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,3629.0,Only Delivery,False
-ok,3400.0,3400.0,1.0,True,,,B0GGYTNTCM,KELLY 155/65 R13 VFM 8 73T Tubeless Car Tyre | With Doorstep Installation,Kelly,4W,3400.0,Fitment/Installation,False
-ok,2847.0,2847.0,1.0,True,,,B0GGYHX265,KELLY 145/80 R12 VFM 3 74T TUBELESS TYRE | With Doorstep Installation,Kelly,4W,2847.0,Fitment/Installation,False
-ok,9149.0,9149.0,5.0,False,360.0,,B0F28XN2VY,CEAT 255/65 R18 CrossDrive AT 111H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,9509.0,Only Delivery,False
-ok,3540.0,4374.0,11.0,False,59.0,,B0785MRP6N,Ceat 105047 Milaze X3 155/70 R13 75T Tubeless Car Tyre,CEAT,4W,3599.0,Only Delivery,False
-ok,8632.82,8632.82,3.0,False,506.18,,B0F6NLNHM2,GOODYEAR 215/65 R16 EFFICIENTGRIP SUV 98V TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,9139.0,Only Delivery,False
-ok,5100.0,5600.0,9.0,False,599.0,,B0F6NDTZ78,GOODYEAR 185/65 R15 ASSURANCE MAXGUARD 92H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5699.0,Only Delivery,False
-ok,4429.0,4429.0,1.0,True,,,B0GGZ2MYCR,JK Tyre 175/65 R15 UX Royale Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,4429.0,Fitment/Installation,False
-ok,5259.0,5259.0,3.0,False,238.0,,B0F28SZG8K,CEAT 175/65 R15 MILAZE X5 84T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5497.0,Only Delivery,False
-ok,1859.0,1849.0,6.0,True,,-10.0,B0F4RB6GV2,CEAT 3.00-18 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1859.0,Only Delivery,False
-ok,7149.0,7426.0,2.0,True,,277.0,B0BR5TYW1K,CEAT 205/60 R16 SECURADRIVE 92H Tubeless Tyre CE2056016SETL,CEAT,4W,7149.0,Only Delivery,False
-ok,5409.0,5409.0,1.0,True,,,B0GQ391467,With Doorstep Fitment - CEAT 175/70 R14 MILAZE X3 84T TUBELESS TYRE,CEAT,4W,5409.0,Fitment/Installation,False
-ok,3655.0,3510.0,5.0,False,194.0,,B00Y0UDP62,MRF ZLX 155/65 R13 73T Tubeless Car Tyre,MRF,4W,3849.0,Only Delivery,False
-ok,3739.0,3739.0,1.0,True,,,B0GGYN4S9W,JK Tyre 155/65 R13 Ultima Neo Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,3739.0,Fitment/Installation,False
-ok,3920.0,4204.0,10.0,False,,,B01IIQR348,Apollo Amazer 4G Life 165/65 R14 79T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,10759.0,10759.0,1.0,True,,,B0GQ36G72T,CEAT 245/65 R17 SECURADRIVE SUV 107H TUBELESS TYRE,CEAT,4W,10759.0,Only Delivery,False
-ok,7130.0,7130.0,2.0,False,19.0,,B0F28VXYB3,CEAT 205/60 R16 SECURADRIVE SUV 92H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,7149.0,Only Delivery,False
-ok,3369.0,5999.0,8.0,True,,0.0,B077Y97R4X,"Ceat Milaze X3 145/80% R13 75T Tubeless Car Tyre (105044), Black",CEAT,4W,3369.0,Only Delivery,False
-ok,6350.0,6350.0,6.0,False,307.0,,B0F28X8GD3,CEAT 215/60 R17 SECURADRIVE SUV 96H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6657.0,Only Delivery,False
-ok,2659.0,2659.0,1.0,True,,,B0GGZ4DXD8,KELLY 145/70 R12 VFM 1 69T TUBELESS TYRE | With Doorstep Installation,Kelly,4W,2659.0,Fitment/Installation,False
-ok,6045.0,6035.0,3.0,True,,0.0,B0F2913Z8L,JK 205/65 R15 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6045.0,Only Delivery,False
-ok,2119.0,2119.0,2.0,True,,130.0,B0F28WL19Z,CEAT 110/80-14 ZOOM PLUS TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2119.0,Only Delivery,False
-ok,,,0.0,,,,B0GGYSCKHK,JK 215/55 R18 UX ROYALE 95H TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,,Fitment/Installation,False
-ok,6400.0,6400.0,2.0,False,,,B0F28YLQQV,CEAT 215/75 R15 CrossDrive AT 100S TUBE-TYPE TYRE | Car Tyre for Front and Rear,CEAT,4W,,Only Delivery,False
-ok,6552.0,6552.0,1.0,True,,,B0GGYY66MF,JK 215/75 R15 RANGER X-A/T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6552.0,Fitment/Installation,False
-ok,6734.0,6734.0,1.0,True,,,B0GGZ1P22C,JK 205/60 R16 UX ROYALE TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6734.0,Fitment/Installation,False
-ok,10027.0,10027.0,1.0,True,,,B0GGYXD1KB,JK 235/65 R17 RANGER H/T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,10027.0,Fitment/Installation,False
-ok,6350.0,6350.0,1.0,True,,,B0GGYNDZR5,JK 195/55 R16 UX TOURING TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6350.0,Fitment/Installation,False
-ok,4200.0,5999.0,3.0,False,200.0,,B0BR5SHH9C,CEAT 165/65 R14 MILAZE X3 79T Tubeless Tyre CE1656514MZTL,CEAT,4W,4400.0,Only Delivery,False
-ok,3739.0,3739.0,1.0,True,,,B0GGZ3H51C,JK Tyre 155/65 R14 Ultima Neo Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,3739.0,Fitment/Installation,False
-ok,7003.0,7003.0,1.0,True,,,B0GGYKDKP8,JK Tyres 215/75 R15 Brute 4X4 Tube type Car Tyre (1325121715100SBRT0) With Doorstep Installation,JK Tyre,4W,7003.0,Fitment/Installation,False
-ok,1929.0,1929.0,4.0,True,,269.0,B0F28XHH74,CEAT 90/90-17 ZOOM X3 F 49P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1929.0,Only Delivery,False
-ok,3528.0,3528.0,1.0,True,,,B09FSYYL48,"JK Tyre 165/65 R13 Ultima Hi^Life Tubeless Car Tyre, (165/65R13)",JK Tyre,4W,3528.0,Only Delivery,True
-ok,1880.0,1971.0,12.0,False,,,B01FTSHF82,"Ceat Milaze 3.00-17 50P Tubeless Bike Tyre, Rear (102975), 3 Inches",CEAT,4W,,Only Delivery,False
-ok,8317.0,8317.0,4.0,True,,0.0,B0F28ZFLZK,CEAT 215/55 R18 SECURADRIVE 95H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,8317.0,Only Delivery,False
-ok,6719.0,6715.0,2.0,True,,0.0,B0F28ZSJST,JK 225/60 R16 UX ROYALE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6719.0,Only Delivery,False
-ok,3400.0,3678.0,13.0,False,26.0,,B07N8YZ1ZB,Apollo tyres Amazer 4G Life 145/80 R13 75T Tubeless Car Tyre,Apollo,4W,3426.0,Only Delivery,False
-ok,4620.0,3900.0,7.0,False,183.0,,B01IIQQK2O,Apollo Alnac 4G 185/70 R14 88H Tubeless Car Tyre,Apollo,4W,4803.0,Only Delivery,False
-ok,5741.0,5741.0,1.0,True,,,B0GQ326W1W,With Doorstep Fitment - CEAT 175/65 R15 MILAZE X3 84T TUBELESS TYRE,CEAT,4W,5741.0,Fitment/Installation,False
-ok,6799.0,6799.0,1.0,True,,,B0GGYXPLBV,Ceat 205/65 R15 Milaze X3 94S Tubeless Car Tyre Twi with Add on Home Installation CE2056515EMTL-HF With Doorstep Installation,CEAT,4W,6799.0,Fitment/Installation,False
-ok,8729.0,8729.0,1.0,True,,,B0GGYSZ8TD,CEAT 235/70 R16 CrossDrive AT 106S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,8729.0,Fitment/Installation,False
-ok,3150.0,3150.0,6.0,False,529.0,,B0F6NF5J2Z,GOODYEAR 165/70 R14 DP SERIES 81S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3679.0,Only Delivery,False
-ok,4486.0,4486.0,1.0,True,,,B0GGYXHQ9Q,CEAT 165/65 R14 MILAZE X5 79T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,4486.0,Fitment/Installation,False
-ok,3500.0,3642.0,13.0,False,119.0,,B00Y0UBX7A,MRF Zvts 155/70% R13 75T Tubeless Car Tyre,MRF,4W,3619.0,Only Delivery,False
-ok,2499.0,3999.0,3.0,False,,,B01FTSHZL4,"Ceat 100529 F67 3.25-19 54P Tube-Type Bike Tyre, Front |Rim - 7 inches| | Section width - 90 millimeters",CEAT,2W,,Only Delivery,False
-ok,5830.0,6039.0,12.0,False,827.0,,B0BZVR3CGX,Ceat 215/60 R17 SecuraDrive SUV TL 96H,CEAT,4W,6657.0,Only Delivery,False
-ok,6399.0,6399.0,1.0,True,,,B0F6NFKSV4,GOODYEAR 185/60 R16 ASSURANCE TRIPLEMAX 2 86H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6399.0,Only Delivery,False
-ok,1639.0,1639.0,1.0,True,,,B0F4R7BWTK,CEAT 2.75-18 SECURA F85 42P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,1639.0,Only Delivery,False
-ok,7200.0,7200.0,8.0,False,529.0,,B0CJRR1VTX,"Goodyear Tyre 195/55% R16 Assurance Maxguard Fp 87V Tl, 55, Tubeless",Goodyear,4W,7729.0,Only Delivery,False
-ok,5559.0,5559.0,2.0,True,,141.0,B0BB2HJND5,GOODYEAR 185/65 R15 DURAPLUS 88S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5559.0,Only Delivery,False
-ok,5797.0,5797.0,1.0,True,,,B0GGYHSK7S,CEAT 175/65 R15 MILAZE X5 84T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,5797.0,Fitment/Installation,False
-ok,3559.0,3559.0,1.0,True,,,B0GGYN7LMS,JK 175/60 R13 ULTIMA SPORTS TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,3559.0,Fitment/Installation,False
-ok,11559.0,11559.0,1.0,True,,,B0GQ2W9P7K,With Doorstep Fitment - CEAT 235/60 R18 SECURADRIVE SUV 103H TUBELESS TYRE,CEAT,4W,11559.0,Fitment/Installation,False
-ok,3414.0,3414.0,1.0,True,,,B0GGZ3FQZX,JK Tyre 145/80 R13 Ultima Hi^Life Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,3414.0,Fitment/Installation,False
-ok,6189.0,6189.0,1.0,True,,,B0F28WV1RT,CEAT 195/60 R16 SECURADRIVE 89V TUBELESS TYRE,CEAT,4W,6189.0,Only Delivery,False
-ok,3297.0,3297.0,1.0,True,,,B0H1MLDYTR,With Doorstep Fitment - Goodyear KELLY 155/80 R13 VFM 3 79T TUBELESS TYRE 4 Wheeler Tyre,Goodyear,4W,3297.0,Fitment/Installation,False
-ok,6239.0,6239.0,1.0,True,,,B0GGZ3FQVL,CEAT 215/75 R15 F1 STEEL BT 100S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6239.0,Fitment/Installation,False
-ok,6450.0,6450.0,2.0,False,189.0,,B0F6NC8RBY,GOODYEAR 195/65 R15 ASSURANCE TRIPLEMAX 2 91H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6639.0,Only Delivery,False
-ok,11409.0,11409.0,1.0,True,,,B0GQ2W8KMZ,CEAT 235/60 R18 SECURADRIVE SUV 103H TUBELESS TYRE,CEAT,4W,11409.0,Only Delivery,False
-ok,8227.0,8227.0,1.0,True,,,B0GGYL3YL1,JK 215/75 R15 BRUTE 10PR 115/113L TUBE-TYPE TYRE | With Doorstep Installation,JK Tyre,4W,8227.0,Fitment/Installation,False
-ok,5000.0,5000.0,8.0,False,517.0,,B08DBJR95N,Apollo tyres Alnac 4G 185/65% R15 88H Tubeless Car Tyre,Apollo,4W,5517.0,Only Delivery,False
-ok,4019.0,4019.0,1.0,True,,,B0F28WGR6L,CEAT 165/80 R14 SECURADRIVE 85S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4019.0,Only Delivery,False
-ok,4119.0,4119.0,1.0,True,,,B0GGYL51VN,Ceat 165/65 R13 Milaze X3 77T Tubeless Car Tyre with Add on Home Installation CE1656513MXTL-HF With Doorstep Installation,CEAT,4W,4119.0,Fitment/Installation,False
-ok,3987.0,3987.0,1.0,False,150.0,,B0GGYQT214,CEAT 155/65 R14 MILAZE X5 75T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,4137.0,Fitment/Installation,False
-ok,9989.0,9989.0,1.0,True,,,B0GGYY5PHD,CEAT 255/60 R19 CrossDrive AT 109H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,9989.0,Fitment/Installation,False
-ok,3499.0,5323.0,8.0,False,447.0,,B07N8Y9232,Apollo AMAZER 4G LIFE 165/65 R13 77T Tubeless Car Tyre,Apollo,4W,3946.0,Only Delivery,False
-ok,8989.0,8989.0,1.0,True,,,B0F6NFBPCF,GOODYEAR 205/50 R17 ASSURANCE TRIPLEMAX 2 93W TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8989.0,Only Delivery,False
-ok,15729.0,15729.0,1.0,True,,,B0GGYXXZRW,CEAT 265/60 R18 CrossDrive AT 110T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,15729.0,Fitment/Installation,False
-ok,5239.0,5239.0,1.0,True,,,B0GGZ1P23X,JK 185/55 R16 UX ROYALE TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,5239.0,Fitment/Installation,False
-ok,12899.0,12899.0,1.0,True,,,B0GN2Y6JZH,CEAT (With Fitment) 225/55 R18 SPORTDRIVE CALM 102W XL TUBELESS TYRE,CEAT,4W,12899.0,Fitment/Installation,False
-ok,6524.0,6524.0,1.0,True,,,B0GQ321JDM,With Doorstep Fitment - JK 215/75 R15 RANGER H/T 100S TUBELESS TYRE,JK Tyre,4W,6524.0,Fitment/Installation,False
-ok,6439.0,6439.0,2.0,True,,560.0,B0GGZ7FG26,JK 205/60 R16 RANGER H/T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6439.0,Fitment/Installation,False
-ok,3678.0,3678.0,1.0,True,,,B0GGYKYY7S,"JK Tyre 165/65 R13 Ultima Hi^Life Tubeless Car Tyre, (165/65R13) With Doorstep Installation",JK Tyre,4W,3678.0,Fitment/Installation,False
-ok,6500.0,6500.0,4.0,False,149.0,,B0CK7194BF,apollo Alnac 4G 205/65R16 95H Steel Belted Tubeless Car Radial Tyre,Apollo,4W,6649.0,Only Delivery,False
-ok,5509.0,5149.0,3.0,True,,-9.0,B0F6NC5W1G,GOODYEAR 175/70 R14 DURAPLUS 84T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5509.0,Only Delivery,False
-ok,,,0.0,,,,B0GGYR4LK8,CEAT 255/65 R18 CrossDrive AT 111H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,,Fitment/Installation,False
-ok,5349.0,5349.0,3.0,False,37.0,,B0F28WT84R,CEAT 175/65 R15 SECURADRIVE 84H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5386.0,Only Delivery,False
-ok,7166.0,6900.0,3.0,True,,-266.0,B0GGYLWS4W,CEAT 205/55 R17 SECURADRIVE 91H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,7166.0,Fitment/Installation,False
-ok,3625.0,3625.0,2.0,True,,674.0,B0F2911N22,JK 155/80 R13 ULTIMA HI^LIFE 75T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3625.0,Only Delivery,False
-ok,3680.0,3680.0,3.0,False,105.0,,B0F28XPW5C,JK 165/80 R14 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3785.0,Only Delivery,False
-ok,6369.0,6369.0,3.0,True,,191.0,B0GGYKVGNB,CEAT 215/75 R15 SECURADRIVE SUV 100H TUBELESS TYRE | With Doorstep Installation,CEAT,4W,6369.0,Fitment/Installation,False
-ok,3450.0,3960.0,8.0,False,459.0,,B08637RTWX,Goodyear Assurance Duraplus 2 155/70R13 75T Tubeless Car Tyre,Goodyear,4W,3909.0,Only Delivery,False
-ok,3334.0,3334.0,1.0,True,,,B0GQ32X5B1,With Doorstep Fitment - CEAT 145/80 R12 MILAZE X3 74T TUBELESS TYRE,CEAT,4W,3334.0,Fitment/Installation,False
-ok,6853.0,9999.0,4.0,True,,647.0,B07N8Y891Q,JK Tyres 215/75 R15 Brute 4X4 Tube type Car Tyre (1325121715100SBRT0),JK Tyre,4W,6853.0,Only Delivery,False
-ok,5089.0,5089.0,2.0,True,,0.0,B0F28XYZ25,JK 185/55 R16 UX ROYALE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,5089.0,Only Delivery,False
-ok,6096.0,6096.0,1.0,True,,,B0GGZ1SPRD,KELLY 215/75 R15 VFM 5 100/97S TUBELESS TYRE | With Doorstep Installation,Kelly,4W,6096.0,Fitment/Installation,False
-ok,3920.0,3920.0,3.0,False,15.0,,B0F4RDGDZL,CEAT 155 R13 MILAZE LT TL 8PR Tyre | Car Tyre for Front and Rear,CEAT,4W,3935.0,Only Delivery,False
-ok,7159.0,7159.0,1.0,True,,,B0GGYTD6CW,CEAT 195/60 R15 SECURADRIVE 88V TUBELESS TYRE | With Doorstep Installation,CEAT,4W,7159.0,Fitment/Installation,False
-ok,5259.0,5999.0,3.0,True,,0.0,B082SWPJQ5,Ceat Milaze X3 175/70% R14 Milaze X3 Tl 84H Tubeless Car Tyre,CEAT,4W,5259.0,Only Delivery,False
-ok,9033.0,9033.0,1.0,True,,,B0GGYKK1ZY,JK Tyre 235/70 R16 Ranger H/T Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,9033.0,Fitment/Installation,False
-ok,10909.0,10909.0,1.0,True,,,B0GQ3678MW,With Doorstep Fitment - CEAT 245/65 R17 SECURADRIVE SUV 107H TUBELESS TYRE,CEAT,4W,10909.0,Fitment/Installation,False
-ok,7513.0,7513.0,1.0,True,,,B0GGYTVBHP,JK 205/60 R16 UX ROYALE SMART TYRE TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,7513.0,Fitment/Installation,False
-ok,14179.0,14179.0,1.0,True,,,B0GN34DXF1,CEAT (With Fitment) 235/60 R18 SPORTDRIVE SUV CALM 107W XL TUBELESS TYRE,CEAT,4W,14179.0,Fitment/Installation,False
-ok,5799.0,9999.0,5.0,False,,,B01IIQQK7E,Apollo Alnac 4G 195/55 R15 85H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False
-ok,4336.0,4336.0,1.0,True,,,B0GN31PSLW,CEAT Milaze X3 165/65 R14 79T Tubeless Car Tyre | Long-Lasting Tread | Fuel Efficient | High Grip Performance,CEAT,4W,4336.0,Only Delivery,False
-ok,3289.0,3289.0,1.0,True,,,B0GGYKZ87Z,CEAT 145/80 R12 MILAZE X5 74T TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,3289.0,Fitment/Installation,False
-ok,4336.0,4336.0,2.0,True,,14.0,B0F28YP6MY,CEAT 165/65 R14 MILAZE X5 79T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4336.0,Only Delivery,False
-ok,,,0.0,,,,B0F28Y5XD4,CEAT 145/70 R12 MILAZE X3 69T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,2539.0,Only Delivery,False
-ok,3659.0,3659.0,1.0,True,,,B0GGYTJGMT,Ceat Milaze X3 155/65 R13 73T Tubeless Car Tyre With Doorstep Installation,CEAT,4W,3659.0,Fitment/Installation,False
-ok,5029.0,5029.0,1.0,True,,,B09NQH3ZV6,CEAT 185/65 R14 MILAZE X3 86T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5029.0,Only Delivery,False
-ok,6519.0,6519.0,3.0,True,,281.0,B0GGZ3PFCT,CEAT 185/85 R16 MILAZE 105Q LT TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,6519.0,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MLJWGD,With Doorstep Fitment - CEAT 130/70-18 ZOOM CRUZ 63H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3770.91,Fitment/Installation,False
-ok,3700.0,3700.0,5.0,False,174.0,,B0F28ZK2GB,CEAT 155/80 R13 MILAZE X5 79T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3874.0,Only Delivery,True
-ok,6649.0,6649.0,1.0,True,,,B0GGYT2V9S,Ceat 205/65 R16 Milaze X3 95S Tubeless Car Tyre TWI with Add on Home Installation CE2056516MXTL-HF With Doorstep Installation,CEAT,4W,6649.0,Fitment/Installation,False
-ok,3999.0,3890.0,3.0,True,,12.0,B0F28YL51T,CEAT 155/65 R14 MILAZE X5 75T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3987.0,Only Delivery,False
-ok,,,0.0,,,,B0GGYKSCT7,CEAT 145/70 R12 MILAZE X3 69T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,2689.0,Fitment/Installation,False
-ok,1780.0,1670.0,4.0,False,9.0,,B0F4R9M8XX,CEAT 3.00-17 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1789.0,Only Delivery,False
-ok,3459.0,3459.0,1.0,True,,,B0GQ2ZCZZ8,CEAT 145/80 R13 MILAZE X5å 75T TUBELESS TYRE,CEAT,4W,3459.0,Only Delivery,False
-ok,17939.0,17939.0,1.0,True,,,B0GN2W9PCR,CEAT (With Fitment) 255/55 R19 SPORTDRIVE SUV CALM 111W XL TUBELESS TYRE,CEAT,4W,17939.0,Fitment/Installation,False
-ok,5436.0,5436.0,1.0,True,,,B0F28WWP6P,CEAT 185/60 R15 SECURADRIVE 84H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5436.0,Only Delivery,False
-ok,12699.0,12699.0,1.0,True,,,B08D696DKF,Goodyear Wrangler At Silenttrac 235/65% R17 104H Tubeless Car Tyre,Goodyear,4W,12699.0,Only Delivery,False
-ok,8049.0,8049.0,1.0,True,,,B0GQ393417,CEAT 215/45 R17 SPORTDRIVE CALM 91Y XL TUBELESS TYRE,CEAT,4W,8049.0,Only Delivery,False
-ok,3369.0,3369.0,1.0,True,,,B0GN34HTQT,CEAT Milaze X3 145/70 R13 71T Tubeless Car Tyre | Long-Lasting Tread | Fuel Efficient | High Grip Performance,CEAT,4W,3369.0,Only Delivery,False
-ok,17789.0,17789.0,1.0,True,,,B0GN2Z1BDT,CEAT 255/55 R19 SPORTDRIVE SUV CALM 111W XL TUBELESS TYRE,CEAT,4W,17789.0,Only Delivery,False
-ok,3946.0,5999.0,6.0,True,,-157.0,B075P3G7NH,Apollo Amazer 4G Life 165/70 R13 79T Tubeless Car Tyre,Apollo,4W,3946.0,Only Delivery,False
-ok,,,0.0,,,,B0GGYJGJBD,Ceat 215/75 R15 Milaze 115/113S Lt Tubeless Car Tyre with Add on Home Installation CE2157515MZTL-HF With Doorstep Installation,CEAT,4W,6839.0,Fitment/Installation,False
-ok,3799.0,3799.0,1.0,True,,,B0GGYKVNL8,CEAT 155/65 R13 MILAZE X5 73T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,3799.0,Fitment/Installation,False
-ok,4375.0,4399.0,3.0,True,,180.0,B00Y0UMVS0,MRF ZVTV 165/65 R14 79H Tubeless Car Tyre,MRF,4W,4219.0,Only Delivery,False
-ok,2379.0,2379.0,2.0,True,,320.0,B0F28XBY1D,CEAT 90/90-19 ZOOM PLUS F 52P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2379.0,Only Delivery,False
-ok,1620.0,2999.0,7.0,False,99.0,,B0F4R7W7N1,CEAT 2.75-18 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1719.0,Only Delivery,False
-ok,3289.0,3289.0,1.0,True,,,B0GN2JFV67,CEAT (With Fitment) 145/80 R12 MILAZE X3 74T TUBE-TYPE TYRE,CEAT,4W,3289.0,Fitment/Installation,False
-ok,2879.0,2879.0,1.0,True,,,B0GGYTJCMK,CEAT 135/70 R12 MILAZE 65S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,2879.0,Fitment/Installation,False
-ok,8187.0,8187.0,1.0,True,,,B0GGYKWCMC,JK 235/75 R15 BRUTE 4X4 TUBE-TYPE TYRE | With Doorstep Installation,JK Tyre,4W,8187.0,Fitment/Installation,False
-ok,12149.0,12149.0,1.0,True,,,B0F28YQBMW,CEAT 265/65 R17 CrossDrive AT 112S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,12149.0,Only Delivery,False
-ok,4100.0,4399.0,7.0,False,399.0,,B077C2C1YR,MRF ZLX 165/65 R14 79H Tubeless Car Tyre,MRF,4W,4499.0,Only Delivery,False
-ok,8500.0,8500.0,2.0,False,79.0,,B0F28TKBDX,CEAT 235/70 R16 CrossDrive AT 106S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,8579.0,Only Delivery,False
-ok,6402.0,6390.0,4.0,True,,0.0,B0F28ZN98Z,JK 215/75 R15 RANGER X-A/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6402.0,Only Delivery,False
-ok,13800.0,13800.0,1.0,False,,,B0F6NDMMD9,GOODYEAR 265/65 R17 WRANGLER AT/ST 112S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,,Only Delivery,False
-ok,6100.0,6100.0,2.0,True,,243.0,B0CJRR67PK,Continental Tyre 175/65R15 ULTRACONTACT UC6 84H TL,Continental,4W,5956.0,Only Delivery,False
-ok,6339.0,6339.0,1.0,True,,,B0GN2T1G85,CEAT (With Fitment) 195/60 R16 SECURADRIVE 89V TUBELESS TYRE,CEAT,4W,6339.0,Fitment/Installation,False
-ok,6449.0,6440.0,3.0,True,,0.0,B0F6NCJ1HM,GOODYEAR 215/75 R15 WRANGLER RT/S 100S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6449.0,Only Delivery,False
-ok,3245.0,3300.0,8.0,False,314.0,,B00Y0UQ91U,MRF Zvts 145/70% R13 71S Tubeless Car Tyre,MRF,4W,3559.0,Only Delivery,False
-ok,3388.0,3388.0,1.0,True,,,B0GGZ4SRPP,KELLY 155/65 R14 VFM 3 75T TUBELESS TYRE | With Doorstep Installation,Kelly,4W,3388.0,Fitment/Installation,False
-ok,4242.0,3599.0,2.0,True,,0.0,B07N8Y59JZ,Apollo AMAZER 4G LIFE 155/70 R14 77T Tubeless Car Tyre,Apollo,4W,4242.0,Only Delivery,False
-ok,2359.0,2359.0,1.0,True,,,B0F5PWX9CF,KELLY 145/70 R12 VFM 1 69T TUBELESS TYRE | Car Tyre for Front and Rear,Kelly,4W,2359.0,Only Delivery,False
-ok,8600.0,8999.0,6.0,True,,588.0,B0CJRRPJDC,Goodyear Tyre 195/60R16 ASSURANCE TRIPLEMAX 2 89H TL,Goodyear,4W,7809.0,Only Delivery,False
-ok,3880.0,3880.0,4.0,False,107.0,,B0CJRR7LYJ,Continental Tyre 165/70R14 COMFORTCONTACT CC6 81T TL,Continental,4W,3987.0,Only Delivery,False
-ok,,9999.0,2.0,,,,B0D4Z9JRY6,JK Tyre Ultima Neo 155/80 R13 Tubeless Car Tyre Set of 2,JK Tyre,4W,,Only Delivery,False
-ok,3909.0,3909.0,1.0,True,,,B0F6NFLLNP,GOODYEAR 155/80 R13 ASSURANCE DURAPLUS 2 79T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3909.0,Only Delivery,False
-ok,3689.0,3689.0,1.0,True,,,B0GGYN8PNQ,JK 155/70 R13 ULTIMA HI^LIFE 75T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,3689.0,Fitment/Installation,False
-ok,2949.0,2949.0,1.0,True,,,B0GGYT6NJK,JK Tyre 135/70 R12 Ultima LXT Tubeless Car Tyre With Doorstep Installation,JK Tyre,4W,2949.0,Fitment/Installation,False
-ok,3762.0,3762.0,1.0,True,,,B0F4RCFXKT,CEAT 155 R13 MILAZE HD LT TL 8PR Tyre | Car Tyre for Front and Rear,CEAT,4W,3762.0,Only Delivery,False
-ok,3990.0,3990.0,1.0,True,,,B0GGYZY8W6,CEAT 155/65 R14 MILAZE X3 75T TUBELESS TYRE | With Doorstep Installation,CEAT,4W,3990.0,Fitment/Installation,False
-ok,7299.0,7299.0,1.0,True,,,B0GQ2ZL659,With Doorstep Fitment - CEAT 205/60 R16 SECURADRIVE 92H TUBELESS TYRE,CEAT,4W,7299.0,Fitment/Installation,False
-ok,9900.0,9900.0,2.0,False,90.0,,B0F28ZHJKC,CEAT 235/65 R17 SECURADRIVE SUV 104H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,9990.0,Only Delivery,False
-ok,16009.0,16009.0,1.0,True,,,B0GN2Z4YHS,CEAT (With Fitment) 235/55 R19 SPORTDRIVE SUV CALM 105W XL TUBELESS TYRE,CEAT,4W,16009.0,Fitment/Installation,False
-ok,4909.0,4909.0,1.0,True,,,B0F28XFH85,CEAT 110/70 ZR17 SPORT RAD STEEL (Steel Radial) 54W TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,4909.0,Only Delivery,False
-ok,6349.42,6349.42,2.0,False,339.58,,B0F6NCKMNQ,GOODYEAR 195/60 R15 ASSURANCE TRIPLEMAX 2 88T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6689.0,Only Delivery,False
-ok,3843.0,5225.0,6.0,False,31.0,,B0BR5TCFZG,CEAT 155/80 R13 MILAZE X3 79T Tubeless Tyre CE1558013MXTL-1,CEAT,4W,3874.0,Only Delivery,False
-ok,11559.0,11559.0,1.0,True,,,B0GGYVCZ3M,JK 265/60 R18 RANGER H/T TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,11559.0,Fitment/Installation,False
-ok,9549.0,9549.0,2.0,False,772.0,,B0CJRRSVQ2,Continental Tyre 215/60R17 UltraContact UC6 96H TL,Continental,4W,10321.0,Only Delivery,False
-ok,3519.0,3519.0,1.0,True,,,B0GQ38HTDS,With Doorstep Fitment - CEAT 145/80 R13 MILAZE X3 75T TUBELESS TYRE,CEAT,4W,3519.0,Fitment/Installation,False
-ok,14029.0,14029.0,1.0,True,,,B0GN2Z3WJC,CEAT 235/60 R18 SPORTDRIVE SUV CALM 107W XL TUBELESS TYRE,CEAT,4W,14029.0,Only Delivery,False
-ok,3519.0,3519.0,1.0,True,,,B0GN2SYHRJ,CEAT (With Fitment) 145/70 R13 MILAZE X3 71T TUBELESS TYRE,CEAT,4W,3519.0,Fitment/Installation,False
-ok,1389.0,1389.0,2.0,True,,410.0,B0F28XHL6S,CEAT 90/90-12 ZOOM HI 54J TL | Front/Rear Tyre | Car Tyre for Front and Rear,CEAT,2W,1389.0,Only Delivery,False
-ok,6869.0,6869.0,1.0,True,,,B0GGYYBY8M,JK 225/60 R16 UX ROYALE TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,6869.0,Fitment/Installation,False
-ok,8619.0,8619.0,1.0,True,,,B0GN2NF6PL,CEAT 245/70 R16 CROSSDRIVE AT 111S XL TUBELESS TYRE,CEAT,4W,8619.0,Only Delivery,False
-ok,3099.0,3099.0,2.0,True,,650.0,B0F28Y7C7W,CEAT 140/70-17 ZOOM PLUS 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3099.0,Only Delivery,False
-ok,8000.0,8000.0,2.0,False,37.0,,B0F28ZP3W4,JK 235/75 R15 BRUTE 4X4 TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,8037.0,Only Delivery,False
-ok,19299.0,19299.0,1.0,True,,,B0GN2ZGRZC,CEAT (With Fitment) 245/45 R19 SPORTDRIVE CALM 102Y XL TUBELESS TYRE,CEAT,4W,19299.0,Fitment/Installation,False
-ok,3659.0,3659.0,1.0,True,,,B0GGZ1TN9Y,CEAT 145/70 R13 MILAZE X3 71T TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,3659.0,Fitment/Installation,False
-ok,8300.0,8300.0,6.0,False,49.0,,B0BZVRVMVV,Ceat 215/65 R16 SecuraDrive SUV TL 98H,CEAT,4W,8349.0,Only Delivery,False
-ok,3550.0,5999.0,3.0,True,,241.0,B0785NMZN4,Ceat Milaze X3 145/70 R13 71T Tubeless Car Tyre,CEAT,4W,3509.0,Only Delivery,False
-ok,3770.0,3770.0,11.0,False,339.0,,B00Y0UA916,MRF Zlx 155/80% R13 79T Tubeless Car Tyre,MRF,4W,4109.0,Only Delivery,False
-ok,3889.0,3889.0,1.0,True,,,B0GQ3KTCXB,With Doorstep Fitment - CEAT 155/70 R13 MILAZE X5å 75T TUBE-TYPE TYRE,CEAT,4W,3889.0,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MX6V7V,With Doorstep Fitment - CEAT 130/90-15 ZOOM X3 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2741.31,Fitment/Installation,False
-ok,7888.0,7888.0,2.0,False,681.0,,B0F6NDGJBS,GOODYEAR 235/70 R16 WRANGLER AT/ST 106T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8569.0,Only Delivery,False
-ok,3559.0,3559.0,1.0,True,,,B0GGYXSZHH,JK 155/65 R12 ULTIMA LXT 71S TUBELESS TYRE | With Doorstep Installation,JK Tyre,4W,3559.0,Fitment/Installation,False
-ok,1449.0,1449.0,2.0,True,,450.0,B0F4RGKNYN,CEAT 2.75-17 SECURA F85 41P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,1449.0,Only Delivery,False
-ok,6569.0,6569.0,1.0,True,,,B0F28XV5PX,JK 195/55 R16 UX ROYALE SMART TYRE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6569.0,Only Delivery,False
-ok,5329.0,5329.0,1.0,True,,,B0F6NDT97Q,GOODYEAR 175/65 R15 ASSURANCE MAXGUARD 84H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5329.0,Only Delivery,False
-ok,3088.0,3088.0,1.0,True,,,B0F5PXK6QC,KELLY 155/65 R14 VFM 3 75T TUBELESS TYRE | Car Tyre for Front and Rear,Kelly,4W,3088.0,Only Delivery,False
-ok,6339.0,6339.0,1.0,True,,,B0GGZ8G3DZ,CEAT 215/75 R15 F1 STEEL BT 100S TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,6339.0,Fitment/Installation,False
-ok,15999.0,15999.0,1.0,True,,,B0GN2M24ZT,CEAT 255/55 R18 SPORTDRIVE SUV CALM 109W XL TUBELESS TYRE,CEAT,4W,15999.0,Only Delivery,False
-ok,5690.0,5690.0,5.0,False,238.0,,B0F28XQVF6,JK 205/65 R16 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,5928.0,Only Delivery,False
-ok,17659.0,17659.0,1.0,True,,,B0GN2VC97T,CEAT (With Fitment) 235/55 R18 SPORTDRIVE SUV CALM 104W XL TUBELESS TYRE,CEAT,4W,17659.0,Fitment/Installation,False
-ok,4875.0,4875.0,2.0,False,494.0,,B0F6NCLQQH,GOODYEAR 175/70 R13 ASSURANCE DURAPLUS 2 82H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5369.0,Only Delivery,False
-ok,4950.0,6999.0,11.0,False,279.0,,B0BB29F116,Goodyear 175/60 R15 ASSURANCE TRIPLEMAX 81T Tubeless Car Tyre,Goodyear,4W,5229.0,Only Delivery,False
-ok,8199.0,8199.0,1.0,True,,,B0GQ32S1ZN,With Doorstep Fitment - CEAT 215/45 R17 SPORTDRIVE CALM 91Y XL TUBELESS TYRE,CEAT,4W,8199.0,Fitment/Installation,False
-ok,6769.0,6769.0,1.0,True,,,B0GGYNVJNK,CEAT 215/75 R15 CrossDrive AT 100S TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,6769.0,Fitment/Installation,False
-ok,11339.0,11339.0,1.0,True,,,B0F6NDVVYQ,GOODYEAR 215/55 R17 ASSURANCE TRIPLEMAX 2 94V TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,11339.0,Only Delivery,False
-ok,8939.0,8939.0,1.0,True,,,B0GQ32NFF3,CEAT 215/50 R17 SPORTDRIVE CALM 95Y XL TUBELESS TYRE,CEAT,4W,8939.0,Only Delivery,False
-ok,11209.0,11209.0,1.0,True,,,B0F28YXTWH,JK 31x10.50 R15 RANGER M/T 109Q TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,11209.0,Only Delivery,False
-"error: [{'code': 'InvalidInput', 'message': 'B0H1MK2NS1 is an invalid ASIN for marketplace A21TJRUUN4KGV', 'details': ''}]",,,,,,,B0H1MK2NS1,With Doorstep Fitment - CEAT 110/70-12 ENERGY RIDE EV TUBELESS TYRE | Front/Rear | Car Tyre for Front and Rear,CEAT,4W,,Fitment/Installation,False
-ok,3689.0,3689.0,2.0,True,,11.0,B0GQ35PQ8T,CEAT 155/70 R13 MILAZE X5å 75T TUBELESS TYRE,CEAT,4W,3689.0,Only Delivery,False
-ok,28239.0,28239.0,1.0,True,,,B0GN2QYL1X,CEAT (With Fitment) 275/45 ZR21 SPORTDRIVE SUV CALM 110Y XL TUBELESS TYRE,CEAT,4W,28239.0,Fitment/Installation,False
-ok,8769.0,8769.0,1.0,True,,,B0GN342JPK,CEAT (With Fitment) 245/70 R16 CROSSDRIVE AT 111S XL TUBELESS TYRE,CEAT,4W,8769.0,Fitment/Installation,False
-ok,17609.0,17609.0,1.0,True,,,B0GN2MZLYV,CEAT (With Fitment) 255/50 R19 SPORTDRIVE SUV CALM 107W XL TUBELESS TYRE,CEAT,4W,17609.0,Fitment/Installation,False
-ok,7802.0,7802.0,1.0,True,,,B0F28XTXX7,JK 235/75 R15 RANGER X-A/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,7802.0,Only Delivery,False
-ok,5490.0,5490.0,1.0,True,,,B0H1MKM7F8,With Doorstep Fitment - CEAT 150/60-17 ZOOM RAD X1 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,5490.0,Fitment/Installation,False
-ok,3819.0,3819.0,2.0,True,,1.0,B0F6NF9M35,GOODYEAR 155/65 R13 ASSURANCE DURAPLUS 2 73T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3819.0,Only Delivery,False
-ok,6089.0,6089.0,1.0,True,,,B0F28X37X6,CEAT 215/75 R15 F1 STEEL BT 100S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6089.0,Only Delivery,False
-ok,8899.0,8899.0,1.0,True,,,B0F6ND9LJ9,GOODYEAR 205/55 R16 ASSURANCE TRIPLEMAX 2 91H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8899.0,Only Delivery,False
-ok,6600.0,9999.0,3.0,False,,,B079X28Z1Z,"Ceat Milaze X3 Tl 205/65% R15 94S Tubeless Car Tyre, Front (104999), Black",CEAT,4W,,Only Delivery,False
-ok,30389.0,30389.0,1.0,True,,,B0GN2TF488,CEAT 315/40 ZR21 SPORTDRIVE SUV CALM 115Y XL TUBELESS TYRE,CEAT,4W,30389.0,Only Delivery,False
-ok,13879.0,13879.0,1.0,True,,,B0GN2X6XSS,CEAT 245/45 R18 SPORTDRIVE CALM 100Y XL TUBELESS TYRE,CEAT,4W,13879.0,Only Delivery,False
-ok,11439.0,11439.0,1.0,True,,,B0GN2QCQTM,CEAT (With Fitment) 245/45 R17 SPORTDRIVE CALM 99Y XL TUBELESS TYRE,CEAT,4W,11439.0,Fitment/Installation,False
-ok,7289.0,7289.0,1.0,True,,,B0F28XRM74,CEAT 205/55 R16 SECURADRIVE 91H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,7289.0,Only Delivery,False
-ok,10549.0,10549.0,1.0,True,,,B0GQ369PD2,With Doorstep Fitment - CEAT 225/55 R17 SPORTDRIVE CALM 101W XL TUBELESS TYRE,CEAT,4W,10549.0,Fitment/Installation,False
-ok,3499.0,3499.0,1.0,True,,,B0F28VXWWB,CEAT 120/80-17 GRIPP X5 61P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2789.0,Only Delivery,False
-ok,,4855.0,3.0,,,,B0BBQKW47L,JK Tyre 155/80 R13 ULTIMA NEO 79T TUBELESS CAR TYRE,JK Tyre,4W,3624.89,Fitment/Installation,False
-ok,3519.0,3519.0,1.0,True,,,B0GGYTK7VC,CEAT 155/65 R12 MILAZE 71S TUBELESS TYRE | With Doorstep Installation,CEAT,4W,3519.0,Fitment/Installation,False
-ok,10549.0,10549.0,1.0,True,,,B0GQ39R68P,With Doorstep Fitment - CEAT 225/45 R17 SPORTDRIVE CALM 94Y XL TUBELESS TYRE,CEAT,4W,10549.0,Fitment/Installation,False
-ok,6609.0,6499.0,4.0,True,,-110.0,B016D6U5F4,Apollo Amazer 4G Life 205/65 R15 94T Tubeless Car Tyre,Apollo,4W,6609.0,Only Delivery,False
-ok,2969.0,5999.0,2.0,True,,3030.0,B01IF779OE,Goodyear Ducaro Hi-Miler 145/70 R12 69T Tubeless Car Tyre (GY026 ),Goodyear,4W,2969.0,Only Delivery,False
-ok,2959.0,2959.0,1.0,True,,,B0GQ3DQVLF,CEAT 145/70 R12 MILAZE X3 69T TUBE-TYPE TYRE,CEAT,4W,2959.0,Only Delivery,False
-ok,10399.0,10399.0,1.0,True,,,B0GQ362CB1,CEAT 225/45 R17 SPORTDRIVE CALM 94Y XL TUBELESS TYRE,CEAT,4W,10399.0,Only Delivery,False
-ok,1979.0,2999.0,4.0,True,,518.0,B0F4RB6BXX,CEAT 3.00-18 GRIPP X5 52P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,1979.0,Only Delivery,False
-ok,2369.0,2369.0,3.0,False,1039.0,,B074TFDKPW,"Ceat 103172 Gripp XL 90/90-21 54S Tube-Type Bike Tyre, Front",CEAT,2W,3408.0,Only Delivery,False
-ok,7950.0,8998.0,4.0,False,199.0,,B0CJRSRDG3,Goodyear Tyre 235/75R15 WRL AT SILENTTRAC XL 109T TL,Goodyear,4W,8149.0,Only Delivery,False
-ok,2778.0,2778.0,1.0,True,,,B0H1MP7YZZ,With Doorstep Fitment - Ceat 130/70R17 ZOOM XL Tubeless Tyre with add-on Home Fitment option.,CEAT,2W,2778.0,Fitment/Installation,False
-ok,,,0.0,,,,B0GGYPDBKH,CEAT 155/70 R13 MILAZE X3 75T TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,3799.0,Fitment/Installation,False
-ok,6460.0,7454.0,5.0,False,124.0,,B01DKI2QYQ,JK Tyre 205/60 R16 UX Royale Tubeless Car Tyre,JK Tyre,4W,6584.0,Only Delivery,False
-ok,4939.0,4939.0,1.0,True,,,B0F6ND8DWT,GOODYEAR 165/65 R14 DP SERIES 79H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,4939.0,Only Delivery,False
-ok,,,0.0,,,,B0H1MLH7G9,With Doorstep Fitment - CEAT 90/90-12 ZOOM X3 54J TUBELESS TYRE | Front Tyre,CEAT,2W,1899.0,Fitment/Installation,False
-ok,3068.01,3068.01,1.0,True,,,B0H1MX1JBC,With Doorstep Fitment - CEAT 130/70-17 ZOOM RAD 62P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3068.01,Fitment/Installation,False
-ok,9369.0,9369.0,1.0,True,,,B0F6NDFJ52,GOODYEAR 215/65 R16 WRANGLER AT/ST 98H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,9369.0,Only Delivery,True
-ok,1929.0,1929.0,1.0,True,,,B0F4RDKBVF,CEAT 3.00-17 GRIPP X5 50P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,1929.0,Only Delivery,False
-ok,8079.0,8079.0,1.0,True,,,B0GGYSLB9H,CEAT 235/75 R15 MILAZE 105S TUBE-TYPE TYRE | With Doorstep Installation,CEAT,4W,8079.0,Fitment/Installation,False
-ok,10459.0,10459.0,1.0,True,,,B0GQ339TLS,With Doorstep Fitment - CEAT 225/50 R17 SPORTDRIVE CALM 98Y XL TUBELESS TYRE,CEAT,4W,10459.0,Fitment/Installation,False
-ok,3139.0,3139.0,2.0,True,,161.0,B0F28X72M7,CEAT 145/80 R12 MILAZE X5 74T TUBE-TYPE TYRE | Car Tyre for Front and Rear,CEAT,4W,3139.0,Only Delivery,False
-ok,3839.0,3839.0,1.0,True,,,B0GQ38W1TV,With Doorstep Fitment - CEAT 155/70 R13 MILAZE X5å 75T TUBELESS TYRE,CEAT,4W,3839.0,Fitment/Installation,False
-ok,2583.0,2583.0,1.0,True,,,B0H1MM5QYK,With Doorstep Fitment - CEAT 110/80-12 Zoom X3 61L TUBELESS TYRE | Rear Tyre,CEAT,2W,2583.0,Fitment/Installation,False
-ok,11679.0,11679.0,1.0,True,,,B0F6NC2YRF,GOODYEAR 225/60 R17 WRANGLER AT/ST 99H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,11679.0,Only Delivery,False
-ok,3414.51,3414.51,1.0,True,,,B0H1MRHTGF,With Doorstep Fitment - CEAT 140/70-17 ZOOM PLUS 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3414.51,Fitment/Installation,False
-ok,2496.0,2496.0,1.0,True,,,B0H1N5DS13,With Doorstep Fitment - CEAT 100/80-12 Zoom X3 56L TUBELESS TYRE | All Wheel | Car Tyre for Front and Rear,CEAT,2W,2496.0,Fitment/Installation,False
-ok,3264.0,3264.0,1.0,True,,,B09FSQKKS8,JK Tyre 145/80 R13 Ultima Hi^Life Tubeless Car Tyre,JK Tyre,4W,3264.0,Only Delivery,False
-ok,3225.0,3225.0,1.0,True,,,B09NQGKZQL,CEAT 120/90-17 GRIPP XL 64S TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3225.0,Only Delivery,False
-ok,15859.0,15859.0,1.0,True,,,B0GN2ZYCML,CEAT 235/55 R19 SPORTDRIVE SUV CALM 105W XL TUBELESS TYRE,CEAT,4W,15859.0,Only Delivery,False
-ok,12749.0,12749.0,1.0,True,,,B0GN341BJD,CEAT 225/55 R18 SPORTDRIVE CALM 102W XL TUBELESS TYRE,CEAT,4W,12749.0,Only Delivery,False
-ok,3119.89,5999.0,2.0,True,,2879.11,B0B6ZR3NCX,KELLY TYRE 165/65 R13 VFM 3 77T Tubeless Car Tyre,Kelly,4W,3119.89,Only Delivery,False
-ok,3409.0,3409.0,1.0,True,,,B0F28YPBLX,JK 155/65 R12 ULTIMA LXT 71S TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3409.0,Only Delivery,False
-ok,3840.0,3840.0,1.0,True,,,B0F28XJV84,CEAT 155/65 R14 MILAZE X3 75T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3840.0,Only Delivery,False
-ok,8849.0,8849.0,1.0,True,,,B0GQ2WFVLN,CEAT 205/45 R17 SPORTDRIVE CALM 88Y XL TUBELESS TYRE,CEAT,4W,8849.0,Only Delivery,False
-ok,3652.11,3652.11,1.0,True,,,B0H1MHMJQQ,With Doorstep Fitment - Ceat 140/60-17 Zoom Rad 63P Tubeless | Rear Tyre with Add on Home Installation CE1406017RZTL-HF,CEAT,2W,3652.11,Fitment/Installation,False
-ok,,,0.0,,,,B0F28Z5GXX,CEAT 80/100-18 GRIPP X5 54P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,,Only Delivery,False
-ok,3712.0,3712.0,2.0,True,,287.0,B07N8XWCD7,Apollo AMAZER 4G LIFE 155/65 R14 75T Tubeless Car Tyre,Apollo,4W,3712.0,Only Delivery,False
-ok,2959.0,2930.0,5.0,True,,-9.0,B0785NCG15,Ceat Milaze X3 145/70 R12 69T Tube Type Car Tyre,CEAT,4W,2959.0,Only Delivery,False
-ok,3477.0,3477.0,2.0,True,,303.0,B01IIQQPLU,Apollo Amazer 3G 155/65 R12 71S Tubeless Car Tyre,Apollo,4W,3477.0,Only Delivery,False
-ok,6917.0,6917.0,1.0,True,,,B0F28Z8RQ3,JK 195/80 R15 RANGER BRT TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6917.0,Only Delivery,False
-ok,7110.0,7110.0,1.0,False,270.0,,B0F4RC29HF,YOKOHAMA 195/60 R15 AS01 88H TUBELESS TYRE | Car Tyre for Front and Rear,Yokohama,4W,7380.0,Only Delivery,False
-ok,10399.0,10399.0,1.0,True,,,B0GQ321TV4,CEAT 225/55 R17 SPORTDRIVE CALM 101W XL TUBELESS TYRE,CEAT,4W,10399.0,Only Delivery,False
-ok,3109.0,3109.0,1.0,True,,,B0GQ32571Y,With Doorstep Fitment - CEAT 145/70 R12 MILAZE X3 69T TUBE-TYPE TYRE,CEAT,4W,3109.0,Fitment/Installation,False
-ok,17509.0,17509.0,1.0,True,,,B0GN2YSNPD,CEAT 235/55 R18 SPORTDRIVE SUV CALM 104W XL TUBELESS TYRE,CEAT,4W,17509.0,Only Delivery,False
-ok,21839.0,21839.0,1.0,True,,,B0GN2MVLK6,CEAT (With Fitment) 275/45 R20 SPORTDRIVE SUV CALM 110Y XL TUBELESS TYRE,CEAT,4W,21839.0,Fitment/Installation,False
-ok,16875.0,16875.0,2.0,False,164.0,,B0F6NGFP1Q,GOODYEAR 265/60 R18 Wrangler AT/ST TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,17039.0,Only Delivery,False
-ok,6450.0,6450.0,7.0,False,49.0,,B082SW7C9K,CEAT Milaze X3 205/65R16 MILAZE X3 TL 95H Tubeless Car Tyre,CEAT,4W,6499.0,Only Delivery,False
-ok,2938.0,2938.0,1.0,True,,,B0H1MM9MRF,"With Doorstep Fitment - CEAT 120/80-18 GRIPP XL 62P TUBELESS TYRE | REAR 120/80-18 Rear Two Wheeler Tyre (Street, Tube Less)",CEAT,2W,2938.0,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MFTFBW,With Doorstep Fitment - CEAT 100/80-17 ZOOM PLUS F 52P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,,Fitment/Installation,False
-ok,11849.0,11849.0,4.0,True,,79.0,B0CJRRXR57,Continental Tyre 225/55R17 ULTRACONTACT XL UC6 101W TL,Continental,4W,11770.0,Only Delivery,False
-ok,5100.0,5100.0,4.0,False,19.0,,B079WVQL2W,"Ceat Milaze X3 TL 175/65 R15 84T Tubeless Car Tyre, Front (105034)",CEAT,4W,5119.0,Only Delivery,False
-ok,10349.0,10349.0,2.0,False,40.0,,B0F28YXBL3,JK 235/65 R17 RANGER H/T SMART TYRE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,10389.0,Only Delivery,False
-ok,2879.91,2879.91,1.0,True,,,B0H1MJDNWW,With Doorstep Fitment - Ceat 120/80-17 Zoom X3 61P Tubeless | Rear Tyre with Add on Home Installation CE1208017ZXTL-HF,CEAT,2W,2879.91,Fitment/Installation,False
-"error: [{'code': 'InvalidInput', 'message': 'B0H1MR8SGS is an invalid ASIN for marketplace A21TJRUUN4KGV', 'details': ''}]",,,,,,,B0H1MR8SGS,With Doorstep Fitment - CEAT 90/90-12 MILAZE X5 54J TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,,Fitment/Installation,False
-ok,3509.0,3509.0,1.0,True,,,B0H1N4BG99,With Doorstep Fitment - JK 155/80 R13 ULTIMA NEO 79T TUBELESS CAR TYRE,JK Tyre,4W,3509.0,Fitment/Installation,False
-ok,7199.0,7199.0,3.0,False,,,B01BDMXK5K,JK Tyre 215/75% R15 Ranger A/T Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False
-ok,14319.0,14319.0,1.0,True,,,B0GN2V6RBD,CEAT (With Fitment) 225/50 R18 SPORTDRIVE CALM 99W XL TUBELESS TYRE,CEAT,4W,14319.0,Fitment/Installation,False
-ok,20469.0,20469.0,1.0,True,,,B0F6NFZV4R,GOODYEAR 225/55 R17 EAG F1 ASY 3 97Y RFT TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,20469.0,Only Delivery,False
-ok,25469.0,25469.0,1.0,True,,,B0GN2YRC6H,CEAT (With Fitment) 245/45 R20 SPORTDRIVE SUV CALM 103W XL TUBELESS TYRE,CEAT,4W,25469.0,Fitment/Installation,False
-ok,,,0.0,,,,B0F28WZ35B,JK 205/60 R16 RANGER H/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,,Only Delivery,False
-ok,14029.0,14029.0,1.0,True,,,B0GN2ST61P,CEAT (With Fitment) 245/45 R18 SPORTDRIVE CALM 100Y XL TUBELESS TYRE,CEAT,4W,14029.0,Fitment/Installation,False
-ok,10309.0,10309.0,1.0,True,,,B0GQ2YVCGV,CEAT 225/50 R17 SPORTDRIVE CALM 98Y XL TUBELESS TYRE,CEAT,4W,10309.0,Only Delivery,False
-ok,3609.0,3609.0,1.0,True,,,B0GQ2Z2968,With Doorstep Fitment - CEAT 145/80 R13 MILAZE X5å 75T TUBELESS TYRE,CEAT,4W,3609.0,Fitment/Installation,False
-ok,3939.21,3939.21,1.0,True,,,B0H1MT861K,With Doorstep Fitment - CEAT 140/60 ZR17 CROSS RAD STEEL (Steel Radial) 63H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,3939.21,Fitment/Installation,False
-ok,2533.41,2533.41,1.0,True,,,B0H1MYYJ1M,With Doorstep Fitment - CEAT 100/90-18 GRIPP X5 56P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2533.41,Fitment/Installation,False
-ok,3749.0,3749.0,1.0,True,,,B0GQ2YVCJJ,With Doorstep Fitment - CEAT 155/70 R13 MILAZE X3 75T TUBELESS TYRE,CEAT,4W,3749.0,Fitment/Installation,False
-ok,5206.41,5206.41,1.0,True,,,B0H1N3PF6T,With Doorstep Fitment - CEAT 110/70 ZR17 SPORT RAD STEEL (Steel Radial) 54W TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,5206.41,Fitment/Installation,False
-ok,10899.0,12999.0,6.0,False,2710.0,,B0F6NDPVT7,GOODYEAR 235/60 R18 EFFICIENT GRIP PERFORMANCE 103V TUBELESS TYRE,Goodyear,4W,13609.0,Only Delivery,False
-ok,3729.0,3729.0,1.0,True,,,B089GY3273,Goodyear Assurance Duraplus-2 145/70 R13 71T Tubeless Car Tyre,Goodyear,4W,3729.0,Only Delivery,False
-ok,8883.0,8883.0,1.0,True,,,B01IIQR924,Apollo Apterra HP 235/70 R16 105H Tubeless Car Tyre,Apollo,4W,8883.0,Only Delivery,False
-ok,11409.0,11409.0,1.0,True,,,B0F28ZJQTH,JK 265/60 R18 RANGER H/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,11409.0,Only Delivery,False
-ok,13499.0,13499.0,3.0,True,,1396.0,B0CJRRZR3F,Continental Tyre 215/55R18 ULTRACONTACT UC6 95H TL,Continental,4W,12504.0,Only Delivery,False
-ok,3503.61,3503.61,1.0,True,,,B0H1MC894G,With Doorstep Fitment - CEAT 140/70-17 GRIPP X5 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3503.61,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MT2NX6,With Doorstep Fitment - CEAT 90/100-10 MILAZE X5 53J TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1749.0,Fitment/Installation,False
-ok,4397.0,4397.0,2.0,True,,1602.0,B0H1MKLF5Y,With Doorstep Fitment - GOODYEAR TYRE 185/70 R14 Kelly VFM1 88T Tubeless Car Tyre,Goodyear,4W,4397.0,Fitment/Installation,False
-ok,,,0.0,,,,B0GN2HPDVN,CEAT (With Fitment) 145/80 R12 FUELSMARRT 74T TUBELESS TYRE,CEAT,4W,,Fitment/Installation,False
-ok,5308.0,5308.0,3.0,False,158.0,,B0C58KVFFY,Apollo Tyres Amazer 4G Life 185/60 R15 88T Tubeless tyre,Apollo,4W,5466.0,Only Delivery,False
-ok,,,0.0,,,,B0C43QMB7F,Ceat Milaze X3 165/80 R14 85S Tubeless Car Tyre Home plus Fitment,CEAT,4W,,Fitment/Installation,False
-ok,2335.41,2335.41,1.0,True,,,B0H1MP5K96,With Doorstep Fitment - CEAT 100/90-18 ZOOM CRUZ F 56H TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2335.41,Fitment/Installation,False
-ok,,,0.0,,,,B0F4R9K7ZF,YOKOHAMA 255/60 R18 Geolander A/T G015 108H TUBELESS TYRE | Car Tyre for Front and Rear,Yokohama,4W,15760.0,Only Delivery,False
-ok,1727.0,1727.0,1.0,True,,,B0F4R8FTL4,CEAT 2.75-18 GRIPP X5 48P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,1727.0,Only Delivery,False
-ok,9179.0,9179.0,1.0,True,,,B0GN2PPZYD,CEAT 225/40 R18 SPORTDRIVE CALM 92Y XL TUBELESS TYRE,CEAT,4W,9179.0,Only Delivery,False
-ok,2619.0,2619.0,1.0,True,,,B0H1MNST5Z,With Doorstep Fitment - Ceat 90/90-21 Gripp Xl F 54S Tube-Type | Front Tyre with Add on Home Installation CE909021GRFTT-HF,CEAT,2W,2619.0,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MHPFJV,With Doorstep Fitment - CEAT 140/70-17 ZOOM CRUZ 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3533.31,Fitment/Installation,False
-ok,1839.0,1839.0,2.0,True,,160.0,B0F4RBGKC2,Ceat Secura Zoom plus 2.75 18 front 48P Tube Type | Car Tyre for Front and Rear,CEAT,2W,1839.0,Only Delivery,False
-ok,9089.0,9089.0,1.0,True,,,B0GQ31ZTVW,With Doorstep Fitment - CEAT 215/50 R17 SPORTDRIVE CALM 95Y XL TUBELESS TYRE,CEAT,4W,9089.0,Fitment/Installation,False
-ok,4399.59,4399.59,1.0,True,,,B0H1MH9QWK,With Doorstep Fitment - KELLY 185/70 R14 VFM 1 88T Tubeless Tyre KE1857014VFTL,Kelly,4W,4399.59,Fitment/Installation,False
-ok,8883.0,8883.0,1.0,True,,,B01L98WFGS,JK Tyre 235/70 R16 Ranger H/T Tubeless Car Tyre,JK Tyre,4W,8883.0,Only Delivery,False
-ok,17459.0,17459.0,1.0,True,,,B0GN2M6NWV,CEAT 255/50 R19 SPORTDRIVE SUV CALM 107W XL TUBELESS TYRE,CEAT,4W,17459.0,Only Delivery,False
-ok,3700.0,3700.0,2.0,False,29.0,,B0F6NCQMSQ,GOODYEAR 145/80 R13 ASSURANCE DURAPLUS 2 75T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3729.0,Only Delivery,False
-ok,2107.71,2107.71,1.0,True,,,B0H1MNK8ZH,With Doorstep Fitment - CEAT 90/90-17 ZOOM X3 F 49P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2107.71,Fitment/Installation,False
-ok,19200.0,19200.0,2.0,False,,,B0F4RD556Q,YOKOHAMA 265/60 R18 Geolander A/T G015 110H TUBELESS TYRE | Car Tyre for Front and Rear,Yokohama,4W,,Only Delivery,False
-ok,16149.0,16149.0,1.0,True,,,B0GN2W1D16,CEAT (With Fitment) 255/55 R18 SPORTDRIVE SUV CALM 109W XL TUBELESS TYRE,CEAT,4W,16149.0,Fitment/Installation,False
-ok,17269.0,17269.0,1.0,True,,,B0GN2QL3PD,CEAT 235/50 R18 SPORTDRIVE SUV CALM 101V XL TUBELESS TYRE,CEAT,4W,17269.0,Only Delivery,False
-ok,,,0.0,,,,B0F4R97KJZ,YOKOHAMA 225/55 R18 Blue Earth RV02 98V TL | Car Tyre for Front and Rear,Yokohama,4W,14760.0,Only Delivery,False
-ok,1919.61,1919.61,1.0,True,,,B0H1ML5X6T,With Doorstep Fitment - CEAT 80/100-17 ZOOM PLUS F 46P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1919.61,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MNMS13,With Doorstep Fitment - Ceat 90/100-10 Zoom X3 53J Tubeless | Front Tyre with Add on Home Installation CE9010010ZXTL-HF,CEAT,2W,1798.0,Fitment/Installation,False
-ok,3739.0,3739.0,1.0,True,,,B0GQ365L9Y,CEAT 155/70 R13 MILAZE X5å 75T TUBE-TYPE TYRE,CEAT,4W,3739.0,Only Delivery,False
-ok,2444.31,2444.31,1.0,True,,,B0H1MBBYJG,With Doorstep Fitment - CEAT 110/80-17 ZOOM X3 57P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2444.31,Fitment/Installation,False
-ok,2335.41,2335.41,1.0,True,,,B0H1MMMSPD,"With Doorstep Fitment - CEAT 100/90-17 ZOOM PLUS 55P TUBELESS TYRE | REAR 100/90-17 Rear Two Wheeler Tyre (Street, Tube Less)",CEAT,2W,2335.41,Fitment/Installation,False
-ok,6915.0,6915.0,1.0,True,,,B0H1MKW14K,With Doorstep Fitment - CEAT 150/60 ZR17 SPORT RAD STEEL (Steel Radial) 66W TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,6915.0,Fitment/Installation,False
-ok,3649.0,3640.0,5.0,True,,-9.0,B0F28X4K8P,CEAT 155/65 R13 MILAZE X5 73T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3649.0,Only Delivery,False
-ok,6369.0,6369.0,1.0,True,,,B0F28XRM6T,CEAT 185/85 R16 MILAZE 105Q LT TUBE-TYPE TYRE | Car Tyre for Front and Rear,CEAT,4W,6369.0,Only Delivery,False
-ok,,,0.0,,,,B0F28Y9C6R,JK 215/75 R15 BRUTE 10PR 115/113L TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,,Only Delivery,False
-ok,30539.0,30539.0,1.0,True,,,B0GN2STJ6G,CEAT (With Fitment) 315/40 ZR21 SPORTDRIVE SUV CALM 115Y XL TUBELESS TYRE,CEAT,4W,30539.0,Fitment/Installation,False
-ok,32699.0,32699.0,1.0,True,,,B0GN2YKD2M,CEAT 285/45 ZR21 SPORTDRIVE SUV CALM 113Y XL TUBELESS TYRE,CEAT,4W,32699.0,Only Delivery,False
-ok,3289.0,3289.0,1.0,True,,,B0F28XKHB1,CEAT 140/80 ZR17 GRIPP RAD STEEL (Steel Radial) 69H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3289.0,Only Delivery,False
-ok,5369.0,5369.0,1.0,True,,,B0F6NC2GHY,GOODYEAR 175/65 R15 ASSURANCE TRIPLEMAX 2 84T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5369.0,Only Delivery,False
-ok,18309.0,18309.0,1.0,True,,,B0GN2YCD29,CEAT 255/45 R20 SPORTDRIVE SUV CALM 105W XL TUBELESS TYRE,CEAT,4W,18309.0,Only Delivery,False
-ok,3129.0,3129.0,5.0,True,,69.0,B0F28TRD94,JK 145/80 R12 ULTIMA HI^LIFE TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3129.0,Only Delivery,False
-ok,8500.0,8500.0,1.0,False,,,B0GQ2WJJGT,YOKOHAMA 205/65 R16 EARTH-1 MAX 95H TUBELESS TYRE,Yokohama,4W,,Only Delivery,False
-ok,2939.31,2939.31,1.0,True,,,B0H1MH7XC5,With Doorstep Fitment - Ceat 110/90-18 Gripp Xl 61P Tube-Type | Rear Tyre with Add on Home Installation CE1109018XLTT-HF,CEAT,2W,2939.31,Fitment/Installation,False
-ok,15959.0,15959.0,1.0,True,,,B0GN315VT2,CEAT (With Fitment) 245/50 R18 SPORTDRIVE CALM 104W XL TUBELESS TYRE,CEAT,4W,15959.0,Fitment/Installation,False
-ok,,,0.0,,,,B0F28Y57L1,CEAT 175/60 R15 SecuraDrive 81H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4646.0,Only Delivery,False
-ok,5446.0,5446.0,1.0,True,,,B0H1MWPW27,With Doorstep Fitment - Goodyear 205/65% R15 Kelly VFM 6 Tubeless Car Tyre,Goodyear,4W,5446.0,Fitment/Installation,False
-ok,17870.0,17870.0,2.0,False,209.0,,B0F6NB6T2W,GOODYEAR 225/50 R17 EAG F1 ASY 3 98Y XL RFT TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,18079.0,Only Delivery,False
-ok,3147.21,3147.21,1.0,True,,,B0H1MJJBD7,With Doorstep Fitment - CEAT 120/80-18 GRIPP XL 62S TUBE-TYPE TYRE | Front/Rear | Car Tyre for Front and Rear,CEAT,2W,3147.21,Fitment/Installation,False
-ok,,,0.0,,,,B0GGYYD88X,YOKOHAMA 195/55 R16 AS01 87V TUBELESS TYRE | With Doorstep Installation,Yokohama,4W,9190.0,Fitment/Installation,False
-ok,18459.0,18459.0,1.0,True,,,B0GN2X5MT5,CEAT (With Fitment) 255/45 R20 SPORTDRIVE SUV CALM 105W XL TUBELESS TYRE,CEAT,4W,18459.0,Fitment/Installation,False
-ok,,,0.0,,,,B0H1MTB6LV,With Doorstep Fitment - CEAT 120/80-17 GRIPP X5 61P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3039.0,Fitment/Installation,False
-ok,3039.0,3039.0,1.0,True,,,B0H1MZ1DHK,With Doorstep Fitment - Kelly 165/65 R13 VFM 3 77T Tubeless Car Tyre,Kelly,4W,3039.0,Fitment/Installation,False
-ok,2959.11,2959.11,1.0,True,,,B0H1MMMZTD,With Doorstep Fitment - Ceat 130/70-17 Zoom Xl 62P Tubeless | Rear Tyre with Add on Home Installation CE1307017LOTL-HF,CEAT,2W,2959.11,Fitment/Installation,False
-ok,14169.0,14169.0,1.0,True,,,B0GN2V8YWQ,CEAT 225/50 R18 SPORTDRIVE CALM 99W XL TUBELESS TYRE,CEAT,4W,14169.0,Only Delivery,False
-ok,11289.0,11289.0,1.0,True,,,B0GN2V6RBG,CEAT 245/45 R17 SPORTDRIVE CALM 99Y XL TUBELESS TYRE,CEAT,4W,11289.0,Only Delivery,False
-ok,,,0.0,,,,B0B3DY6GN6,CEAT 3.25-19 SECURA Sport 60P (6PR) Tube-Type TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,,Only Delivery,False
-ok,7209.0,9999.0,2.0,True,,2790.0,B07YHZZFM9,Goodyear Wrangler AT SilentTrac 215/75% R15 100S Tubeless Car Tyre,Goodyear,4W,7209.0,Only Delivery,False
-ok,,,0.0,,,,B0GN371BL7,CEAT 235/75 R15 CROSSDRIVE AT 116/113R LT TUBELESS TYRE,CEAT,4W,8809.0,Only Delivery,False
-ok,14449.0,14449.0,1.0,True,,,B0GN2L88XX,CEAT 245/40 R18 SPORTDRIVE CALM 97Y XL TUBELESS TYRE,CEAT,4W,14449.0,Only Delivery,False
-ok,8999.0,8999.0,1.0,True,,,B0GQ3322KG,With Doorstep Fitment - CEAT 205/45 R17 SPORTDRIVE CALM 88Y XL TUBELESS TYRE,CEAT,4W,8999.0,Fitment/Installation,False
-ok,2533.41,2533.41,1.0,True,,,B0H1N34T99,With Doorstep Fitment - CEAT 100/90-18 ZOOM X3 56P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2533.41,Fitment/Installation,False
-ok,25999.0,25999.0,1.0,False,,,B0F6ND8X8X,GOODYEAR 225/50 R18 EAG F1 ASY 3 ROF 95W RFT TYRE | Car Tyre for Front and Rear,Goodyear,4W,,Only Delivery,False
-ok,2814.0,2814.0,2.0,True,,35.0,B07M9KYM6G,apollo AMAZER 3G 135/70R12 65S Tubeless Nano Front Tyre,Apollo,4W,2814.0,Only Delivery,False
-ok,,,0.0,,,,B0H1MJGVSZ,With Doorstep Fitment - CEAT 110/80-14 ZOOM PLUS TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2345.31,Fitment/Installation,False
-ok,3109.0,3109.0,1.0,True,,,B0F6ND8V93,GOODYEAR 145/80 R12 DUCARO HI-MILER 74T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3109.0,Only Delivery,False
-ok,17419.0,17419.0,1.0,True,,,B0GN2ZXFTT,CEAT (With Fitment) 235/50 R18 SPORTDRIVE SUV CALM 101V XL TUBELESS TYRE,CEAT,4W,17419.0,Fitment/Installation,False
-ok,2469.0,2469.0,2.0,True,,0.0,B09442VGVR,"100/90-18 ZOOM CRUZ F TT 56H, Black",CEAT,2W,2469.0,Only Delivery,False
-ok,,,0.0,,,,B0GGYNYTMB,YOKOHAMA 205/55 R16 S.Drive AS01 94V TUBELESS TYRE | With Doorstep Installation,Yokohama,4W,9970.0,Fitment/Installation,False
-ok,3997.0,3997.0,1.0,True,,,B0H1N1827Z,With Doorstep Fitment - Ceat 110/70-17 Zoom Rad X1 F 54H Tubeless | Front Tyre with Add on Home Installation CE1107017DZTL-HF,CEAT,2W,3997.0,Fitment/Installation,False
-"error: [{'code': 'InvalidInput', 'message': 'B0H1MM8R7H is an invalid ASIN for marketplace A21TJRUUN4KGV', 'details': ''}]",,,,,,,B0H1MM8R7H,With Doorstep Fitment - CEAT 80/100-18 GRIPP X5 54P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,,Fitment/Installation,False
+status,buy_box_price,lowest_price,num_offers,is_buy_box_winner,gap_to_buybox,headroom,ASIN,SKU,Title,Brand,Category,Your_Price,Listing_Type,Is_Top_50,Product_URL
+ok,1440.0,1318.0,13.0,False,,,B01FTSFW50,MISSING - needs manual entry,"Ceat Milaze X5 90/100-10 53J Tubeless Scooter Tyre,Front or Rear",CEAT,4W,,Only Delivery,False,
+ok,6700.0,7423.0,14.0,False,286.0,,B0C5DD44XZ,AP1955516GCTLODLON,Apollo Tyres Alnac 4G 195/55% R16 87H Tubeless Car Tyre,Apollo,4W,6986.0,Only Delivery,False,
+ok,6400.0,6213.0,17.0,False,249.0,,B0C5DHGS2L,AP2156016GATLODLON,Apollo Tyres Alnac 4GS 215/60 R16 95H Tubeless Car Tyre,Apollo,4W,6649.0,Only Delivery,False,
+ok,2830.0,3084.0,23.0,False,,,B07P2KNKP7,MISSING - needs manual entry,Apollo tyres Amazer 4G Life 145/80% R12 74T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,3540.0,3700.0,19.0,False,,,B0C4FD4L33,MISSING - needs manual entry,Apollo tyres Amazer 4G Life 165/70 R14 81T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,4097.0,4152.0,6.0,True,,43.0,B07S8H2VGC,B07YFKK25Q,Goodyear 185/70 R14 Kelly VFM 1 88T Tubeless Car Tyre,Goodyear,4W,4097.0,Only Delivery,False,
+ok,1121.0,1045.0,20.0,False,1178.0,,B07M5R4R4K,AP9010010ASTLODLON,Apollo tyres actiGRIP S5 90/100-10 53PTubeless Front/Rear Tyre |Rim - 18 inches| | Section width - 90 millimeters,Apollo,2W,2299.0,Only Delivery,False,
+ok,5449.0,5999.0,13.0,False,160.0,,B01IIQR334,AP1856515ARTLODLON,Apollo Amazer 4G Life 185/65 R15 88T Tubeless Car Tyre,Apollo,4W,5609.0,Only Delivery,False,
+ok,3089.0,3300.0,7.0,False,4.0,,B07Y32FBSC,KE1658014VFTLODLON,Goodyear 165/80 R14 Kelly VFM3 85T Tubeless Car Tyre,Goodyear,4W,3093.0,Only Delivery,False,
+ok,5793.0,5793.0,12.0,False,1116.0,,B07NSZNVFB,AP1506017APTLODLON,Apollo tyres Alpha H1 150/60% R17 66W Tubeless Tyre,Apollo,2W,6909.0,Only Delivery,False,
+ok,3440.0,3830.0,8.0,True,,0.0,B09LSC9JKM,KE1756514VFTLODLON,Goodyear Good Year 175/65% R14 Kelly 82T Vfm 7 Tl Tubeless Car Tyre,Goodyear,4W,3440.0,Only Delivery,False,
+ok,4148.0,3961.0,12.0,False,281.0,,B0BZYHTC3M,AP1407017TXTLODLON,"Apollo tyres 140/70% R17 66H Tramplr Xr Tubless Bike Tyre,Rear.,1 Tube",Apollo,2W,4429.0,Only Delivery,False,
+ok,3720.0,3810.0,21.0,False,,,B06WD343QG,MISSING - needs manual entry,Apollo Amazer 4G Life 165/80 R14 85T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,2790.0,3300.0,6.0,False,207.0,,B07YFDBMFF,KE1558013VFTL_DEL,Goodyear 155/80 R13 Kelly VFM3 79T Tubeless Car Tyre,Goodyear,4W,2997.0,Only Delivery,True,
+ok,1769.0,1712.0,6.0,True,,0.0,B01FTSG808,CE275518FRATT,"Ceat F85 2.75 - 18 42P Tube-Type Bike Tyre, Front (100226 )",CEAT,2W,1769.0,Only Delivery,False,
+ok,6174.0,6398.0,23.0,False,22.0,,B07MR2FLBZ,CE2156016SETLODLON,Ceat SecuraDrive 215/60 R16 95H Tubeless Car Tyre,CEAT,4W,6196.0,Only Delivery,False,
+ok,6165.0,6703.0,21.0,False,770.0,,B09CMS26BD,AP2156017ACTLODLON,Apollo tyres Apterra Cross 215/60% R17 96H Tubeless Car Tyre,Apollo,4W,6935.0,Only Delivery,False,
+ok,2849.0,2849.0,4.0,True,,350.0,B0F28WSQWL,CE1307017ZRTL,CEAT 130/70-17 ZOOM RAD 62P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2849.0,Only Delivery,False,
+ok,5604.0,5687.0,27.0,False,365.0,,B01DKI2QZ0,JK2156016URTL,JK Tyre 215/60% R16 UX Royale Tubeless Car Tyre,JK Tyre,4W,5969.0,Only Delivery,True,
+ok,1350.0,1313.0,13.0,False,98.0,,B09T68S6DX,CE9010010ZXTLODLON,Ceat ZOOM X3 90/100-10 53J Tubeless Scooter Tyre,CEAT,2W,1448.0,Only Delivery,False,
+ok,6545.0,6796.0,15.0,False,,,B08KXYNPHW,MISSING - needs manual entry,Apollo tyres Alnac 4G 205/65% R16 95H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,3697.0,3770.0,8.0,True,,-7.0,B08R1V98ZP,CE1657014METL,CEAT Milaze X3-165/70% R14 81T Tubeless Car Tyre,CEAT,4W,3697.0,Only Delivery,True,
+ok,2547.0,2798.0,4.0,True,,0.0,B07RWB1WQV,KE1458012VMTL_DEL,Goodyear 145/80% R12 Kelly VFM2 Tubeless Car Tyre,Goodyear,4W,2547.0,Only Delivery,True,
+ok,3650.0,4226.0,13.0,False,219.0,,B07XDRFV9X,GY1658014ACTL,Goodyear Assurance Duraplus 2 165/80 R14 Tubeless Car Tyre,Goodyear,4W,3869.0,Only Delivery,True,
+ok,2146.0,2146.0,4.0,True,,23.0,B0F28YPJ99,CE1008012Z3TL,CEAT 100/80-12 Zoom X3 56L TUBELESS TYRE | All Wheel | Car Tyre for Front and Rear,CEAT,2W,2146.0,Only Delivery,False,
+ok,1917.0,2055.0,7.0,False,92.0,,B01FTSHJA6,CE8010018MSTL,"Ceat Secura Zoom+ 80/100-18 54P Tubeless Bike Tyre, Rear",CEAT,2W,2009.0,Only Delivery,False,
+ok,3600.0,3707.0,12.0,False,25.0,,B01DKI00GC,JK1558013NETLODLON,JK Tyre Ultima Neo 155/80% R13 Tubeless Car Tyre,JK Tyre,4W,3625.0,Only Delivery,True,
+ok,4600.0,5369.0,13.0,False,346.0,,B016D6U4J6,AP1756514AFTL,Apollo Amazer 4G Life 175/65 R14 82T Tubeless Car Tyre,Apollo,4W,4946.0,Only Delivery,False,
+ok,7828.0,7828.0,8.0,False,474.0,,B08W3BXC9Y,CO1955516UCTL,Continental ContiUltraContact UC6 195/55% R16 87V Tubeless Car Tyre,Continental,4W,8302.0,Only Delivery,False,
+ok,1999.0,1770.0,9.0,False,18001.0,,B01FTSHEYW,CE27518MLTL,"Ceat Milaze 2.75-18 48P Tubeless Bike Tyre, Rear (102976)",CEAT,4W,20000.0,Only Delivery,False,
+ok,3320.0,3770.0,11.0,False,359.0,,B074SC4TPZ,GY1657014DPTL,Goodyear DP-M1 165/70 R14 81S Tubeless Car Tyre,Goodyear,4W,3679.0,Only Delivery,False,
+ok,3796.0,5999.0,5.0,True,,103.0,B0F28Y9LXZ,CE1657014METLODLON,CEAT 165/70 R14 MILAZE X5 81T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3697.0,Only Delivery,True,
+ok,4950.0,4950.0,4.0,False,40.0,,B09NQGLF4P,CE1506017RZTL,CEAT 150/60-17 ZOOM RAD X1 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,4990.0,Only Delivery,False,
+ok,3661.0,3887.0,11.0,True,,-362.0,B0792G6PF9,AP1557013MLTLODLON,Apollo Amazer 4G LIFE 155/70 R13 75T Tubeless Car Tyre,Apollo,4W,3661.0,Only Delivery,False,
+ok,2800.0,2700.0,10.0,False,419.0,,B01DKHZV0S,JK1458013TNTL,JK Tyre 145/80% R13 Ultima Neo Tubeless Car Tyre,JK Tyre,4W,3219.0,Only Delivery,False,
+ok,6399.0,6418.0,5.0,False,16.0,,B0F28XLVC3,CE1506017SPTL,CEAT 150/60 ZR17 SPORT RAD STEEL (Steel Radial) 66W TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,6415.0,Only Delivery,False,
+ok,5221.0,5250.0,6.0,True,,29.0,B01L98W8QA,JK1956515UXTLODLON,JK Tyre 195/65 R15 UX Royale Tubeless Car Tyre,JK Tyre,4W,5221.0,Only Delivery,True,
+ok,4840.0,4855.0,20.0,False,57.0,,B0D8B87XMJ,JK1856515TATLODLON,JK Tyre 185/65% R15 Taximax Tubeless Car Tyre,JK Tyre,4W,4897.0,Only Delivery,False,
+ok,3429.0,3717.0,21.0,False,145.0,,B07YZJN2V9,JK1658014TMTLODLON,JK Tyre 165/80% R14 Taximax Tubeless Car Tyre,JK Tyre,4W,3574.0,Only Delivery,False,
+ok,2830.0,2652.0,21.0,False,109.0,,B09FSSHDGJ,JK1458012UHTL,JK Tyre 145/80% R12 Ultima Hi^Life Tubeless Car Tyre,JK Tyre,4W,2939.0,Only Delivery,True,
+ok,3800.0,5999.0,7.0,False,288.0,,B0F28YL51N,CE1658014MXTL,CEAT 165/80 R14 MILAZE X5 85S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4088.0,Only Delivery,True,
+ok,5800.0,6907.0,17.0,False,573.98,,B08B1VCYSQ,JK2157515CPTL_DELODLON,JK Tyre 215/75 R15 Ranger H/T Tubeless Car Tyre,JK Tyre,4W,6373.98,Only Delivery,False,
+ok,1549.0,2999.0,3.0,True,,200.0,B0F28XNNGJ,CE9009012ZMTLODLON,CEAT 90/90-12 ZOOM X3 54J TUBELESS TYRE | Front Tyre | Car Tyre for Front and Rear,CEAT,2W,1549.0,Only Delivery,False,
+ok,7751.0,8344.0,4.0,True,,593.0,B01BDMXBG8,JK2357016RTTL,JK Tyre 235/70 R16 Ranger A/T Tubeless Car Tyre,JK Tyre,4W,7751.0,Only Delivery,False,
+ok,6639.0,6999.0,9.0,False,10.0,,B08KY21PKD,AP1956016ACTL,Apollo Alnac 4G 195/60 R16 89H Tubeless Car Tyre,Apollo,4W,6649.0,Only Delivery,False,
+ok,3460.0,3998.0,7.0,False,69.0,,B07CVMR1TJ,S5-GNPL-5IRE,"Ceat Zoom Rad X1F 110/70R17 54H Tubeless Bike Tyre, Front (Home Delivery) (104976), 110 millimeters",CEAT,2W,3529.0,Only Delivery,False,
+ok,5455.0,9999.0,9.0,False,,,B01IIQQMSG,MISSING - needs manual entry,Apollo Alnac 4Gs 185/65 R15 88H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,2233.0,2999.0,6.0,True,,16.0,B0F28XL1QJ,CE1108012Z3TL,CEAT 110/80-12 Zoom X3 61L TUBELESS TYRE | Rear Tyre |,CEAT,2W,2233.0,Only Delivery,False,
+ok,2739.0,3149.0,8.0,True,,0.0,B01FTSI69E,H12,"Ceat Zoom XL 130/70-17 62P Tubeless Bike Tyre, Rear (103061)",CEAT,2W,2739.0,Only Delivery,False,
+ok,1477.0,1477.0,2.0,True,,300.0,B0F28VZYN2,CE9010010MXTL,CEAT 90/100-10 MILAZE X5 53J TUBELESS TYRE | Rear | Bike Rear Tyre,CEAT,4W,1399.0,Only Delivery,False,
+ok,1660.0,1868.0,9.0,False,259.0,,B01FTSHN3E,CE8010018SOTL,"Ceat Zoom Plus 80/100-18 54P Tubeless Bike Tyre, Rear (102573)",CEAT,2W,1919.0,Only Delivery,False,
+ok,6045.0,6045.0,7.0,False,,,B08B22BL9N,MISSING - needs manual entry,JK Tyre 215/60% R17 Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False,
+ok,6900.0,7312.0,17.0,False,,,B0995QNPFM,MISSING - needs manual entry,Apollo Alnac 4G 195/55 R16 87V Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,8506.0,8506.0,2.0,True,,2494.0,B08LTJVHN7,CO2156016UCTL,Continental ContiUltraContact UC6 215/60 R16 Tubeless Car Tyre,Continental,4W,8506.0,Only Delivery,False,
+ok,2950.0,3299.0,9.0,False,234.0,,B077Y6VVY6,CE1458012METLODLON,Ceat Milaze X3 145/80 R12 74T Tubeless Car Tyre (105039 ),CEAT,4W,3184.0,Only Delivery,False,
+ok,5690.0,5740.0,15.0,False,209.0,,B082D1VBCG,JK1955516UXTL,JK Tyre 195/55% R16 UX Royale Tubeless Car Tyre,JK Tyre,4W,5899.0,Only Delivery,True,
+ok,3659.0,3799.0,22.0,False,240.0,,B00RGOC05Q,MR1657014ZATLODLON,MRF ZVTV 165/70 R14 81S Tubeless Car Tyre,MRF,4W,3899.0,Only Delivery,False,
+ok,6419.0,9999.0,6.0,False,48.0,,B0F28XL1QV,CE2056516SETL,CEAT 205/65 R16 SECURADRIVE SUV 95H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6467.0,Only Delivery,True,
+ok,5099.0,4938.0,15.0,False,348.0,,B077Y97R4Y,CE1856515ESTLODLON,Ceat Secura Drive 185/65 R15 88H Tubeless Car Tyre (Home Delivery),CEAT,4W,5447.0,Only Delivery,False,
+ok,3874.0,3874.0,1.0,True,,,B09NQHHRNK,CE1558013MXTL,CEAT 155/80 R13 MILAZE X3 79T TUBELESS TYRE,CEAT,4W,3874.0,Only Delivery,True,
+ok,5250.0,5250.0,6.0,False,49.0,,B0GQ2YZ95M,CE1856515MXTL,CEAT 185/65 R15 MILAZE X5å 88T TUBELESS TYRE,CEAT,4W,5299.0,Only Delivery,False,
+ok,5409.0,5372.0,2.0,True,,0.0,B0F6NGBSJ6,GY1856515ATTL,GOODYEAR 185/65 R15 ASSURANCE TRIPLEMAX 2 88H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5409.0,Only Delivery,False,
+ok,1759.0,1550.0,6.0,True,,-60.0,B0F4R6GP8Z,CE275518ONZTT,CEAT 2.75-18 SECURA ZOOM F 42P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1759.0,Only Delivery,False,
+ok,6088.0,6088.0,1.0,True,,,B0F28Y3T54,CE1956515SRTLODLON,CEAT 195/65 R15 SECURADRIVE 91H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6088.0,Only Delivery,False,
+ok,6500.0,6512.0,10.0,False,,,B07MNVQ8B1,MISSING - needs manual entry,Ceat 104282 Secura Drive 195/55 R16 87V Tubeless Car Tyre,CEAT,4W,,Only Delivery,False,
+ok,2659.0,2659.0,3.0,True,,91.0,B08DJDTHTS,CE1208017ZXTL,"Ceat 120/80-17 Zoom X3 TL 61P, Black",CEAT,2W,2659.0,Only Delivery,False,
+ok,3657.0,3657.0,12.0,False,222.0,,B077Y6VVY7,Y12,Ceat Milaze X3 165/80 R14 85S Tubeless Car Tyre (105035 ),CEAT,4W,3879.0,Only Delivery,True,
+ok,3099.0,3099.0,1.0,True,,,B0F28YBJWG,CE1407017ZXTL,CEAT 140/70-17 ZOOM XL 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3099.0,Only Delivery,False,
+ok,7000.0,7707.0,7.0,False,489.0,,B0CJRRXDDK,GY2156017ATTLODLON1,Goodyear Tyre 215/60R17 ASSURANCE TRIPLEMAX 2 96H TL,Goodyear,4W,7489.0,Only Delivery,False,
+ok,3564.0,3674.0,12.0,False,10.0,,B07QZ9N1J4,JK1658014URTL,JK Tyre 165/80r14 UX Royale Tyre,JK Tyre,4W,3574.0,Only Delivery,True,
+ok,2689.0,2689.0,1.0,True,,,B082SWHGZ4,CEA1208018XTL_DEL,CEAT GRIPP XL 120/80-18 GRIPP XL TL 62P Tubeless Bike Tyre,CEAT,2W,2689.0,Only Delivery,False,
+ok,7200.0,7587.0,5.0,False,289.0,,B0F6NDY99L,GY2156017ATTLODLON,GOODYEAR 215/60 R17 ASSURANCE TRIPLEMAX 2 96H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,7489.0,Only Delivery,True,
+ok,1710.0,2999.0,5.0,False,29.0,,B0F28Z5VQ3,CE8010017ZPTL,CEAT 80/100-17 ZOOM PLUS F 46P TUBELESS TYRE | Front | Rear,CEAT,2W,1739.0,Only Delivery,False,
+ok,6900.0,6500.0,2.0,True,,412.0,B0GQ2WBRLZ,CE1956016SSTL,CEAT 195/60 R16 SECURADRIVE SUV 89H TUBELESS TYRE,CEAT,4W,6488.0,Only Delivery,True,
+ok,4590.0,5430.0,10.0,False,779.0,,B07JJ5J1K4,GY1756515XATL-1,Goodyear 175/65 R15 ASSURANCE TRIPLEMAX 2 - ?Tubeless,Goodyear,4W,5369.0,Only Delivery,False,
+ok,6597.0,9999.0,3.0,True,,0.0,B0F28YJ6R1,CE1955516DATLODLON,CEAT 195/55 R16 SECURADRIVE 87V TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6597.0,Only Delivery,False,
+ok,8690.0,8690.0,4.0,False,438.0,,B08WLNRYZL,CO2055516UCTL,Continental ContiUltraContact UC6 205/55 R16 91V Tubeless Car Tyre,Continental,4W,9128.0,Only Delivery,False,
+ok,1799.0,1799.0,1.0,True,,,B0F28WNNHF,CE909012MXTLODLON,CEAT 90/90-12 MILAZE X5 54J TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1799.0,Only Delivery,False,
+ok,2499.0,2149.0,3.0,True,,350.0,B0F28X3FJL,CE1008017ZSTL,CEAT 100/80-17 ZOOM PLUS F 52P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2149.0,Only Delivery,False,
+ok,4840.0,5323.0,5.0,False,6.0,,B07RQYDJ3C,KE2056515VFTL_DEL,Goodyear 205/65% R15 Kelly VFM 6 Tubeless Car Tyre,Goodyear,4W,4846.0,Only Delivery,False,
+ok,4429.0,4913.43,11.0,True,,0.0,B01DKI2J6G,JK1756515RETLODLON,JK Tyre 175/65 R15 UX Royale Tubeless Car Tyre,JK Tyre,4W,4429.0,Only Delivery,True,
+ok,3850.0,4799.0,5.0,False,247.0,,B07YFKK25Q,KE1857014VFTL_DEL,GOODYEAR TYRE 185/70 R14 Kelly VFM1 88T Tubeless Car Tyre,Goodyear,4W,4097.0,Only Delivery,True,
+ok,2489.0,2489.0,3.0,True,,260.0,B0845P4LGH,CE1109018GXTL,CEAT GRIPP XL 110/90-18 GRIPP XL TL 61P Tubeless Bike Tyre,CEAT,2W,2489.0,Only Delivery,False,
+ok,1779.0,1778.0,4.0,True,,-1.0,B0F28XSCZQ,CE8010018ZMTL,CEAT 80/100-18 SECURA ZOOM F 47P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1779.0,Only Delivery,False,
+ok,2249.0,3208.0,2.0,True,,959.0,B082SWFTLY,CE909019GXTL,CEAT GRIPP XL 90/90-19 GRIPP XL F TL 52P Tubeless Bike Tyre,CEAT,2W,2249.0,Only Delivery,False,
+ok,6100.0,7231.0,7.0,False,819.0,,B0F6NDMWW5,GY1955516A2TLODLON,GOODYEAR 195/55 R16 ASSURANCE TRIPLEMAX 2 87H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6919.0,Only Delivery,True,
+ok,4785.0,5999.0,16.0,False,,,B01IIQQMXG,MISSING - needs manual entry,Apollo Alnac 4Gs 175/65 R15 84H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,3789.0,3789.0,3.0,False,31.0,,B09NQG3NJX,CE1658014MLTL,CEAT 165/80 R14 MILAZE X3 85S TUBELESS TYRE,CEAT,4W,3820.0,Only Delivery,True,
+ok,3639.0,3876.0,11.0,True,,1.0,B07MKMJYSB,CE1558013MLTL,Ceat 105755 Milaze X3 155/80 R13 79T Tubeless Car Tyre,CEAT,4W,3639.0,Only Delivery,True,
+ok,7771.0,7500.0,3.0,True,,0.0,B0F28Y4VT8,JK2556518RHTL,JK 255/65 R18 RANGER H/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,7771.0,Only Delivery,False,
+ok,3184.0,3184.0,1.0,True,,,B0CFVVK1QM,CE1458012METL,CEAT 145/80 R12 MILAZE X3 74T TUBELESS TYRE,CEAT,4W,3184.0,Only Delivery,False,
+ok,6000.0,6512.0,10.0,False,399.0,,B08KDQ7CS1,GY2157515WTTL,Goodyear Wrangler Triplemex 215/75% R15 100H Tubeless Car Tyre,Goodyear,4W,6399.0,Only Delivery,False,
+ok,6200.0,7655.0,9.0,False,1093.0,,B0BZVT98VH,CE2155517SUTL,Ceat 215/55 R17 SecuraDrive SUV TL 94V,CEAT,4W,7293.0,Only Delivery,True,
+ok,4849.0,4839.0,6.0,False,140.0,,B0F28XCWSZ,JK1856515UTTL,JK 185/65 R15 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,4989.0,Only Delivery,True,
+ok,1469.0,1469.0,2.0,True,,530.0,B0F4R6BWLG,CE275517FSZTT,CEAT 2.75-17 SECURA ZOOM F 41P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1469.0,Only Delivery,False,
+ok,4646.0,4773.11,10.0,True,,-1.0,B0CFVTWM6K,CE1756015SDTLODLON,Ceat Tyre 175/60R15 Secura Drive 81H Tubeless,CEAT,4W,4646.0,Only Delivery,False,
+ok,2800.0,3399.0,15.0,False,309.0,,B01IF774JY,GY1458012DHTLODLON,Goodyear Ducaro Hi-Miler 145/80 R12 74T Tubeless Car Tyre (Home Delivery),Goodyear,4W,3109.0,Only Delivery,False,
+ok,,,0.0,,,,B0F28XTL4X,CE1309015ZXTL,CEAT 130/90-15 ZOOM X3 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2519.0,Only Delivery,False,
+ok,7859.0,8412.0,2.0,True,,553.0,B0CCY4DXTC,GY2357515WWTL,Goodyear Tyre 235/75% R15 Wrangler Rt/S 105S Tl Tube,Goodyear,4W,7859.0,Only Delivery,False,
+ok,6450.0,6450.0,3.0,False,99.0,,B07YDW8GYF,GY1855516ATTLODLON,Goodyear ASSURANCE TRIPLEMAX2 185/55 R16 87H Tubeless Car Tyre,Goodyear,4W,6549.0,Only Delivery,False,
+ok,5600.0,5600.0,1.0,False,,,B0GQ39746C,MISSING - needs manual entry,YOKOHAMA 175/65 R14 EARTH-1 MAX 82H TUBELESS TYRE,Yokohama,4W,,Only Delivery,False,
+ok,3499.0,3499.0,6.0,False,29.0,,B0F291N45P,JK1657014UTTL,JK 165/70 R14 UX TOURING 81S TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3528.0,Only Delivery,False,
+ok,7450.0,7450.0,5.0,False,321.0,,B0F28XG1HR,JK2556518RTTL,JK 255/65 R18 RANGER A/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,7771.0,Only Delivery,False,
+ok,1499.0,1499.0,5.0,True,,390.0,B0F4R8L7KF,CE30010ZOODTL,CEAT 3.00-10 ZOOM D 42J TUBELESS TYRE| Rear | Car Tyre for Front and Rear,CEAT,2W,1209.0,Only Delivery,False,
+ok,2999.0,3208.0,3.0,True,,280.0,B08LKN6DYS,CE1109018XLTT,"CEAT Gripp XL 110/90-18 61P Tube-Type Bike Tyre, Rear",CEAT,2W,2719.0,Only Delivery,False,
+ok,6899.0,6899.0,5.0,False,,,B09QL3TCZ9,MISSING - needs manual entry,JK Tyre S 215/55% R18 Ux Royale Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False,
+ok,2109.0,2499.0,4.0,True,,341.0,B08DT8Z6R1,CE1009017ZMTL,Ceat Zoom Plus 100/90-17 55P Tubeless Bike Tyre,CEAT,2W,2109.0,Only Delivery,False,
+ok,2329.0,2329.0,2.0,True,,570.0,B0F28WZNZ8,CE1009017GXTL,CEAT 100/90-17 GRIPP X5 55P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2329.0,Only Delivery,False,
+ok,,,0.0,,,,B01FTSI65S,MISSING - needs manual entry,"Ceat Gripp XL 90/90-19 Tube-Type Bike Tyre, Front",CEAT,2W,,Only Delivery,False,
+ok,5800.0,5890.0,9.0,False,431.0,,B0C591CPZ9,AP1956515ALTLODLON,Apollo Tyres Alnac 4G 195/65 R15 91H Tubeless Car Tyre,Apollo,4W,6231.0,Only Delivery,False,
+ok,12500.0,12500.0,2.0,False,489.0,,B0F6NDDMMW,GY2255018ATTL,GOODYEAR 225/50 R18 ASSURANCE TRIPLEMAX 2 95V TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,12989.0,Only Delivery,False,
+ok,7439.0,7439.0,1.0,True,,,B0F6NFBMWD,GY2056016ATTL,GOODYEAR 205/60 R16 ASSURANCE TRIPLEMAX 2 92H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,7439.0,Only Delivery,False,
+ok,8800.0,8800.0,4.0,False,83.0,,B09FY6XT8X,AP2156516ACTLODLON,Apollo Apterra Cross 215/65 R16 98H Tubeless Car Tyre (With FREE Air Nozzle),Apollo,4W,8883.0,Only Delivery,False,
+ok,2929.0,2929.0,1.0,True,,,B0F28WL1B4,CE1208018GXTT,CEAT 120/80-18 GRIPP XL 62S TUBE-TYPE TYRE | Front/Rear | Car Tyre for Front and Rear,CEAT,2W,2929.0,Only Delivery,False,
+ok,6999.0,9999.0,5.0,False,810.0,,B0F6NG3QWW,GY1956016A2TL,GOODYEAR 195/60 R16 ASSURANCE TRIPLEMAX 2 89H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,7809.0,Only Delivery,False,
+ok,7000.0,7733.0,8.0,False,,,B08LTDFG79,MISSING - needs manual entry,Continental ContiUltraContact UC6 205/65 R16 Tubeless Car Tyre,Continental,4W,,Only Delivery,False,
+ok,9399.0,15999.0,6.0,False,440.0,,B0F28Y8F46,CE2556019CDTL,CEAT 255/60 R19 CrossDrive AT 109H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,9839.0,Only Delivery,False,
+ok,5578.0,6058.0,12.0,False,741.0,,B0CJRPCZHX,GY2056516A2TLODLON,Goodyear Tyre 205/65R16 Assurance Triplemax 2 95H Tubeless,Goodyear,4W,6319.0,Only Delivery,False,
+ok,6319.0,9999.0,4.0,True,,0.0,B01IF76RJ2,GY2056516A2TL,Goodyear Assurance TripleMax 205/65 R16 95H Tubeless Car Tyre (Home Delivery),Goodyear,4W,6319.0,Only Delivery,False,
+ok,10400.0,10400.0,3.0,False,,,B01L98WFO0,MISSING - needs manual entry,JK Tyre Ranger H/T 235/65% R17 Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False,
+ok,6866.0,9999.0,2.0,True,,3133.0,B0F28XCMGQ,CE2055517SDTL,CEAT 205/55 R17 SECURADRIVE 91H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6866.0,Only Delivery,False,
+ok,2309.0,2309.0,2.0,True,,390.0,B0F28XVS3K,CE1009018ZZTL,CEAT 100/90-18 ZOOM X3 56P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2309.0,Only Delivery,False,
+ok,5986.0,6055.0,10.0,True,,0.0,B0F28YMMXY,JK2156017URTL,JK 215/60 R17 UX ROYALE 96H TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,5986.0,Only Delivery,False,
+ok,6196.0,6196.0,1.0,True,,,B0F28XTMBF,CE2156016SETL,CEAT 215/60 R16 SECURADRIVE 95H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6196.0,Only Delivery,True,
+ok,3258.23,3313.0,5.0,True,,-1.23,B0B1WRGD6F,CE1406017RZTL,"Ceat 102501 Zoom-Rad 140/60 R17 63P Tubeless Bike Tyre, Rear",CEAT,2W,3258.23,Only Delivery,False,
+ok,3189.0,3189.0,4.0,True,,310.0,B0F28XYHSH,CE1407017GRTL,CEAT 140/70-17 GRIPP X5 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3189.0,Only Delivery,False,
+ok,2580.0,2799.0,8.0,False,219.0,,B07B4FZ4SQ,JK1357012UATL,JK Tyre 135/70% R12 Ultima LXT Tubeless Car Tyre,JK Tyre,4W,2799.0,Only Delivery,False,
+ok,3589.0,3568.0,4.0,True,,0.0,B08B1X2QPW,JK1556514UNTL,JK Tyre 155/65% R14 Ultima Neo Tubeless Car Tyre,JK Tyre,4W,3589.0,Only Delivery,False,
+ok,4790.0,5582.0,12.0,False,769.0,,B07HJ82NY9,GY1856015AETL,Goodyear Assurance Triplemax 2 185/60 R15 84H Tubeless Car Tyre,Goodyear,4W,5559.0,Only Delivery,True,
+ok,4609.0,5999.0,8.0,True,,0.0,B079WW153D,CE1857014XMTLODLON,"Ceat Milaze X3 TL 185/70% R14 88T Tubeless Car Tyre, Front",CEAT,4W,4609.0,Only Delivery,False,
+ok,6219.0,6419.0,2.0,True,,200.0,B0F28XLB3K,CE2157515SSTLODLON,CEAT 215/75 R15 SECURADRIVE SUV 100H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6219.0,Only Delivery,False,
+ok,3489.0,5999.0,41.0,False,20.0,,B077Y965X4,CE1556513MZTL,Ceat Milaze X3 155/65 R13 73T Tubeless Car Tyre,CEAT,4W,3509.0,Only Delivery,False,
+ok,6158.0,6546.0,11.0,False,31.0,,B08R1ZV6GW,CE1956016ESTLODLON,Ceat 195/60 R16 89H Secura Drive Tubeless Car Tyre,CEAT,4W,6189.0,Only Delivery,False,
+ok,4759.0,4759.0,1.0,True,,,B0F28Z1827,CE1857014MXTL,CEAT 185/70 R14 MILAZE X5 88T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4759.0,Only Delivery,False,
+ok,5120.0,5151.34,8.0,True,,-94.0,B079WV62FH,CE1756514MCTLODLON,"Ceat Milaze X3 TL 175/65 R14 82T Tubeless Car Tyre, Front",CEAT,4W,4894.0,Only Delivery,True,
+ok,5399.0,5399.0,2.0,False,60.0,,B0F6NG58KL,GY1856015AMTL,GOODYEAR 185/60 R15 ASSURANCE MAXGUARD 84H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5459.0,Only Delivery,True,
+ok,9246.0,9246.0,4.0,True,,1493.66,B0B76MCHGG,B07TTXKDM8,YOKOHAMA 215/65% R16 GEOLANDAR G015 98H TUBELESS CAR TYRE,Yokohama,4W,8705.34,Only Delivery,False,
+ok,6439.0,6390.0,4.0,True,,-31.0,B0F28XC6WN,CE2157515CDTL,CEAT 215/75 R15 CrossDrive AT 100S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6439.0,Only Delivery,False,
+ok,1779.0,1769.0,6.0,True,,-10.0,B0F4RC2L5N,CE27518MILXTT,CEAT 2.75-18 MILAZE X5 48P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1779.0,Only Delivery,False,
+ok,2309.0,2309.0,2.0,True,,690.0,B0F28Y3T53,CE1009018GXTL,CEAT 100/90-18 GRIPP X5 56P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2309.0,Only Delivery,False,
+ok,3360.0,5999.0,9.0,False,229.0,,B01DKI00EO,JK1556513ANTL,JK Tyre 155/65 R13 Ultima Neo Tubeless Car Tyre,JK Tyre,4W,3589.0,Only Delivery,True,
+ok,5447.0,5447.0,2.0,True,,203.0,B0F28XRR2V,CE1856515ESTL,CEAT 185/65 R15 SECURADRIVE 88H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5447.0,Only Delivery,True,
+ok,11949.0,11949.0,2.0,True,,1471.0,B0F28XDTHJ,CE2356517CDTLODLON,CEAT 235/65 R17 CrossDrive AT 104T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,11529.0,Only Delivery,False,
+ok,2219.0,2219.0,2.0,True,,580.0,B0F28Z6WTQ,CE1108017ZXTL,CEAT 110/80-17 ZOOM X3 57P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2219.0,Only Delivery,False,
+ok,8289.0,8289.0,3.0,True,,271.0,B0CMXVP5Z1,GY2156016ATTL,Goodyear Tyre 215/60% R16 Assurance Triplemax 2 95H Tl Tube,Goodyear,4W,8289.0,Only Delivery,False,
+ok,5850.0,5850.0,6.0,False,350.0,,B0F28Z9P1K,JK1955516UTTLODLON,JK 195/55 R16 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6200.0,Only Delivery,False,
+ok,,,0.0,,,,B0F28WY8JT,CE1407017ZCTL,CEAT 140/70-17 ZOOM CRUZ 66H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3218.0,Only Delivery,False,
+ok,2359.0,2349.0,3.0,True,,0.0,B0F28YN19W,CE1009018ZCTL,CEAT 100/90-18 ZOOM CRUZ F 56H TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2359.0,Only Delivery,False,
+ok,3599.0,3599.0,1.0,True,,,B0CFVT63G7,CE1557013MZTL,CEAT 155/70 R13 MILAZE X3 75T TUBELESS TYRE,CEAT,4W,3599.0,Only Delivery,False,
+ok,7462.0,7462.0,2.0,False,827.0,,B0F6NDG7S1,GY2357016WTTL,GOODYEAR 235/70 R16 WRANGLER TRIPLEMAX 106H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8289.0,Only Delivery,False,
+ok,8010.0,8010.0,4.0,False,261.0,,B0F28XVWLG,JK2155518URTL,JK 215/55 R18 UX ROYALE 95H TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,8271.0,Only Delivery,True,
+ok,3409.0,3409.0,2.0,True,,556.0,B0F28XJKVY,JK1756013USTL,JK 175/60 R13 ULTIMA SPORTS TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3409.0,Only Delivery,False,
+ok,3500.0,3500.0,6.0,False,39.0,,B0F28Y63WK,JK1557013UHTL,JK 155/70 R13 ULTIMA HI^LIFE 75T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3539.0,Only Delivery,False,
+ok,4770.0,6999.0,7.0,False,421.0,,B01IIQQN12,AP1856514ACTLODLON,Apollo Alnac 4Gs 185/65 R14 86H Tubeless Car Tyre,Apollo,4W,5191.0,Only Delivery,False,
+ok,5175.0,5175.0,3.0,False,54.0,,B0F6ND71YL,GY1756015XATL,GOODYEAR 175/60 R15 ASSURANCE TRIPLEMAX 81T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5229.0,Only Delivery,True,
+ok,3440.0,3440.0,1.0,True,,,B0F5PSN4P2,KE1756514VFTL,KELLY 175/65 R14 VFM 7 82T TUBELESS TYRE | Car Tyre for Front and Rear,Kelly,4W,3440.0,Only Delivery,False,
+ok,4595.0,5999.0,13.0,False,544.0,,B07HJBFMYD,GY1756514SRTL_DEL,Goodyear Assurance Triplemax 2 175/65% R14 82H Tubeless Car Tyre,Goodyear,4W,5139.0,Only Delivery,False,
+ok,1849.0,1899.99,3.0,False,110.0,,B0F28WQ27G,CE8010018MXTL,CEAT 80/100-18 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1959.0,Only Delivery,False,
+ok,7998.0,8239.0,2.0,False,241.0,,B00Y0U0GIC,MR2156516WPTLODLON,MRF WANDERER Sport 215/65 R16 98H Tubeless Car Tyre,MRF,4W,8239.0,Only Delivery,False,
+ok,4854.0,5999.0,4.0,True,,0.0,B016D6U22U,AP09504061,Apollo Amazer 4G 185/70 R14 88T Tubeless Car Tyre,Apollo,4W,4854.0,Only Delivery,False,
+ok,4830.0,4830.0,4.0,False,142.0,,B0F28W1D2R,CE1756514MXTL,CEAT 175/65 R14 MILAZE X5 82T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4972.0,Only Delivery,False,
+ok,6500.0,6500.0,3.0,False,17.0,,B08QZL7YXD,AP2056515ACTL,Apollo Alnac 4G 205/65 R15 94H Tubeless Car Tyre,Apollo,4W,6517.0,Only Delivery,False,
+ok,6230.0,6230.0,5.0,False,368.0,,B0F28Z8TPT,CE1955516MXTL,CEAT 195/55 R16 MILAZE X5 87H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6598.0,Only Delivery,True,
+ok,6100.0,6099.0,14.0,False,,,B07JB8NF8W,MISSING - needs manual entry,Yokohama Earth 1-185/65R15-88H Tubeless Passenger Car Tyre,Yokohama,4W,,Only Delivery,False,
+ok,4650.0,4999.0,7.0,False,529.0,,B07HJB14ST,GY1856514AXTL,Goodyear Assurance Triplemax 2 185/65 R14 86H Tubeless Car Tyre,Goodyear,4W,5179.0,Only Delivery,False,
+ok,3139.0,5999.0,3.0,True,,111.0,B077Y7117Y,S12,Ceat Milaze X3 145/80% R12 74T Tube-Type Car Tyre,CEAT,4W,3139.0,Only Delivery,False,
+ok,4894.0,4894.0,2.0,True,,6.0,B09NQH4YMG,CE1756514MCTL,CEAT 175/65 R14 MILAZE X3 82T TUBELESS TYRE,CEAT,4W,4894.0,Only Delivery,True,
+ok,3050.0,3050.0,5.0,False,49.0,,B0F28XYL4D,CE1458012MXTL,CEAT 145/80 R12 MILAZE X5 74T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3099.0,Only Delivery,False,
+ok,6374.0,6374.0,2.0,True,,163.78,B0GQ31XXFT,JK2157515CPTL,JK 215/75 R15 RANGER H/T 100S TUBELESS TYRE,JK Tyre,4W,6374.0,Only Delivery,False,
+ok,7500.0,7500.0,2.0,True,,3310.0,B0757L98RC,CE2157515MZTL,"Ceat 103921 Milaze LT 215/75 R15 115S/113S Tube Type SUV Tyre for Tempo Traveller, Black",CEAT,4W,6689.0,Only Delivery,True,
+ok,4279.0,4279.0,5.0,False,188.0,,B0CJRPX8CY,CO1658014CC6TLODLON,Continental Tyre 165/80R14 UltraContact UC6 85H TL,Continental,4W,4467.0,Only Delivery,False,
+ok,14000.0,14000.0,3.0,False,,,B0D5TBJM8Q,MISSING - needs manual entry,JK Tyre 215/60 R16 UX Royale Tubeless Car Tyre Set of 2,JK Tyre,4W,,Only Delivery,False,
+ok,3629.0,3629.0,1.0,True,,,B0F28VRBTP,CE1406017CRTL,CEAT 140/60 ZR17 CROSS RAD STEEL (Steel Radial) 63H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,3629.0,Only Delivery,False,
+ok,9149.0,9149.0,5.0,False,360.0,,B0F28XN2VY,CE2556518CDTL,CEAT 255/65 R18 CrossDrive AT 111H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,9509.0,Only Delivery,False,
+ok,3540.0,4374.0,11.0,False,59.0,,B0785MRP6N,CE1557013MLTL,Ceat 105047 Milaze X3 155/70 R13 75T Tubeless Car Tyre,CEAT,4W,3599.0,Only Delivery,False,
+ok,8632.82,8632.82,3.0,False,506.18,,B0F6NLNHM2,GY2156516EFTLODLON,GOODYEAR 215/65 R16 EFFICIENTGRIP SUV 98V TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,9139.0,Only Delivery,False,
+ok,5100.0,5600.0,8.0,False,599.0,,B0F6NDTZ78,GY1856515AMTL,GOODYEAR 185/65 R15 ASSURANCE MAXGUARD 92H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5699.0,Only Delivery,False,
+ok,5259.0,5259.0,3.0,False,238.0,,B0F28SZG8K,CE1756515MXTL,CEAT 175/65 R15 MILAZE X5 84T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5497.0,Only Delivery,False,
+ok,1859.0,1849.0,6.0,True,,-10.0,B0F4RB6GV2,CE230018MIXTL,CEAT 3.00-18 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1859.0,Only Delivery,False,
+ok,7149.0,7426.0,2.0,True,,277.0,B0BR5TYW1K,B08R2166FW,CEAT 205/60 R16 SECURADRIVE 92H Tubeless Tyre CE2056016SETL,CEAT,4W,7149.0,Only Delivery,False,
+ok,3655.0,3510.0,5.0,False,194.0,,B00Y0UDP62,MR1556513ZXTLODLON,MRF ZLX 155/65 R13 73T Tubeless Car Tyre,MRF,4W,3849.0,Only Delivery,False,
+ok,3920.0,4204.0,10.0,False,,,B01IIQR348,MISSING - needs manual entry,Apollo Amazer 4G Life 165/65 R14 79T Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,10759.0,10759.0,1.0,True,,,B0GQ36G72T,CE2456517SSTL,CEAT 245/65 R17 SECURADRIVE SUV 107H TUBELESS TYRE,CEAT,4W,10759.0,Only Delivery,False,
+ok,7130.0,7130.0,2.0,False,19.0,,B0F28VXYB3,CE2056016SUTL,CEAT 205/60 R16 SECURADRIVE SUV 92H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,7149.0,Only Delivery,False,
+ok,3369.0,5999.0,8.0,True,,0.0,B077Y97R4X,CE1458013MLTLODLON,"Ceat Milaze X3 145/80% R13 75T Tubeless Car Tyre (105044), Black",CEAT,4W,3369.0,Only Delivery,False,
+ok,6350.0,6350.0,6.0,False,307.0,,B0F28X8GD3,CE2156017SRTL,CEAT 215/60 R17 SECURADRIVE SUV 96H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6657.0,Only Delivery,False,
+ok,6045.0,6035.0,3.0,True,,0.0,B0F2913Z8L,JK2056515UTTL,JK 205/65 R15 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6045.0,Only Delivery,False,
+ok,2119.0,2119.0,2.0,True,,130.0,B0F28WL19Z,CE1108014ZPTL,CEAT 110/80-14 ZOOM PLUS TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2119.0,Only Delivery,False,
+ok,6400.0,6400.0,2.0,False,,,B0F28YLQQV,MISSING - needs manual entry,CEAT 215/75 R15 CrossDrive AT 100S TUBE-TYPE TYRE | Car Tyre for Front and Rear,CEAT,4W,,Only Delivery,False,
+ok,4200.0,5999.0,3.0,False,200.0,,B0BR5SHH9C,B00RGOVTG2,CEAT 165/65 R14 MILAZE X3 79T Tubeless Tyre CE1656514MZTL,CEAT,4W,4400.0,Only Delivery,False,
+ok,1929.0,1929.0,4.0,True,,269.0,B0F28XHH74,CE909017ZMXTL,CEAT 90/90-17 ZOOM X3 F 49P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,1929.0,Only Delivery,False,
+ok,3528.0,3528.0,1.0,True,,,B09FSYYL48,JK1656513UHTL,"JK Tyre 165/65 R13 Ultima Hi^Life Tubeless Car Tyre, (165/65R13)",JK Tyre,4W,3528.0,Only Delivery,True,
+ok,1880.0,1971.0,12.0,False,,,B01FTSHF82,MISSING - needs manual entry,"Ceat Milaze 3.00-17 50P Tubeless Bike Tyre, Rear (102975), 3 Inches",CEAT,4W,,Only Delivery,False,
+ok,8317.0,8317.0,4.0,True,,0.0,B0F28ZFLZK,CE2155518SDTL,CEAT 215/55 R18 SECURADRIVE 95H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,8317.0,Only Delivery,False,
+ok,6719.0,6715.0,2.0,True,,0.0,B0F28ZSJST,JK2256016URTL,JK 225/60 R16 UX ROYALE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6719.0,Only Delivery,False,
+ok,3400.0,3678.0,13.0,False,26.0,,B07N8YZ1ZB,AP1458013LETLODLON,Apollo tyres Amazer 4G Life 145/80 R13 75T Tubeless Car Tyre,Apollo,4W,3426.0,Only Delivery,False,
+ok,4620.0,3900.0,7.0,False,183.0,,B01IIQQK2O,AP1857014CPTLODLON,Apollo Alnac 4G 185/70 R14 88H Tubeless Car Tyre,Apollo,4W,4803.0,Only Delivery,False,
+ok,3150.0,3150.0,6.0,False,529.0,,B0F6NF5J2Z,GY1657014DPTLODLON,GOODYEAR 165/70 R14 DP SERIES 81S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3679.0,Only Delivery,False,
+ok,3500.0,3499.0,11.0,False,119.0,,B00Y0UBX7A,MR1557013ZVTTODLON,MRF Zvts 155/70% R13 75T Tubeless Car Tyre,MRF,4W,3619.0,Only Delivery,False,
+ok,2499.0,3999.0,3.0,False,,,B01FTSHZL4,MISSING - needs manual entry,"Ceat 100529 F67 3.25-19 54P Tube-Type Bike Tyre, Front |Rim - 7 inches| | Section width - 90 millimeters",CEAT,2W,,Only Delivery,False,
+ok,5830.0,6039.0,12.0,False,827.0,,B0BZVR3CGX,CE2156017SRTLODLON,Ceat 215/60 R17 SecuraDrive SUV TL 96H,CEAT,4W,6657.0,Only Delivery,False,
+ok,6399.0,6399.0,1.0,True,,,B0F6NFKSV4,GY1856016AETL,GOODYEAR 185/60 R16 ASSURANCE TRIPLEMAX 2 86H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6399.0,Only Delivery,False,
+ok,1639.0,1639.0,1.0,True,,,B0F4R7BWTK,CE275518URATL,CEAT 2.75-18 SECURA F85 42P TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,1639.0,Only Delivery,False,
+ok,7200.0,7200.0,8.0,False,529.0,,B0CJRR1VTX,GY1955516AMTL,"Goodyear Tyre 195/55% R16 Assurance Maxguard Fp 87V Tl, 55, Tubeless",Goodyear,4W,7729.0,Only Delivery,False,
+ok,5559.0,5559.0,2.0,True,,141.0,B0BB2HJND5,GY1856515DSTL,GOODYEAR 185/65 R15 DURAPLUS 88S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5559.0,Only Delivery,False,
+ok,6189.0,6189.0,1.0,True,,,B0F28WV1RT,CE1956016ESTL,CEAT 195/60 R16 SECURADRIVE 89V TUBELESS TYRE,CEAT,4W,6189.0,Only Delivery,False,
+ok,6450.0,6450.0,2.0,False,189.0,,B0F6NC8RBY,GY1956515SXTL,GOODYEAR 195/65 R15 ASSURANCE TRIPLEMAX 2 91H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6639.0,Only Delivery,False,
+ok,11409.0,11409.0,1.0,True,,,B0GQ2W8KMZ,CE2356018SSTL,CEAT 235/60 R18 SECURADRIVE SUV 103H TUBELESS TYRE,CEAT,4W,11409.0,Only Delivery,False,
+ok,5000.0,5000.0,8.0,False,517.0,,B08DBJR95N,AP1856515ALTLODLON,Apollo tyres Alnac 4G 185/65% R15 88H Tubeless Car Tyre,Apollo,4W,5517.0,Only Delivery,False,
+ok,4019.0,4019.0,1.0,True,,,B0F28WGR6L,CE1658014SDTL,CEAT 165/80 R14 SECURADRIVE 85S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4019.0,Only Delivery,False,
+ok,3499.0,5323.0,8.0,False,447.0,,B07N8Y9232,AP1656513LFTLODLON,Apollo AMAZER 4G LIFE 165/65 R13 77T Tubeless Car Tyre,Apollo,4W,3946.0,Only Delivery,False,
+ok,8989.0,8989.0,1.0,True,,,B0F6NFBPCF,GY2055017ATTL,GOODYEAR 205/50 R17 ASSURANCE TRIPLEMAX 2 93W TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8989.0,Only Delivery,False,
+ok,6500.0,6500.0,4.0,False,149.0,,B0CK7194BF,AP2056516ACTL,apollo Alnac 4G 205/65R16 95H Steel Belted Tubeless Car Radial Tyre,Apollo,4W,6649.0,Only Delivery,False,
+ok,5509.0,5149.0,3.0,True,,-9.0,B0F6NC5W1G,GY1757014DSTL,GOODYEAR 175/70 R14 DURAPLUS 84T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5509.0,Only Delivery,False,
+ok,5349.0,5349.0,3.0,False,37.0,,B0F28WT84R,CE1756515SITL,CEAT 175/65 R15 SECURADRIVE 84H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5386.0,Only Delivery,False,
+ok,3625.0,3625.0,2.0,True,,674.0,B0F2911N22,JK1558013UHTL,JK 155/80 R13 ULTIMA HI^LIFE 75T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3625.0,Only Delivery,False,
+ok,3680.0,3680.0,3.0,False,105.0,,B0F28XPW5C,JK1658014UTTLODLON,JK 165/80 R14 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3785.0,Only Delivery,False,
+ok,3450.0,3960.0,8.0,False,459.0,,B08637RTWX,GO1557013ADTL_DEL,Goodyear Assurance Duraplus 2 155/70R13 75T Tubeless Car Tyre,Goodyear,4W,3909.0,Only Delivery,False,
+ok,6853.0,9999.0,4.0,True,,647.0,B07N8Y891Q,JK2157515BRTT,JK Tyres 215/75 R15 Brute 4X4 Tube type Car Tyre (1325121715100SBRT0),JK Tyre,4W,6853.0,Only Delivery,False,
+ok,5089.0,5089.0,2.0,True,,0.0,B0F28XYZ25,JK1855516URTL,JK 185/55 R16 UX ROYALE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,5089.0,Only Delivery,False,
+ok,3920.0,3920.0,3.0,False,15.0,,B0F4RDGDZL,CE15513MZLTTL,CEAT 155 R13 MILAZE LT TL 8PR Tyre | Car Tyre for Front and Rear,CEAT,4W,3935.0,Only Delivery,False,
+ok,5259.0,5999.0,3.0,True,,0.0,B082SWPJQ5,A41,Ceat Milaze X3 175/70% R14 Milaze X3 Tl 84H Tubeless Car Tyre,CEAT,4W,5259.0,Only Delivery,False,
+ok,5799.0,9999.0,5.0,False,,,B01IIQQK7E,MISSING - needs manual entry,Apollo Alnac 4G 195/55 R15 85H Tubeless Car Tyre,Apollo,4W,,Only Delivery,False,
+ok,4336.0,4336.0,1.0,True,,,B0GN31PSLW,CE1656514MZTL,CEAT Milaze X3 165/65 R14 79T Tubeless Car Tyre | Long-Lasting Tread | Fuel Efficient | High Grip Performance,CEAT,4W,4336.0,Only Delivery,False,
+ok,4336.0,4336.0,2.0,True,,14.0,B0F28YP6MY,CE1656514MXTL,CEAT 165/65 R14 MILAZE X5 79T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4336.0,Only Delivery,False,
+ok,,,0.0,,,,B0F28Y5XD4,CE1457012MMTL,CEAT 145/70 R12 MILAZE X3 69T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,2539.0,Only Delivery,False,
+ok,5029.0,5029.0,1.0,True,,,B09NQH3ZV6,CE1856514METL,CEAT 185/65 R14 MILAZE X3 86T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5029.0,Only Delivery,False,
+ok,3700.0,3700.0,5.0,False,174.0,,B0F28ZK2GB,CE1558013MXTLODLON,CEAT 155/80 R13 MILAZE X5 79T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3874.0,Only Delivery,True,
+ok,3999.0,3890.0,3.0,True,,12.0,B0F28YL51T,CE1556514MXTL,CEAT 155/65 R14 MILAZE X5 75T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3987.0,Only Delivery,False,
+ok,1780.0,1670.0,4.0,False,9.0,,B0F4R9M8XX,CE30017MILXTL,CEAT 3.00-17 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1789.0,Only Delivery,False,
+ok,3459.0,3459.0,1.0,True,,,B0GQ2ZCZZ8,CE1458013MXTL,CEAT 145/80 R13 MILAZE X5å 75T TUBELESS TYRE,CEAT,4W,3459.0,Only Delivery,False,
+ok,5436.0,5436.0,1.0,True,,,B0F28WWP6P,CE1856015SRTL,CEAT 185/60 R15 SECURADRIVE 84H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,5436.0,Only Delivery,False,
+ok,12699.0,12699.0,1.0,True,,,B08D696DKF,GY2356517WTTL_DEL,Goodyear Wrangler At Silenttrac 235/65% R17 104H Tubeless Car Tyre,Goodyear,4W,12699.0,Only Delivery,False,
+ok,8049.0,8049.0,1.0,True,,,B0GQ393417,CE2154517SCTL,CEAT 215/45 R17 SPORTDRIVE CALM 91Y XL TUBELESS TYRE,CEAT,4W,8049.0,Only Delivery,False,
+ok,3369.0,3369.0,1.0,True,,,B0GN34HTQT,CE1457013METL,CEAT Milaze X3 145/70 R13 71T Tubeless Car Tyre | Long-Lasting Tread | Fuel Efficient | High Grip Performance,CEAT,4W,3369.0,Only Delivery,False,
+ok,17789.0,17789.0,1.0,True,,,B0GN2Z1BDT,CE2555519STTL,CEAT 255/55 R19 SPORTDRIVE SUV CALM 111W XL TUBELESS TYRE,CEAT,4W,17789.0,Only Delivery,False,
+ok,3946.0,5999.0,6.0,True,,-157.0,B075P3G7NH,AP1657013ARTLODLON,Apollo Amazer 4G Life 165/70 R13 79T Tubeless Car Tyre,Apollo,4W,3946.0,Only Delivery,False,
+ok,4375.0,4399.0,3.0,True,,180.0,B00Y0UMVS0,MR1656514ZVTLODLON,MRF ZVTV 165/65 R14 79H Tubeless Car Tyre,MRF,4W,4219.0,Only Delivery,False,
+ok,2379.0,2379.0,2.0,True,,320.0,B0F28XBY1D,CE909019ZOMTT,CEAT 90/90-19 ZOOM PLUS F 52P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,2W,2379.0,Only Delivery,False,
+ok,1620.0,2999.0,7.0,False,99.0,,B0F4R7W7N1,CE27518MILXTL,CEAT 2.75-18 MILAZE X5 TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,1719.0,Only Delivery,False,
+ok,12149.0,12149.0,1.0,True,,,B0F28YQBMW,CE2656517CDTL,CEAT 265/65 R17 CrossDrive AT 112S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,12149.0,Only Delivery,False,
+ok,4100.0,4399.0,7.0,False,399.0,,B077C2C1YR,MR1656514ZXTLODLON,MRF ZLX 165/65 R14 79H Tubeless Car Tyre,MRF,4W,4499.0,Only Delivery,False,
+ok,8500.0,8500.0,2.0,False,79.0,,B0F28TKBDX,CE2357016CDTL,CEAT 235/70 R16 CrossDrive AT 106S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,8579.0,Only Delivery,False,
+ok,6402.0,6390.0,4.0,True,,0.0,B0F28ZN98Z,JK2157515RXTL,JK 215/75 R15 RANGER X-A/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6402.0,Only Delivery,False,
+ok,13800.0,13800.0,1.0,False,,,B0F6NDMMD9,MISSING - needs manual entry,GOODYEAR 265/65 R17 WRANGLER AT/ST 112S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,,Only Delivery,False,
+ok,6100.0,6100.0,2.0,True,,243.0,B0CJRR67PK,CO1756515UCTLODLON,Continental Tyre 175/65R15 ULTRACONTACT UC6 84H TL,Continental,4W,5956.0,Only Delivery,False,
+ok,6449.0,6440.0,3.0,True,,0.0,B0F6NCJ1HM,GY2157515RRTL,GOODYEAR 215/75 R15 WRANGLER RT/S 100S TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6449.0,Only Delivery,False,
+ok,3245.0,3300.0,8.0,False,314.0,,B00Y0UQ91U,MR1457013ZVTTODLON,MRF Zvts 145/70% R13 71S Tubeless Car Tyre,MRF,4W,3559.0,Only Delivery,False,
+ok,4242.0,3599.0,2.0,True,,0.0,B07N8Y59JZ,AP1557014LITLODLON,Apollo AMAZER 4G LIFE 155/70 R14 77T Tubeless Car Tyre,Apollo,4W,4242.0,Only Delivery,False,
+ok,2359.0,2359.0,1.0,True,,,B0F5PWX9CF,KE1457012VMTL,KELLY 145/70 R12 VFM 1 69T TUBELESS TYRE | Car Tyre for Front and Rear,Kelly,4W,2359.0,Only Delivery,False,
+ok,8600.0,8999.0,6.0,True,,588.0,B0CJRRPJDC,GY1956016A2TLODLON1,Goodyear Tyre 195/60R16 ASSURANCE TRIPLEMAX 2 89H TL,Goodyear,4W,7809.0,Only Delivery,False,
+ok,3880.0,3880.0,4.0,False,107.0,,B0CJRR7LYJ,CO1657014C6TLODLON,Continental Tyre 165/70R14 COMFORTCONTACT CC6 81T TL,Continental,4W,3987.0,Only Delivery,False,
+ok,,9999.0,2.0,,,,B0D4Z9JRY6,MISSING - needs manual entry,JK Tyre Ultima Neo 155/80 R13 Tubeless Car Tyre Set of 2,JK Tyre,4W,,Only Delivery,False,
+ok,3909.0,3909.0,1.0,True,,,B0F6NFLLNP,GY1558013APTL,GOODYEAR 155/80 R13 ASSURANCE DURAPLUS 2 79T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3909.0,Only Delivery,False,
+ok,3762.0,3762.0,1.0,True,,,B0F4RCFXKT,CE15513MHLTTL,CEAT 155 R13 MILAZE HD LT TL 8PR Tyre | Car Tyre for Front and Rear,CEAT,4W,3762.0,Only Delivery,False,
+ok,9900.0,9900.0,2.0,False,90.0,,B0F28ZHJKC,CE2356517SVTL,CEAT 235/65 R17 SECURADRIVE SUV 104H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,9990.0,Only Delivery,False,
+ok,4909.0,4909.0,1.0,True,,,B0F28XFH85,CE1107017SPTL,CEAT 110/70 ZR17 SPORT RAD STEEL (Steel Radial) 54W TUBELESS TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,4909.0,Only Delivery,False,
+ok,6349.42,6349.42,2.0,False,339.58,,B0F6NCKMNQ,GY1956015RATL,GOODYEAR 195/60 R15 ASSURANCE TRIPLEMAX 2 88T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,6689.0,Only Delivery,False,
+ok,3843.0,5225.0,6.0,False,31.0,,B0BR5TCFZG,B00RGOVJTY,CEAT 155/80 R13 MILAZE X3 79T Tubeless Tyre CE1558013MXTL-1,CEAT,4W,3874.0,Only Delivery,False,
+ok,9549.0,9549.0,2.0,False,772.0,,B0CJRRSVQ2,CO2156017UC6TLODLON,Continental Tyre 215/60R17 UltraContact UC6 96H TL,Continental,4W,10321.0,Only Delivery,False,
+ok,14029.0,14029.0,1.0,True,,,B0GN2Z3WJC,CE2356018STTL,CEAT 235/60 R18 SPORTDRIVE SUV CALM 107W XL TUBELESS TYRE,CEAT,4W,14029.0,Only Delivery,False,
+ok,1389.0,1389.0,2.0,True,,410.0,B0F28XHL6S,CE909012ZOMTL,CEAT 90/90-12 ZOOM HI 54J TL | Front/Rear Tyre | Car Tyre for Front and Rear,CEAT,2W,1389.0,Only Delivery,False,
+ok,8619.0,8619.0,1.0,True,,,B0GN2NF6PL,CE2457016CETL,CEAT 245/70 R16 CROSSDRIVE AT 111S XL TUBELESS TYRE,CEAT,4W,8619.0,Only Delivery,False,
+ok,3099.0,3099.0,2.0,True,,650.0,B0F28Y7C7W,CE1407017ZPTL,CEAT 140/70-17 ZOOM PLUS 66P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3099.0,Only Delivery,False,
+ok,8000.0,8000.0,2.0,False,37.0,,B0F28ZP3W4,JK2357515BRTL,JK 235/75 R15 BRUTE 4X4 TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,8037.0,Only Delivery,False,
+ok,8300.0,8300.0,6.0,False,49.0,,B0BZVRVMVV,CE2156516SDTL,Ceat 215/65 R16 SecuraDrive SUV TL 98H,CEAT,4W,8349.0,Only Delivery,False,
+ok,3550.0,5999.0,3.0,True,,241.0,B0785NMZN4,CE1457013MZTTODLON,Ceat Milaze X3 145/70 R13 71T Tubeless Car Tyre,CEAT,4W,3509.0,Only Delivery,False,
+ok,3770.0,3770.0,11.0,False,339.0,,B00Y0UA916,MR1558013ZXTLODLON,MRF Zlx 155/80% R13 79T Tubeless Car Tyre,MRF,4W,4109.0,Only Delivery,False,
+ok,7888.0,7888.0,2.0,False,681.0,,B0F6NDGJBS,GY2357016WATL,GOODYEAR 235/70 R16 WRANGLER AT/ST 106T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8569.0,Only Delivery,False,
+ok,1449.0,1449.0,2.0,True,,450.0,B0F4RGKNYN,CE275517SURTT,CEAT 2.75-17 SECURA F85 41P TUBE-TYPE TYRE | Front | Car Tyre for Front and Rear,CEAT,4W,1449.0,Only Delivery,False,
+ok,6569.0,6569.0,1.0,True,,,B0F28XV5PX,JK1955516USTL,JK 195/55 R16 UX ROYALE SMART TYRE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6569.0,Only Delivery,False,
+ok,5329.0,5329.0,1.0,True,,,B0F6NDT97Q,GY1756515AMTL,GOODYEAR 175/65 R15 ASSURANCE MAXGUARD 84H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5329.0,Only Delivery,False,
+ok,3088.0,3088.0,1.0,True,,,B0F5PXK6QC,KE1556514MVTL,KELLY 155/65 R14 VFM 3 75T TUBELESS TYRE | Car Tyre for Front and Rear,Kelly,4W,3088.0,Only Delivery,False,
+ok,15999.0,15999.0,1.0,True,,,B0GN2M24ZT,CE2555518SCTL,CEAT 255/55 R18 SPORTDRIVE SUV CALM 109W XL TUBELESS TYRE,CEAT,4W,15999.0,Only Delivery,False,
+ok,5690.0,5690.0,5.0,False,238.0,,B0F28XQVF6,JK2056516UTTLODLON,JK 205/65 R16 UX TOURING TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,5928.0,Only Delivery,False,
+ok,4875.0,4875.0,2.0,False,494.0,,B0F6NCLQQH,GY1757013ADTL,GOODYEAR 175/70 R13 ASSURANCE DURAPLUS 2 82H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5369.0,Only Delivery,False,
+ok,4950.0,6999.0,11.0,False,279.0,,B0BB29F116,GY1756015XATLODLON1,Goodyear 175/60 R15 ASSURANCE TRIPLEMAX 81T Tubeless Car Tyre,Goodyear,4W,5229.0,Only Delivery,False,
+ok,11339.0,11339.0,1.0,True,,,B0F6NDVVYQ,GY2155517AMTL,GOODYEAR 215/55 R17 ASSURANCE TRIPLEMAX 2 94V TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,11339.0,Only Delivery,False,
+ok,8939.0,8939.0,1.0,True,,,B0GQ32NFF3,CE2155017SCTL,CEAT 215/50 R17 SPORTDRIVE CALM 95Y XL TUBELESS TYRE,CEAT,4W,8939.0,Only Delivery,False,
+ok,11209.0,11209.0,1.0,True,,,B0F28YXTWH,JK3110515RMTL,JK 31x10.50 R15 RANGER M/T 109Q TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,11209.0,Only Delivery,False,
+ok,3689.0,3689.0,2.0,True,,11.0,B0GQ35PQ8T,CE1557013MXTL,CEAT 155/70 R13 MILAZE X5å 75T TUBELESS TYRE,CEAT,4W,3689.0,Only Delivery,False,
+ok,7802.0,7802.0,1.0,True,,,B0F28XTXX7,JK2357515RXTL,JK 235/75 R15 RANGER X-A/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,7802.0,Only Delivery,False,
+ok,3819.0,3819.0,2.0,True,,1.0,B0F6NF9M35,GY1556513ASTL,GOODYEAR 155/65 R13 ASSURANCE DURAPLUS 2 73T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3819.0,Only Delivery,False,
+ok,6089.0,6089.0,1.0,True,,,B0F28X37X6,CE2157515SBTL,CEAT 215/75 R15 F1 STEEL BT 100S TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,6089.0,Only Delivery,False,
+ok,8899.0,8899.0,1.0,True,,,B0F6ND9LJ9,GY2055516STTL,GOODYEAR 205/55 R16 ASSURANCE TRIPLEMAX 2 91H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,8899.0,Only Delivery,False,
+ok,6600.0,9999.0,3.0,False,,,B079X28Z1Z,MISSING - needs manual entry,"Ceat Milaze X3 Tl 205/65% R15 94S Tubeless Car Tyre, Front (104999), Black",CEAT,4W,,Only Delivery,False,
+ok,30389.0,30389.0,1.0,True,,,B0GN2TF488,CE3154021STTL,CEAT 315/40 ZR21 SPORTDRIVE SUV CALM 115Y XL TUBELESS TYRE,CEAT,4W,30389.0,Only Delivery,False,
+ok,13879.0,13879.0,1.0,True,,,B0GN2X6XSS,CE2454518SCTL,CEAT 245/45 R18 SPORTDRIVE CALM 100Y XL TUBELESS TYRE,CEAT,4W,13879.0,Only Delivery,False,
+ok,7289.0,7289.0,1.0,True,,,B0F28XRM74,CE2055516SHTL,CEAT 205/55 R16 SECURADRIVE 91H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,7289.0,Only Delivery,False,
+ok,3499.0,3499.0,1.0,True,,,B0F28VXWWB,CE1208017GRTL,CEAT 120/80-17 GRIPP X5 61P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,2789.0,Only Delivery,False,
+ok,6609.0,6499.0,4.0,True,,-110.0,B016D6U5F4,AP2056515ZATLODLON,Apollo Amazer 4G Life 205/65 R15 94T Tubeless Car Tyre,Apollo,4W,6609.0,Only Delivery,False,
+ok,2969.0,5999.0,2.0,True,,3030.0,B01IF779OE,GY1457012DOTL,Goodyear Ducaro Hi-Miler 145/70 R12 69T Tubeless Car Tyre (GY026 ),Goodyear,4W,2969.0,Only Delivery,False,
+ok,2959.0,2959.0,1.0,True,,,B0GQ3DQVLF,CE076074TT,CEAT 145/70 R12 MILAZE X3 69T TUBE-TYPE TYRE,CEAT,4W,2959.0,Only Delivery,False,
+ok,10399.0,10399.0,1.0,True,,,B0GQ362CB1,CE2254517SCTL,CEAT 225/45 R17 SPORTDRIVE CALM 94Y XL TUBELESS TYRE,CEAT,4W,10399.0,Only Delivery,False,
+ok,1979.0,2999.0,4.0,True,,518.0,B0F4RB6BXX,CE30018GRXTT,CEAT 3.00-18 GRIPP X5 52P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,1979.0,Only Delivery,False,
+ok,2369.0,2369.0,3.0,False,1039.0,,B074TFDKPW,A98,"Ceat 103172 Gripp XL 90/90-21 54S Tube-Type Bike Tyre, Front",CEAT,2W,3408.0,Only Delivery,False,
+ok,7950.0,8998.0,4.0,False,199.0,,B0CJRSRDG3,GY2357515WATL,Goodyear Tyre 235/75R15 WRL AT SILENTTRAC XL 109T TL,Goodyear,4W,8149.0,Only Delivery,False,
+ok,6460.0,7454.0,5.0,False,124.0,,B01DKI2QYQ,JK2056016UXTLODLON,JK Tyre 205/60 R16 UX Royale Tubeless Car Tyre,JK Tyre,4W,6584.0,Only Delivery,False,
+ok,4939.0,4939.0,1.0,True,,,B0F6ND8DWT,GY1656514DDTL,GOODYEAR 165/65 R14 DP SERIES 79H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,4939.0,Only Delivery,False,
+ok,9369.0,9369.0,1.0,True,,,B0F6NDFJ52,GY2156516WATL,GOODYEAR 215/65 R16 WRANGLER AT/ST 98H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,9369.0,Only Delivery,True,
+ok,1929.0,1929.0,1.0,True,,,B0F4RDKBVF,CE30017GRIXTT,CEAT 3.00-17 GRIPP X5 50P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,1929.0,Only Delivery,False,
+ok,3139.0,3139.0,2.0,True,,161.0,B0F28X72M7,CE1458012MXTT,CEAT 145/80 R12 MILAZE X5 74T TUBE-TYPE TYRE | Car Tyre for Front and Rear,CEAT,4W,3139.0,Only Delivery,False,
+ok,11679.0,11679.0,1.0,True,,,B0F6NC2YRF,GY2256017WATL,GOODYEAR 225/60 R17 WRANGLER AT/ST 99H TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,11679.0,Only Delivery,False,
+ok,3264.0,3264.0,1.0,True,,,B09FSQKKS8,JK1458013UHTL,JK Tyre 145/80 R13 Ultima Hi^Life Tubeless Car Tyre,JK Tyre,4W,3264.0,Only Delivery,False,
+ok,3225.0,3225.0,1.0,True,,,B09NQGKZQL,CE1209017LGTT,CEAT 120/90-17 GRIPP XL 64S TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3225.0,Only Delivery,False,
+ok,15859.0,15859.0,1.0,True,,,B0GN2ZYCML,CE2355519STTL,CEAT 235/55 R19 SPORTDRIVE SUV CALM 105W XL TUBELESS TYRE,CEAT,4W,15859.0,Only Delivery,False,
+ok,12749.0,12749.0,1.0,True,,,B0GN341BJD,CE2255518SCTL,CEAT 225/55 R18 SPORTDRIVE CALM 102W XL TUBELESS TYRE,CEAT,4W,12749.0,Only Delivery,False,
+ok,3119.89,5999.0,2.0,True,,2879.11,B0B6ZR3NCX,B081MCVHGJ,KELLY TYRE 165/65 R13 VFM 3 77T Tubeless Car Tyre,Kelly,4W,3119.89,Only Delivery,False,
+ok,3409.0,3409.0,1.0,True,,,B0F28YPBLX,JK1556512ULTL,JK 155/65 R12 ULTIMA LXT 71S TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3409.0,Only Delivery,False,
+ok,3840.0,3840.0,1.0,True,,,B0F28XJV84,CE1556514TMTL,CEAT 155/65 R14 MILAZE X3 75T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3840.0,Only Delivery,False,
+ok,8849.0,8849.0,1.0,True,,,B0GQ2WFVLN,CE2054517SCTL,CEAT 205/45 R17 SPORTDRIVE CALM 88Y XL TUBELESS TYRE,CEAT,4W,8849.0,Only Delivery,False,
+ok,,,0.0,,,,B0F28Z5GXX,MISSING - needs manual entry,CEAT 80/100-18 GRIPP X5 54P TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,,Only Delivery,False,
+ok,3712.0,3712.0,2.0,True,,287.0,B07N8XWCD7,AP1556514EATLODLON,Apollo AMAZER 4G LIFE 155/65 R14 75T Tubeless Car Tyre,Apollo,4W,3712.0,Only Delivery,False,
+ok,2959.0,2930.0,5.0,True,,-9.0,B0785NCG15,CE1457012METT,Ceat Milaze X3 145/70 R12 69T Tube Type Car Tyre,CEAT,4W,2959.0,Only Delivery,False,
+ok,3477.0,3477.0,2.0,True,,303.0,B01IIQQPLU,AP1556512AMTLODLON,Apollo Amazer 3G 155/65 R12 71S Tubeless Car Tyre,Apollo,4W,3477.0,Only Delivery,False,
+ok,6917.0,6917.0,1.0,True,,,B0F28Z8RQ3,JK1958015BTTT,JK 195/80 R15 RANGER BRT TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,6917.0,Only Delivery,False,
+ok,7110.0,7110.0,1.0,False,270.0,,B0F4RC29HF,YK1956015ASTL,YOKOHAMA 195/60 R15 AS01 88H TUBELESS TYRE | Car Tyre for Front and Rear,Yokohama,4W,7380.0,Only Delivery,False,
+ok,10399.0,10399.0,1.0,True,,,B0GQ321TV4,CE2255517SCTL,CEAT 225/55 R17 SPORTDRIVE CALM 101W XL TUBELESS TYRE,CEAT,4W,10399.0,Only Delivery,False,
+ok,17509.0,17509.0,1.0,True,,,B0GN2YSNPD,CE2355518STTL,CEAT 235/55 R18 SPORTDRIVE SUV CALM 104W XL TUBELESS TYRE,CEAT,4W,17509.0,Only Delivery,False,
+ok,16875.0,16875.0,2.0,False,164.0,,B0F6NGFP1Q,GY2656018WATLODLON,GOODYEAR 265/60 R18 Wrangler AT/ST TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,17039.0,Only Delivery,False,
+ok,6450.0,6450.0,7.0,False,49.0,,B082SW7C9K,CE2056516MXTL,CEAT Milaze X3 205/65R16 MILAZE X3 TL 95H Tubeless Car Tyre,CEAT,4W,6499.0,Only Delivery,False,
+ok,11849.0,11849.0,4.0,True,,79.0,B0CJRRXR57,CO2255517UC6TLODLON,Continental Tyre 225/55R17 ULTRACONTACT XL UC6 101W TL,Continental,4W,11770.0,Only Delivery,False,
+ok,5100.0,5100.0,4.0,False,19.0,,B079WVQL2W,A13,"Ceat Milaze X3 TL 175/65 R15 84T Tubeless Car Tyre, Front (105034)",CEAT,4W,5119.0,Only Delivery,False,
+ok,10349.0,10349.0,2.0,False,40.0,,B0F28YXBL3,JK2356517RSTLODLON,JK 235/65 R17 RANGER H/T SMART TYRE TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,10389.0,Only Delivery,False,
+ok,7199.0,7199.0,3.0,False,,,B01BDMXK5K,MISSING - needs manual entry,JK Tyre 215/75% R15 Ranger A/T Tubeless Car Tyre,JK Tyre,4W,,Only Delivery,False,
+ok,20469.0,20469.0,1.0,True,,,B0F6NFZV4R,GY2255517EATL,GOODYEAR 225/55 R17 EAG F1 ASY 3 97Y RFT TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,20469.0,Only Delivery,False,
+ok,,,0.0,,,,B0F28WZ35B,MISSING - needs manual entry,JK 205/60 R16 RANGER H/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,,Only Delivery,False,
+ok,10309.0,10309.0,1.0,True,,,B0GQ2YVCGV,CE2255017SCTL,CEAT 225/50 R17 SPORTDRIVE CALM 98Y XL TUBELESS TYRE,CEAT,4W,10309.0,Only Delivery,False,
+ok,10899.0,12999.0,6.0,False,2710.0,,B0F6NDPVT7,GY2356018GPTLODLON,GOODYEAR 235/60 R18 EFFICIENT GRIP PERFORMANCE 103V TUBELESS TYRE,Goodyear,4W,13609.0,Only Delivery,False,
+ok,3729.0,3729.0,1.0,True,,,B089GY3273,GY1457013ANTL_DEL,Goodyear Assurance Duraplus-2 145/70 R13 71T Tubeless Car Tyre,Goodyear,4W,3729.0,Only Delivery,False,
+ok,8883.0,8883.0,1.0,True,,,B01IIQR924,AP2357016HPTLODLON,Apollo Apterra HP 235/70 R16 105H Tubeless Car Tyre,Apollo,4W,8883.0,Only Delivery,False,
+ok,11409.0,11409.0,1.0,True,,,B0F28ZJQTH,JK2656018RHTL,JK 265/60 R18 RANGER H/T TUBELESS TYRE | Car Tyre for Front and Rear,JK Tyre,4W,11409.0,Only Delivery,False,
+ok,13499.0,13499.0,3.0,True,,1396.0,B0CJRRZR3F,CO2155518UCTLODLON,Continental Tyre 215/55R18 ULTRACONTACT UC6 95H TL,Continental,4W,12504.0,Only Delivery,False,
+ok,5308.0,5308.0,3.0,False,158.0,,B0C58KVFFY,AP1856015ARTLODLON,Apollo Tyres Amazer 4G Life 185/60 R15 88T Tubeless tyre,Apollo,4W,5466.0,Only Delivery,False,
+ok,,,0.0,,,,B0F4R9K7ZF,YK2556018GATL,YOKOHAMA 255/60 R18 Geolander A/T G015 108H TUBELESS TYRE | Car Tyre for Front and Rear,Yokohama,4W,15760.0,Only Delivery,False,
+ok,1727.0,1727.0,1.0,True,,,B0F4R8FTL4,CE27518GRIXTT,CEAT 2.75-18 GRIPP X5 48P TUBE-TYPE TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,1727.0,Only Delivery,False,
+ok,9179.0,9179.0,1.0,True,,,B0GN2PPZYD,CE2254018SCTL,CEAT 225/40 R18 SPORTDRIVE CALM 92Y XL TUBELESS TYRE,CEAT,4W,9179.0,Only Delivery,False,
+ok,1839.0,1839.0,2.0,True,,160.0,B0F4RBGKC2,CE275518ZPFTT,Ceat Secura Zoom plus 2.75 18 front 48P Tube Type | Car Tyre for Front and Rear,CEAT,2W,1839.0,Only Delivery,False,
+ok,8883.0,8883.0,1.0,True,,,B01L98WFGS,JK2357016RHTL,JK Tyre 235/70 R16 Ranger H/T Tubeless Car Tyre,JK Tyre,4W,8883.0,Only Delivery,False,
+ok,17459.0,17459.0,1.0,True,,,B0GN2M6NWV,CE2555019STTL,CEAT 255/50 R19 SPORTDRIVE SUV CALM 107W XL TUBELESS TYRE,CEAT,4W,17459.0,Only Delivery,False,
+ok,3700.0,3700.0,2.0,False,29.0,,B0F6NCQMSQ,GY1458013APTL,GOODYEAR 145/80 R13 ASSURANCE DURAPLUS 2 75T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3729.0,Only Delivery,False,
+ok,19200.0,19200.0,2.0,False,,,B0F4RD556Q,MISSING - needs manual entry,YOKOHAMA 265/60 R18 Geolander A/T G015 110H TUBELESS TYRE | Car Tyre for Front and Rear,Yokohama,4W,,Only Delivery,False,
+ok,17269.0,17269.0,1.0,True,,,B0GN2QL3PD,CE2355018STTL,CEAT 235/50 R18 SPORTDRIVE SUV CALM 101V XL TUBELESS TYRE,CEAT,4W,17269.0,Only Delivery,False,
+ok,,,0.0,,,,B0F4R97KJZ,YK2255518BETL,YOKOHAMA 225/55 R18 Blue Earth RV02 98V TL | Car Tyre for Front and Rear,Yokohama,4W,14760.0,Only Delivery,False,
+ok,3739.0,3739.0,1.0,True,,,B0GQ365L9Y,CE1557013MXTT,CEAT 155/70 R13 MILAZE X5å 75T TUBE-TYPE TYRE,CEAT,4W,3739.0,Only Delivery,False,
+ok,3649.0,3640.0,5.0,True,,-9.0,B0F28X4K8P,CE1556513MXTL,CEAT 155/65 R13 MILAZE X5 73T TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,3649.0,Only Delivery,False,
+ok,6369.0,6369.0,1.0,True,,,B0F28XRM6T,CE1858516ZETT,CEAT 185/85 R16 MILAZE 105Q LT TUBE-TYPE TYRE | Car Tyre for Front and Rear,CEAT,4W,6369.0,Only Delivery,False,
+ok,,,0.0,,,,B0F28Y9C6R,MISSING - needs manual entry,JK 215/75 R15 BRUTE 10PR 115/113L TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,,Only Delivery,False,
+ok,32699.0,32699.0,1.0,True,,,B0GN2YKD2M,CE2854521STTL,CEAT 285/45 ZR21 SPORTDRIVE SUV CALM 113Y XL TUBELESS TYRE,CEAT,4W,32699.0,Only Delivery,False,
+ok,3289.0,3289.0,1.0,True,,,B0F28XKHB1,CE1408017GRTL,CEAT 140/80 ZR17 GRIPP RAD STEEL (Steel Radial) 69H TUBELESS TYRE | Rear | Car Tyre for Front and Rear,CEAT,2W,3289.0,Only Delivery,False,
+ok,5369.0,5369.0,1.0,True,,,B0F6NC2GHY,GY1756515XATL,GOODYEAR 175/65 R15 ASSURANCE TRIPLEMAX 2 84T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,5369.0,Only Delivery,False,
+ok,18309.0,18309.0,1.0,True,,,B0GN2YCD29,CE2554520STTL,CEAT 255/45 R20 SPORTDRIVE SUV CALM 105W XL TUBELESS TYRE,CEAT,4W,18309.0,Only Delivery,False,
+ok,3129.0,3129.0,5.0,True,,69.0,B0F28TRD94,JK1458012UHTT,JK 145/80 R12 ULTIMA HI^LIFE TUBE-TYPE TYRE | Car Tyre for Front and Rear,JK Tyre,4W,3129.0,Only Delivery,False,
+ok,8500.0,8500.0,1.0,False,,,B0GQ2WJJGT,MISSING - needs manual entry,YOKOHAMA 205/65 R16 EARTH-1 MAX 95H TUBELESS TYRE,Yokohama,4W,,Only Delivery,False,
+ok,,,0.0,,,,B0F28Y57L1,CE1756015SDTLODLON1,CEAT 175/60 R15 SecuraDrive 81H TUBELESS TYRE | Car Tyre for Front and Rear,CEAT,4W,4646.0,Only Delivery,False,
+ok,17870.0,17870.0,2.0,False,209.0,,B0F6NB6T2W,GY2255017EATL,GOODYEAR 225/50 R17 EAG F1 ASY 3 98Y XL RFT TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,18079.0,Only Delivery,False,
+ok,14169.0,14169.0,1.0,True,,,B0GN2V8YWQ,CE2255018SCTL,CEAT 225/50 R18 SPORTDRIVE CALM 99W XL TUBELESS TYRE,CEAT,4W,14169.0,Only Delivery,False,
+ok,11289.0,11289.0,1.0,True,,,B0GN2V6RBG,CE2454517SCTL,CEAT 245/45 R17 SPORTDRIVE CALM 99Y XL TUBELESS TYRE,CEAT,4W,11289.0,Only Delivery,False,
+ok,,,0.0,,,,B0B3DY6GN6,MISSING - needs manual entry,CEAT 3.25-19 SECURA Sport 60P (6PR) Tube-Type TYRE | Rear | Car Tyre for Front and Rear,CEAT,4W,,Only Delivery,False,
+ok,7209.0,9999.0,2.0,True,,2790.0,B07YHZZFM9,GY2157515WRTL,Goodyear Wrangler AT SilentTrac 215/75% R15 100S Tubeless Car Tyre,Goodyear,4W,7209.0,Only Delivery,False,
+ok,,,0.0,,,,B0GN371BL7,CE2357515CETL,CEAT 235/75 R15 CROSSDRIVE AT 116/113R LT TUBELESS TYRE,CEAT,4W,8809.0,Only Delivery,False,
+ok,14449.0,14449.0,1.0,True,,,B0GN2L88XX,CE2454018SCTL,CEAT 245/40 R18 SPORTDRIVE CALM 97Y XL TUBELESS TYRE,CEAT,4W,14449.0,Only Delivery,False,
+ok,25999.0,25999.0,1.0,False,,,B0F6ND8X8X,MISSING - needs manual entry,GOODYEAR 225/50 R18 EAG F1 ASY 3 ROF 95W RFT TYRE | Car Tyre for Front and Rear,Goodyear,4W,,Only Delivery,False,
+ok,2814.0,2814.0,2.0,True,,35.0,B07M9KYM6G,AP1357012AZTLODLON,apollo AMAZER 3G 135/70R12 65S Tubeless Nano Front Tyre,Apollo,4W,2814.0,Only Delivery,False,
+ok,3109.0,3109.0,1.0,True,,,B0F6ND8V93,GY1458012DHTL,GOODYEAR 145/80 R12 DUCARO HI-MILER 74T TUBELESS TYRE | Car Tyre for Front and Rear,Goodyear,4W,3109.0,Only Delivery,False,
+ok,2469.0,2469.0,2.0,True,,0.0,B09442VGVR,CE1009018ZCTT,"100/90-18 ZOOM CRUZ F TT 56H, Black",CEAT,2W,2469.0,Only Delivery,False,
