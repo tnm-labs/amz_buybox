@@ -134,7 +134,9 @@ def compute_metrics(df):
     errors = total - len(ok_df)
     won = ok_df[ok_df["is_buy_box_winner"] == True]
     lost = ok_df[ok_df["is_buy_box_winner"] == False]
-    win_pct = round(100 * len(won) / len(ok_df), 1) if len(ok_df) else 0.0
+    no_buybox_data = ok_df[ok_df["is_buy_box_winner"].isna()]
+    determined = len(won) + len(lost)
+    win_pct = round(100 * len(won) / determined, 1) if determined else 0.0
 
     close_50 = lost[(lost["gap_to_buybox"].notna()) & (lost["gap_to_buybox"] <= CLOSE_GAP_RS)]
     close_100 = lost[(lost["gap_to_buybox"].notna()) & (lost["gap_to_buybox"] > CLOSE_GAP_RS) & (lost["gap_to_buybox"] <= MEDIUM_GAP_RS)]
@@ -145,6 +147,7 @@ def compute_metrics(df):
     return {
         "total_tracked": total,
         "errors": errors,
+        "no_buybox_data": len(no_buybox_data),
         "buy_box_won": len(won),
         "buy_box_lost": len(lost),
         "buy_box_win_pct": win_pct,
@@ -174,13 +177,16 @@ def build_drilldowns(df):
     won = ok[ok["is_buy_box_winner"] == True]
 
     def rows(sub_df):
-        cols = ["ASIN", "Title", "Brand", "Category", "Your_Price", "buy_box_price", "gap_to_buybox", "num_offers"]
+        cols = ["ASIN", "Title", "Brand", "Category", "Your_Price", "buy_box_price", "gap_to_buybox", "num_offers", "Product_URL"]
         return sub_df[cols].fillna("").to_dict(orient="records")
+
+    no_data = ok[ok["is_buy_box_winner"].isna()]
 
     return {
         "total": rows(df),
         "won": rows(won),
         "lost": rows(lost),
+        "no_buybox_data": rows(no_data),
         "close_50": rows(lost[(lost["gap_to_buybox"].notna()) & (lost["gap_to_buybox"] <= CLOSE_GAP_RS)]),
         "close_100": rows(lost[(lost["gap_to_buybox"].notna()) & (lost["gap_to_buybox"] > CLOSE_GAP_RS) & (lost["gap_to_buybox"] <= MEDIUM_GAP_RS)]),
         "far_100": rows(lost[(lost["gap_to_buybox"].notna()) & (lost["gap_to_buybox"] > MEDIUM_GAP_RS)]),
@@ -221,6 +227,7 @@ def render_tab_content(tab_id, metrics, brand_bd, category_bd, priority_rows, pr
         card("Far (over Rs 100)", metrics["far_from_winning_over_100"], "gap over Rs 100", "far_100"),
         card("Room to raise price", metrics["won_with_headroom_over_100"], "winning by over Rs 100", "headroom"),
         card("Single-offer", metrics["single_offer_listings"], "no real competition", "single_offer"),
+        card("No buy box data", metrics["no_buybox_data"], "Amazon returned no buy box price", "no_buybox_data"),
         card("Fetch errors", metrics["errors"], "failed to fetch", "errors"),
     ])
 
@@ -238,9 +245,11 @@ def render_tab_content(tab_id, metrics, brand_bd, category_bd, priority_rows, pr
         won = r.get("is_buy_box_winner") == True
         status_label = "Won" if won else ("Error" if r.get("status") != "ok" else "Lost")
         row_style = "" if won else 'style="background: #fdeaea;"'
+        url = r.get('Product_URL', '')
+        asin_cell = f'<a href="{url}" target="_blank" rel="noopener">{r.get("ASIN","")}</a>' if url else r.get('ASIN', '')
         priority_rows_html += f"""<tr {row_style}>
             <td>{str(r.get('Title',''))[:55]}</td>
-            <td>{r.get('ASIN','')}</td>
+            <td>{asin_cell}</td>
             <td>{r.get('Brand','')}</td>
             <td>{r.get('Category','')}</td>
             <td>{r.get('Your_Price','')}</td>
@@ -288,7 +297,8 @@ def render_tab_content(tab_id, metrics, brand_bd, category_bd, priority_rows, pr
 
 
 def render_dashboard(top50_metrics, top50_brand_bd, top50_cat_bd, top50_drilldowns, top50_priority_rows,
-                      all_metrics, all_brand_bd, all_cat_bd, all_drilldowns, all_priority_rows):
+                      all_metrics, all_brand_bd, all_cat_bd, all_drilldowns, all_priority_rows,
+                      fitment_excluded_count=0):
     generated_at = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %Z")
 
     top50_content = render_tab_content("top50", top50_metrics, top50_brand_bd, top50_cat_bd,
@@ -330,6 +340,8 @@ def render_dashboard(top50_metrics, top50_brand_bd, top50_cat_bd, top50_drilldow
   .drilldown-panel {{ display: none; background: white; border-radius: 8px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); margin-bottom: 24px; }}
   .drilldown-header {{ margin: 0 0 12px 0; display: flex; justify-content: space-between; align-items: center; font-weight: bold; }}
   .drilldown-close {{ cursor: pointer; color: #2F5496; font-size: 13px; font-weight: normal; }}
+  a {{ color: #2F5496; text-decoration: none; }}
+  a:hover {{ text-decoration: underline; }}
 </style>
 </head>
 <body>
@@ -354,6 +366,10 @@ def render_dashboard(top50_metrics, top50_brand_bd, top50_cat_bd, top50_drilldow
     the next cheapest offer is priced more than Rs {HEADROOM_RS} above you. Buy box winner
     status is determined by comparing your known listed price to the buy box price Amazon
     returns, since Amazon does not reliably identify your own offer in the response.
+    {fitment_excluded_count} Fitment/Installation listings are excluded from all metrics above
+    since these are exclusive to us and not subject to Buy Box competition. "Latched On" listings
+    are included in metrics since they are live, independently competitive ASINs. Click any ASIN
+    to open its Amazon listing directly.
   </p>
 
 <script>
@@ -380,7 +396,10 @@ function showDrilldown(tabId, key, label) {{
     let html = '<table><tr><th>Title</th><th>ASIN</th><th>Brand</th><th>Category</th>' +
                '<th>Your price</th><th>Buy box price</th><th>Gap</th></tr>';
     rows.forEach(r => {{
-      html += '<tr><td>' + String(r.Title || '').slice(0, 55) + '</td><td>' + r.ASIN +
+      const asinCell = r.Product_URL
+        ? '<a href="' + r.Product_URL + '" target="_blank" rel="noopener">' + r.ASIN + '</a>'
+        : r.ASIN;
+      html += '<tr><td>' + String(r.Title || '').slice(0, 55) + '</td><td>' + asinCell +
               '</td><td>' + (r.Brand || '') + '</td><td>' + (r.Category || '') +
               '</td><td>' + (r.Your_Price || '') + '</td><td>' + (r.buy_box_price || '') +
               '</td><td>' + (r.gap_to_buybox !== undefined ? r.gap_to_buybox : '') + '</td></tr>';
@@ -408,29 +427,48 @@ def main():
 
     listings = pd.read_csv(LISTINGS_FILE, dtype={"ASIN": str})
     listings["Is_Top_50"] = listings["Is_Top_50"].astype(str).str.lower().isin(["true", "1", "yes"])
-    print(f"Loaded {len(listings)} listings from {LISTINGS_FILE}")
+    print(f"Loaded {len(listings)} listing rows ({listings['ASIN'].nunique()} unique ASINs) from {LISTINGS_FILE}")
 
     client = Products(marketplace=MARKETPLACE, credentials=creds)
+
+    # Fetch once per unique ASIN (multiple SKU rows can share the same ASIN) to
+    # minimize API calls and stay well within Amazon's rate limit
+    unique_asins = listings.drop_duplicates(subset="ASIN")[["ASIN", "Your_Price"]].reset_index(drop=True)
+    asin_results = {}
+    for i, row in unique_asins.iterrows():
+        asin = row["ASIN"]
+        print(f"[{i+1}/{len(unique_asins)}] Fetching {asin}...")
+        asin_results[asin] = fetch_offer_data(client, asin, row["Your_Price"])
+        if i < len(unique_asins) - 1:
+            time.sleep(DELAY_BETWEEN_CALLS)
 
     records = []
     for i, row in listings.iterrows():
         asin = row["ASIN"]
-        print(f"[{i+1}/{len(listings)}] Fetching {asin}...")
-        data = fetch_offer_data(client, asin, row["Your_Price"])
+        data = dict(asin_results[asin])
         data.update({
             "ASIN": asin,
+            "SKU": row["SKU"],
             "Title": row["Title"],
             "Brand": row.get("Brand", "Unknown"),
             "Category": row.get("Category", "Unknown"),
             "Your_Price": row["Your_Price"],
             "Listing_Type": row["Listing_Type"],
             "Is_Top_50": bool(row["Is_Top_50"]),
+            "Product_URL": row.get("Product_URL", ""),
         })
         records.append(data)
-        if i < len(listings) - 1:
-            time.sleep(DELAY_BETWEEN_CALLS)
 
     df = pd.DataFrame(records)
+
+    # Fitment/Installation listings are effectively exclusive to us (no other seller
+    # can offer the same fitment service tied to the listing), so Buy Box competition
+    # doesn't meaningfully apply - exclude them from all Buy Box metrics.
+    fitment_excluded = df[df["Listing_Type"] == "Fitment/Installation"].copy()
+    df = df[df["Listing_Type"] != "Fitment/Installation"].copy()
+    print(f"\nExcluded {len(fitment_excluded)} Fitment/Installation listings from Buy Box metrics "
+          f"(exclusive to us, not competitive).")
+
     top50_df = df[df["Is_Top_50"] == True].copy()
 
     top50_metrics = compute_metrics(top50_df)
@@ -463,7 +501,8 @@ def main():
         history_row.to_csv(HISTORY_FILE, index=False)
 
     html = render_dashboard(top50_metrics, top50_brand_bd, top50_cat_bd, top50_drilldowns, top50_priority_rows,
-                             all_metrics, all_brand_bd, all_cat_bd, all_drilldowns, all_priority_rows)
+                             all_metrics, all_brand_bd, all_cat_bd, all_drilldowns, all_priority_rows,
+                             fitment_excluded_count=len(fitment_excluded))
     os.makedirs(os.path.dirname(DASHBOARD_FILE), exist_ok=True)
     with open(DASHBOARD_FILE, "w") as f:
         f.write(html)
