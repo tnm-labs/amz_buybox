@@ -13,6 +13,7 @@ permissions:
 jobs:
   update-dashboard:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -38,6 +39,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/details.csv data/history.csv
+          git add docs/index.html docs/details.csv data/history.csv data/listings_raw_cache.csv
           git diff --quiet --cached || git commit -m "Auto-update dashboard $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
