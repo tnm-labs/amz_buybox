@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install python-amazon-sp-api pandas requests
+        run: pip install python-amazon-sp-api pandas requests openpyxl
 
       - name: Run dashboard generator
         env:
