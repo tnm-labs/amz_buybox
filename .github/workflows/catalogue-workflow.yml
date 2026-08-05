@@ -1,0 +1,43 @@
+name: Update TNM Catalogue Dashboard
+
+on:
+  # Runs daily right after the Buy Box dashboard (which produces data/details.csv)
+  schedule:
+    - cron: '0 4 * * *'   # 4:00 UTC = 9:30 AM IST, 30 min after the Buy Box run
+  # Automatically re-runs the moment anyone uploads a new Flipkart file or
+  # updates the master catalogue - no need to wait for the next scheduled run
+  push:
+    paths:
+      - 'data/fk_listing_latest.xls'
+      - 'data/Marketplace_Catalogue_Master.xlsx'
+  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas openpyxl xlrd
+
+      - name: Run catalogue dashboard generator
+        run: python generate_catalogue_dashboard.py
+
+      - name: Commit and push updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/catalogue.html
+          git diff --quiet --cached || git commit -m "Auto-update catalogue dashboard $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
